@@ -1,0 +1,1956 @@
+segment,SA2_NAME21,GCC_NAME21,fraction,new_name
+1,Deakin,Australian Capital Territory,0.0034423407917383822,"1 High education and income, focus on health"
+1,Red Hill (ACT),Australian Capital Territory,0.0034423407917383822,"1 High education and income, focus on health"
+1,Yarralumla,Australian Capital Territory,0.0034423407917383822,"1 High education and income, focus on health"
+1,Garran,Australian Capital Territory,0.0017211703958691911,"1 High education and income, focus on health"
+1,North Adelaide,Greater Adelaide,0.01549053356282272,"1 High education and income, focus on health"
+1,Burnside - Wattle Park,Greater Adelaide,0.012048192771084338,"1 High education and income, focus on health"
+1,Toorak Gardens,Greater Adelaide,0.012048192771084338,"1 High education and income, focus on health"
+1,St Peters - Marden,Greater Adelaide,0.012048192771084338,"1 High education and income, focus on health"
+1,Carindale,Greater Brisbane,0.0034423407917383822,"1 High education and income, focus on health"
+1,Fig Tree Pocket,Greater Brisbane,0.0034423407917383822,"1 High education and income, focus on health"
+1,St Lucia,Greater Brisbane,0.0034423407917383822,"1 High education and income, focus on health"
+1,New Farm,Greater Brisbane,0.0034423407917383822,"1 High education and income, focus on health"
+1,Nightcliff,Greater Darwin,0.0017211703958691911,"1 High education and income, focus on health"
+1,Sandy Bay,Greater Hobart,0.0034423407917383822,"1 High education and income, focus on health"
+1,Hobart,Greater Hobart,0.0017211703958691911,"1 High education and income, focus on health"
+1,South Hobart - Fern Tree,Greater Hobart,0.0017211703958691911,"1 High education and income, focus on health"
+1,Balwyn North,Greater Melbourne,0.01721170395869191,"1 High education and income, focus on health"
+1,Kew - South,Greater Melbourne,0.01549053356282272,"1 High education and income, focus on health"
+1,Brighton (Vic.),Greater Melbourne,0.01549053356282272,"1 High education and income, focus on health"
+1,Caulfield - North,Greater Melbourne,0.013769363166953529,"1 High education and income, focus on health"
+1,Nedlands - Dalkeith - Crawley,Greater Perth,0.027538726333907058,"1 High education and income, focus on health"
+1,Subiaco - Shenton Park,Greater Perth,0.022375215146299483,"1 High education and income, focus on health"
+1,Floreat,Greater Perth,0.012048192771084338,"1 High education and income, focus on health"
+1,South Perth - Kensington,Greater Perth,0.012048192771084338,"1 High education and income, focus on health"
+1,Lindfield - Roseville,Greater Sydney,0.01721170395869191,"1 High education and income, focus on health"
+1,Gordon - Killara,Greater Sydney,0.01549053356282272,"1 High education and income, focus on health"
+1,St Ives,Greater Sydney,0.01549053356282272,"1 High education and income, focus on health"
+1,Bellevue Hill,Greater Sydney,0.012048192771084338,"1 High education and income, focus on health"
+1,Merewether - The Junction,Rest of NSW,0.012048192771084338,"1 High education and income, focus on health"
+1,Lambton - New Lambton,Rest of NSW,0.0051635111876075735,"1 High education and income, focus on health"
+1,Newcastle - Cooks Hill,Rest of NSW,0.0051635111876075735,"1 High education and income, focus on health"
+1,Coffs Harbour - South,Rest of NSW,0.0017211703958691911,"1 High education and income, focus on health"
+1,East Side,Rest of NT,0.0017211703958691911,"1 High education and income, focus on health"
+1,Nhulunbuy,Rest of NT,0.0017211703958691911,"1 High education and income, focus on health"
+1,Toowoomba - East,Rest of Qld,0.0068846815834767644,"1 High education and income, focus on health"
+1,Whitfield - Edge Hill,Rest of Qld,0.0051635111876075735,"1 High education and income, focus on health"
+1,Annandale (Qld),Rest of Qld,0.0051635111876075735,"1 High education and income, focus on health"
+1,The Range - Allenstown,Rest of Qld,0.0034423407917383822,"1 High education and income, focus on health"
+1,Goolwa - Port Elliot,Rest of SA,0.0017211703958691911,"1 High education and income, focus on health"
+1,Murray Bridge,Rest of SA,0.0017211703958691911,"1 High education and income, focus on health"
+1,Launceston,Rest of Tas.,0.0034423407917383822,"1 High education and income, focus on health"
+1,Riverside,Rest of Tas.,0.0017211703958691911,"1 High education and income, focus on health"
+1,Parklands - Camdale,Rest of Tas.,0.0017211703958691911,"1 High education and income, focus on health"
+1,Ballarat,Rest of Vic.,0.0068846815834767644,"1 High education and income, focus on health"
+1,Bendigo,Rest of Vic.,0.0051635111876075735,"1 High education and income, focus on health"
+1,Geelong,Rest of Vic.,0.0051635111876075735,"1 High education and income, focus on health"
+1,Highton,Rest of Vic.,0.0034423407917383822,"1 High education and income, focus on health"
+1,Dalyellup,Rest of WA,0.0017211703958691911,"1 High education and income, focus on health"
+1,Broome,Rest of WA,0.0017211703958691911,"1 High education and income, focus on health"
+1,Ashburton (WA),Rest of WA,0.0017211703958691911,"1 High education and income, focus on health"
+2,Nicholls,Australian Capital Territory,0.003676470588235294,2 High income mature Anglo families
+2,Ainslie,Australian Capital Territory,0.0024509803921568627,2 High income mature Anglo families
+2,O'Connor (ACT),Australian Capital Territory,0.0024509803921568627,2 High income mature Anglo families
+2,Deakin,Australian Capital Territory,0.0024509803921568627,2 High income mature Anglo families
+2,Mitcham (SA),Greater Adelaide,0.011029411764705883,2 High income mature Anglo families
+2,Aldgate - Stirling,Greater Adelaide,0.007352941176470588,2 High income mature Anglo families
+2,Burnside - Wattle Park,Greater Adelaide,0.007352941176470588,2 High income mature Anglo families
+2,Unley - Parkside,Greater Adelaide,0.007352941176470588,2 High income mature Anglo families
+2,Carindale,Greater Brisbane,0.00980392156862745,2 High income mature Anglo families
+2,The Gap,Greater Brisbane,0.007352941176470588,2 High income mature Anglo families
+2,Brookfield - Kenmore Hills,Greater Brisbane,0.004901960784313725,2 High income mature Anglo families
+2,Ashgrove,Greater Brisbane,0.004901960784313725,2 High income mature Anglo families
+2,Sandy Bay,Greater Hobart,0.0024509803921568627,2 High income mature Anglo families
+2,Taroona - Bonnet Hill,Greater Hobart,0.0012254901960784314,2 High income mature Anglo families
+2,West Hobart,Greater Hobart,0.0012254901960784314,2 High income mature Anglo families
+2,Mount Eliza,Greater Melbourne,0.01715686274509804,2 High income mature Anglo families
+2,Beaumaris,Greater Melbourne,0.013480392156862746,2 High income mature Anglo families
+2,Eltham,Greater Melbourne,0.012254901960784314,2 High income mature Anglo families
+2,Camberwell,Greater Melbourne,0.011029411764705883,2 High income mature Anglo families
+2,Karrinyup - Gwelup - Carine,Greater Perth,0.014705882352941176,2 High income mature Anglo families
+2,Melville,Greater Perth,0.00857843137254902,2 High income mature Anglo families
+2,Mount Lawley - Inglewood,Greater Perth,0.007352941176470588,2 High income mature Anglo families
+2,Wembley - West Leederville - Glendalough,Greater Perth,0.007352941176470588,2 High income mature Anglo families
+2,Forestville - Killarney Heights,Greater Sydney,0.014705882352941176,2 High income mature Anglo families
+2,Mona Vale - Warriewood (North),Greater Sydney,0.013480392156862746,2 High income mature Anglo families
+2,Pennant Hills - Cheltenham,Greater Sydney,0.012254901960784314,2 High income mature Anglo families
+2,Pymble,Greater Sydney,0.011029411764705883,2 High income mature Anglo families
+2,Thirroul - Austinmer - Coalcliff,Rest of NSW,0.00857843137254902,2 High income mature Anglo families
+2,Unanderra - Mount Kembla,Rest of NSW,0.004901960784313725,2 High income mature Anglo families
+2,Figtree - Keiraville,Rest of NSW,0.004901960784313725,2 High income mature Anglo families
+2,Lambton - New Lambton,Rest of NSW,0.003676470588235294,2 High income mature Anglo families
+2,Buderim - North,Rest of Qld,0.004901960784313725,2 High income mature Anglo families
+2,Runaway Bay,Rest of Qld,0.0024509803921568627,2 High income mature Anglo families
+2,Buderim - South,Rest of Qld,0.0024509803921568627,2 High income mature Anglo families
+2,Buddina - Minyama,Rest of Qld,0.0024509803921568627,2 High income mature Anglo families
+2,Highton,Rest of Vic.,0.006127450980392157,2 High income mature Anglo families
+2,Torquay,Rest of Vic.,0.003676470588235294,2 High income mature Anglo families
+2,Newtown (Vic.),Rest of Vic.,0.0024509803921568627,2 High income mature Anglo families
+2,Barwon Heads - Armstrong Creek,Rest of Vic.,0.0024509803921568627,2 High income mature Anglo families
+2,Busselton Surrounds,Rest of WA,0.0012254901960784314,2 High income mature Anglo families
+3,Aldgate - Stirling,Greater Adelaide,0.01488833746898263,3 Wealthy lifestylers and entrepreneurs
+3,Burnside - Wattle Park,Greater Adelaide,0.004962779156327543,3 Wealthy lifestylers and entrepreneurs
+3,St Peters - Marden,Greater Adelaide,0.004962779156327543,3 Wealthy lifestylers and entrepreneurs
+3,Unley - Parkside,Greater Adelaide,0.004962779156327543,3 Wealthy lifestylers and entrepreneurs
+3,Belmont - Gumdale,Greater Brisbane,0.004962779156327543,3 Wealthy lifestylers and entrepreneurs
+3,Cleveland,Greater Brisbane,0.004962779156327543,3 Wealthy lifestylers and entrepreneurs
+3,Carindale,Greater Brisbane,0.004962779156327543,3 Wealthy lifestylers and entrepreneurs
+3,Brookfield - Kenmore Hills,Greater Brisbane,0.004962779156327543,3 Wealthy lifestylers and entrepreneurs
+3,Brighton (Vic.),Greater Melbourne,0.02977667493796526,3 Wealthy lifestylers and entrepreneurs
+3,Caulfield - North,Greater Melbourne,0.017369727047146403,3 Wealthy lifestylers and entrepreneurs
+3,Caulfield - South,Greater Melbourne,0.01488833746898263,3 Wealthy lifestylers and entrepreneurs
+3,Surrey Hills (West) - Canterbury,Greater Melbourne,0.01240694789081886,3 Wealthy lifestylers and entrepreneurs
+3,Subiaco - Shenton Park,Greater Perth,0.004962779156327543,3 Wealthy lifestylers and entrepreneurs
+3,Wembley - West Leederville - Glendalough,Greater Perth,0.004962779156327543,3 Wealthy lifestylers and entrepreneurs
+3,Sorrento - Marmion,Greater Perth,0.004962779156327543,3 Wealthy lifestylers and entrepreneurs
+3,City Beach,Greater Perth,0.0024813895781637717,3 Wealthy lifestylers and entrepreneurs
+3,Balgowlah - Clontarf - Seaforth,Greater Sydney,0.02481389578163772,3 Wealthy lifestylers and entrepreneurs
+3,Dural - Kenthurst - Wisemans Ferry,Greater Sydney,0.019851116625310174,3 Wealthy lifestylers and entrepreneurs
+3,Bellevue Hill,Greater Sydney,0.019851116625310174,3 Wealthy lifestylers and entrepreneurs
+3,Mosman - South,Greater Sydney,0.017369727047146403,3 Wealthy lifestylers and entrepreneurs
+3,Bowral,Rest of NSW,0.017369727047146403,3 Wealthy lifestylers and entrepreneurs
+3,Lennox Head - Skennars Head,Rest of NSW,0.009925558312655087,3 Wealthy lifestylers and entrepreneurs
+3,Brunswick Heads - Ocean Shores,Rest of NSW,0.007444168734491315,3 Wealthy lifestylers and entrepreneurs
+3,Thirroul - Austinmer - Coalcliff,Rest of NSW,0.004962779156327543,3 Wealthy lifestylers and entrepreneurs
+3,Noosaville,Rest of Qld,0.007444168734491315,3 Wealthy lifestylers and entrepreneurs
+3,Runaway Bay,Rest of Qld,0.004962779156327543,3 Wealthy lifestylers and entrepreneurs
+3,Tamborine - Canungra,Rest of Qld,0.004962779156327543,3 Wealthy lifestylers and entrepreneurs
+3,Main Beach,Rest of Qld,0.004962779156327543,3 Wealthy lifestylers and entrepreneurs
+3,Jamestown,Rest of SA,0.0024813895781637717,3 Wealthy lifestylers and entrepreneurs
+3,Goolwa - Port Elliot,Rest of SA,0.0024813895781637717,3 Wealthy lifestylers and entrepreneurs
+3,Loxton,Rest of SA,0.0024813895781637717,3 Wealthy lifestylers and entrepreneurs
+3,Grindelwald - Lanena,Rest of Tas.,0.0024813895781637717,3 Wealthy lifestylers and entrepreneurs
+3,Daylesford,Rest of Vic.,0.004962779156327543,3 Wealthy lifestylers and entrepreneurs
+3,Castlemaine,Rest of Vic.,0.004962779156327543,3 Wealthy lifestylers and entrepreneurs
+3,Newtown (Vic.),Rest of Vic.,0.004962779156327543,3 Wealthy lifestylers and entrepreneurs
+3,Castlemaine Surrounds,Rest of Vic.,0.0024813895781637717,3 Wealthy lifestylers and entrepreneurs
+3,Busselton Surrounds,Rest of WA,0.0024813895781637717,3 Wealthy lifestylers and entrepreneurs
+3,Busselton - East,Rest of WA,0.0024813895781637717,3 Wealthy lifestylers and entrepreneurs
+4,Calwell,Australian Capital Territory,0.006211180124223602,4 Comfortable family Anglo-european professionals
+4,Conder,Australian Capital Territory,0.006211180124223602,4 Comfortable family Anglo-european professionals
+4,Ngunnawal,Australian Capital Territory,0.004968944099378882,4 Comfortable family Anglo-european professionals
+4,Kambah,Australian Capital Territory,0.0037267080745341614,4 Comfortable family Anglo-european professionals
+4,Colonel Light Gardens,Greater Adelaide,0.006211180124223602,4 Comfortable family Anglo-european professionals
+4,Aldgate - Stirling,Greater Adelaide,0.0037267080745341614,4 Comfortable family Anglo-european professionals
+4,Mount Barker,Greater Adelaide,0.002484472049689441,4 Comfortable family Anglo-european professionals
+4,Golden Grove,Greater Adelaide,0.002484472049689441,4 Comfortable family Anglo-european professionals
+4,The Hills District,Greater Brisbane,0.017391304347826087,4 Comfortable family Anglo-european professionals
+4,Albany Creek,Greater Brisbane,0.013664596273291925,4 Comfortable family Anglo-european professionals
+4,Thornlands,Greater Brisbane,0.008695652173913044,4 Comfortable family Anglo-european professionals
+4,Cashmere,Greater Brisbane,0.008695652173913044,4 Comfortable family Anglo-european professionals
+4,Humpty Doo,Greater Darwin,0.0037267080745341614,4 Comfortable family Anglo-european professionals
+4,Wulagi,Greater Darwin,0.0012422360248447205,4 Comfortable family Anglo-european professionals
+4,Mordialloc - Parkdale,Greater Melbourne,0.011180124223602485,4 Comfortable family Anglo-european professionals
+4,Wattle Glen - Diamond Creek,Greater Melbourne,0.009937888198757764,4 Comfortable family Anglo-european professionals
+4,Croydon Hills - Warranwood,Greater Melbourne,0.008695652173913044,4 Comfortable family Anglo-european professionals
+4,Eltham,Greater Melbourne,0.007453416149068323,4 Comfortable family Anglo-european professionals
+4,Roleystone,Greater Perth,0.009937888198757764,4 Comfortable family Anglo-european professionals
+4,Bayswater - Embleton - Bedford,Greater Perth,0.007453416149068323,4 Comfortable family Anglo-european professionals
+4,Singleton - Golden Bay - Secret Harbour,Greater Perth,0.007453416149068323,4 Comfortable family Anglo-european professionals
+4,Halls Head - Erskine,Greater Perth,0.006211180124223602,4 Comfortable family Anglo-european professionals
+4,Mount Annan,Greater Sydney,0.01987577639751553,4 Comfortable family Anglo-european professionals
+4,Asquith - Mount Colah,Greater Sydney,0.018633540372670808,4 Comfortable family Anglo-european professionals
+4,Berowra - Brooklyn - Cowan,Greater Sydney,0.012422360248447204,4 Comfortable family Anglo-european professionals
+4,Menai - Lucas Heights - Woronora,Greater Sydney,0.011180124223602485,4 Comfortable family Anglo-european professionals
+4,Queanbeyan West - Jerrabomberra,Rest of NSW,0.009937888198757764,4 Comfortable family Anglo-european professionals
+4,Yass Surrounds,Rest of NSW,0.006211180124223602,4 Comfortable family Anglo-european professionals
+4,Unanderra - Mount Kembla,Rest of NSW,0.004968944099378882,4 Comfortable family Anglo-european professionals
+4,Shellharbour - Flinders,Rest of NSW,0.004968944099378882,4 Comfortable family Anglo-european professionals
+4,Katherine,Rest of NT,0.0012422360248447205,4 Comfortable family Anglo-european professionals
+4,Redlynch,Rest of Qld,0.011180124223602485,4 Comfortable family Anglo-european professionals
+4,Mudgeeraba - Bonogin,Rest of Qld,0.008695652173913044,4 Comfortable family Anglo-european professionals
+4,Yeppoon,Rest of Qld,0.004968944099378882,4 Comfortable family Anglo-european professionals
+4,Eimeo - Rural View,Rest of Qld,0.004968944099378882,4 Comfortable family Anglo-european professionals
+4,Highton,Rest of Vic.,0.0037267080745341614,4 Comfortable family Anglo-european professionals
+4,Torquay,Rest of Vic.,0.0037267080745341614,4 Comfortable family Anglo-european professionals
+4,Alfredton,Rest of Vic.,0.0012422360248447205,4 Comfortable family Anglo-european professionals
+4,Strathfieldsaye,Rest of Vic.,0.0012422360248447205,4 Comfortable family Anglo-european professionals
+4,Dalyellup,Rest of WA,0.006211180124223602,4 Comfortable family Anglo-european professionals
+4,Australind - Leschenault,Rest of WA,0.0037267080745341614,4 Comfortable family Anglo-european professionals
+4,Eaton - Pelican Point,Rest of WA,0.0037267080745341614,4 Comfortable family Anglo-european professionals
+4,Busselton - East,Rest of WA,0.002484472049689441,4 Comfortable family Anglo-european professionals
+5,Nicholls,Australian Capital Territory,0.005082592121982211,5 Comfortable grown up families in separate houses
+5,Wanniassa,Australian Capital Territory,0.0038119440914866584,5 Comfortable grown up families in separate houses
+5,Duffy,Australian Capital Territory,0.0038119440914866584,5 Comfortable grown up families in separate houses
+5,Monash,Australian Capital Territory,0.0025412960609911056,5 Comfortable grown up families in separate houses
+5,Hallett Cove,Greater Adelaide,0.011435832274459974,5 Comfortable grown up families in separate houses
+5,Marino - Seaview Downs,Greater Adelaide,0.010165184243964422,5 Comfortable grown up families in separate houses
+5,Flagstaff Hill,Greater Adelaide,0.007623888182973317,5 Comfortable grown up families in separate houses
+5,Aldgate - Stirling,Greater Adelaide,0.0063532401524777635,5 Comfortable grown up families in separate houses
+5,The Gap,Greater Brisbane,0.011435832274459974,5 Comfortable grown up families in separate houses
+5,Albany Creek,Greater Brisbane,0.005082592121982211,5 Comfortable grown up families in separate houses
+5,Aspley,Greater Brisbane,0.0038119440914866584,5 Comfortable grown up families in separate houses
+5,Bracken Ridge,Greater Brisbane,0.0038119440914866584,5 Comfortable grown up families in separate houses
+5,Cambridge,Greater Hobart,0.0012706480304955528,5 Comfortable grown up families in separate houses
+5,Lenah Valley - Mount Stuart,Greater Hobart,0.0012706480304955528,5 Comfortable grown up families in separate houses
+5,Eltham,Greater Melbourne,0.016518424396442185,5 Comfortable grown up families in separate houses
+5,Greensborough,Greater Melbourne,0.012706480304955527,5 Comfortable grown up families in separate houses
+5,Croydon Hills - Warranwood,Greater Melbourne,0.008894536213468869,5 Comfortable grown up families in separate houses
+5,Rowville - South,Greater Melbourne,0.0063532401524777635,5 Comfortable grown up families in separate houses
+5,Kingsley,Greater Perth,0.015247776365946633,5 Comfortable grown up families in separate houses
+5,Duncraig,Greater Perth,0.01397712833545108,5 Comfortable grown up families in separate houses
+5,Woodvale,Greater Perth,0.010165184243964422,5 Comfortable grown up families in separate houses
+5,Mundaring,Greater Perth,0.008894536213468869,5 Comfortable grown up families in separate houses
+5,Menai - Lucas Heights - Woronora,Greater Sydney,0.021601016518424398,5 Comfortable grown up families in separate houses
+5,Asquith - Mount Colah,Greater Sydney,0.01397712833545108,5 Comfortable grown up families in separate houses
+5,Berowra - Brooklyn - Cowan,Greater Sydney,0.011435832274459974,5 Comfortable grown up families in separate houses
+5,Baulkham Hills (West) - Bella Vista,Greater Sydney,0.010165184243964422,5 Comfortable grown up families in separate houses
+5,Unanderra - Mount Kembla,Rest of NSW,0.012706480304955527,5 Comfortable grown up families in separate houses
+5,Figtree - Keiraville,Rest of NSW,0.012706480304955527,5 Comfortable grown up families in separate houses
+5,Shellharbour - Flinders,Rest of NSW,0.005082592121982211,5 Comfortable grown up families in separate houses
+5,Karabar,Rest of NSW,0.0038119440914866584,5 Comfortable grown up families in separate houses
+5,Noosa Hinterland,Rest of Qld,0.005082592121982211,5 Comfortable grown up families in separate houses
+5,Nerang - Mount Nathan,Rest of Qld,0.0038119440914866584,5 Comfortable grown up families in separate houses
+5,Robina - East,Rest of Qld,0.0038119440914866584,5 Comfortable grown up families in separate houses
+5,Buderim - North,Rest of Qld,0.0038119440914866584,5 Comfortable grown up families in separate houses
+5,Tatiara,Rest of SA,0.0012706480304955528,5 Comfortable grown up families in separate houses
+5,Wattle Range,Rest of SA,0.0012706480304955528,5 Comfortable grown up families in separate houses
+5,Legana,Rest of Tas.,0.0012706480304955528,5 Comfortable grown up families in separate houses
+5,Highton,Rest of Vic.,0.008894536213468869,5 Comfortable grown up families in separate houses
+5,Woodend,Rest of Vic.,0.0025412960609911056,5 Comfortable grown up families in separate houses
+5,Strathfieldsaye,Rest of Vic.,0.0012706480304955528,5 Comfortable grown up families in separate houses
+5,Leopold,Rest of Vic.,0.0012706480304955528,5 Comfortable grown up families in separate houses
+5,Australind - Leschenault,Rest of WA,0.0038119440914866584,5 Comfortable grown up families in separate houses
+5,Chittering,Rest of WA,0.0025412960609911056,5 Comfortable grown up families in separate houses
+5,Busselton Surrounds,Rest of WA,0.0012706480304955528,5 Comfortable grown up families in separate houses
+5,Waroona,Rest of WA,0.0012706480304955528,5 Comfortable grown up families in separate houses
+6,Dunlop,Australian Capital Territory,0.0076824583866837385,6 Second generation fringe lifestyle
+6,Casey,Australian Capital Territory,0.005121638924455826,6 Second generation fringe lifestyle
+6,Banks,Australian Capital Territory,0.0038412291933418692,6 Second generation fringe lifestyle
+6,Macgregor (ACT),Australian Capital Territory,0.002560819462227913,6 Second generation fringe lifestyle
+6,Davoren Park,Greater Adelaide,0.006402048655569782,6 Second generation fringe lifestyle
+6,Nairne,Greater Adelaide,0.005121638924455826,6 Second generation fringe lifestyle
+6,Craigmore - Blakeview,Greater Adelaide,0.005121638924455826,6 Second generation fringe lifestyle
+6,Woodcroft,Greater Adelaide,0.0038412291933418692,6 Second generation fringe lifestyle
+6,Narangba,Greater Brisbane,0.011523687580025609,6 Second generation fringe lifestyle
+6,Loganholme - Tanah Merah,Greater Brisbane,0.010243277848911651,6 Second generation fringe lifestyle
+6,Jimboomba - Glenlogan,Greater Brisbane,0.0076824583866837385,6 Second generation fringe lifestyle
+6,Bellbowrie - Moggill,Greater Brisbane,0.005121638924455826,6 Second generation fringe lifestyle
+6,Humpty Doo,Greater Darwin,0.002560819462227913,6 Second generation fringe lifestyle
+6,Wallan,Greater Melbourne,0.008962868117797696,6 Second generation fringe lifestyle
+6,Berwick - South East,Greater Melbourne,0.008962868117797696,6 Second generation fringe lifestyle
+6,Pakenham - South West,Greater Melbourne,0.0076824583866837385,6 Second generation fringe lifestyle
+6,Doreen - North,Greater Melbourne,0.006402048655569782,6 Second generation fringe lifestyle
+6,Baldivis - South,Greater Perth,0.03201024327784891,6 Second generation fringe lifestyle
+6,Butler - Merriwa - Ridgewood,Greater Perth,0.026888604353393086,6 Second generation fringe lifestyle
+6,Byford,Greater Perth,0.023047375160051217,6 Second generation fringe lifestyle
+6,Carramar,Greater Perth,0.02176696542893726,6 Second generation fringe lifestyle
+6,Spring Farm,Greater Sydney,0.008962868117797696,6 Second generation fringe lifestyle
+6,Currans Hill,Greater Sydney,0.0076824583866837385,6 Second generation fringe lifestyle
+6,Cranebrook - Castlereagh,Greater Sydney,0.0076824583866837385,6 Second generation fringe lifestyle
+6,Kellyville Ridge - The Ponds,Greater Sydney,0.006402048655569782,6 Second generation fringe lifestyle
+6,Thornton - Millers Forest,Rest of NSW,0.0076824583866837385,6 Second generation fringe lifestyle
+6,Horsley - Kembla Grange,Rest of NSW,0.0076824583866837385,6 Second generation fringe lifestyle
+6,Albion Park - Macquarie Pass,Rest of NSW,0.0076824583866837385,6 Second generation fringe lifestyle
+6,Edgeworth - Cameron Park,Rest of NSW,0.0076824583866837385,6 Second generation fringe lifestyle
+6,Pacific Pines - Gaven,Rest of Qld,0.010243277848911651,6 Second generation fringe lifestyle
+6,Ormeau (East) - Stapylton,Rest of Qld,0.008962868117797696,6 Second generation fringe lifestyle
+6,Upper Coomera - North,Rest of Qld,0.008962868117797696,6 Second generation fringe lifestyle
+6,Redlynch,Rest of Qld,0.006402048655569782,6 Second generation fringe lifestyle
+6,Light,Rest of SA,0.0012804097311139564,6 Second generation fringe lifestyle
+6,Lara,Rest of Vic.,0.0076824583866837385,6 Second generation fringe lifestyle
+6,Highton,Rest of Vic.,0.0038412291933418692,6 Second generation fringe lifestyle
+6,Wendouree - Miners Rest,Rest of Vic.,0.002560819462227913,6 Second generation fringe lifestyle
+6,Leopold,Rest of Vic.,0.002560819462227913,6 Second generation fringe lifestyle
+6,Australind - Leschenault,Rest of WA,0.005121638924455826,6 Second generation fringe lifestyle
+6,Kalgoorlie,Rest of WA,0.0038412291933418692,6 Second generation fringe lifestyle
+6,Eaton - Pelican Point,Rest of WA,0.002560819462227913,6 Second generation fringe lifestyle
+6,McKail - Willyung,Rest of WA,0.002560819462227913,6 Second generation fringe lifestyle
+7,Bonner,Australian Capital Territory,0.009398496240601503,7 Millenium migrants starting families
+7,Franklin,Australian Capital Territory,0.005639097744360902,7 Millenium migrants starting families
+7,Gungahlin,Australian Capital Territory,0.0037593984962406013,7 Millenium migrants starting families
+7,Coombs,Australian Capital Territory,0.0037593984962406013,7 Millenium migrants starting families
+7,Parafield Gardens,Greater Adelaide,0.005639097744360902,7 Millenium migrants starting families
+7,Northgate - Northfield,Greater Adelaide,0.0037593984962406013,7 Millenium migrants starting families
+7,Paralowie,Greater Adelaide,0.0037593984962406013,7 Millenium migrants starting families
+7,Windsor Gardens,Greater Adelaide,0.0018796992481203006,7 Millenium migrants starting families
+7,Parkinson - Drewvale,Greater Brisbane,0.015037593984962405,7 Millenium migrants starting families
+7,Forest Lake - Ellen Grove,Greater Brisbane,0.011278195488721804,7 Millenium migrants starting families
+7,North Lakes,Greater Brisbane,0.007518796992481203,7 Millenium migrants starting families
+7,Mango Hill,Greater Brisbane,0.005639097744360902,7 Millenium migrants starting families
+7,Karama,Greater Darwin,0.0018796992481203006,7 Millenium migrants starting families
+7,Narre Warren South - West,Greater Melbourne,0.02631578947368421,7 Millenium migrants starting families
+7,Tarneit - Central,Greater Melbourne,0.02631578947368421,7 Millenium migrants starting families
+7,Point Cook - North East,Greater Melbourne,0.022556390977443608,7 Millenium migrants starting families
+7,Lynbrook - Lyndhurst,Greater Melbourne,0.020676691729323307,7 Millenium migrants starting families
+7,Madeley - Darch,Greater Perth,0.015037593984962405,7 Millenium migrants starting families
+7,Beechboro,Greater Perth,0.009398496240601503,7 Millenium migrants starting families
+7,Alexander Heights - Koondoola,Greater Perth,0.007518796992481203,7 Millenium migrants starting families
+7,Piara Waters - Forrestdale,Greater Perth,0.007518796992481203,7 Millenium migrants starting families
+7,Prestons,Greater Sydney,0.03383458646616541,7 Millenium migrants starting families
+7,Quakers Hill,Greater Sydney,0.02631578947368421,7 Millenium migrants starting families
+7,West Hoxton - Middleton Grange,Greater Sydney,0.02443609022556391,7 Millenium migrants starting families
+7,Kellyville Ridge - The Ponds,Greater Sydney,0.020676691729323307,7 Millenium migrants starting families
+7,Maryland - Fletcher - Minmi,Rest of NSW,0.0018796992481203006,7 Millenium migrants starting families
+7,Molendinar,Rest of Qld,0.0037593984962406013,7 Millenium migrants starting families
+8,Kingston (ACT),Australian Capital Territory,0.002628120893561104,8 Higher income early career lifestylers
+8,Ainslie,Australian Capital Territory,0.001314060446780552,8 Higher income early career lifestylers
+8,Lyneham,Australian Capital Territory,0.001314060446780552,8 Higher income early career lifestylers
+8,Campbell,Australian Capital Territory,0.001314060446780552,8 Higher income early career lifestylers
+8,Norwood (SA),Greater Adelaide,0.005256241787122208,8 Higher income early career lifestylers
+8,Unley - Parkside,Greater Adelaide,0.005256241787122208,8 Higher income early career lifestylers
+8,Adelaide,Greater Adelaide,0.003942181340341655,8 Higher income early career lifestylers
+8,Goodwood - Millswood,Greater Adelaide,0.003942181340341655,8 Higher income early career lifestylers
+8,New Farm,Greater Brisbane,0.010512483574244415,8 Higher income early career lifestylers
+8,Kedron - Gordon Park,Greater Brisbane,0.00788436268068331,8 Higher income early career lifestylers
+8,Coorparoo,Greater Brisbane,0.00788436268068331,8 Higher income early career lifestylers
+8,Clayfield,Greater Brisbane,0.00788436268068331,8 Higher income early career lifestylers
+8,Woolner - Bayview - Winnellie,Greater Darwin,0.002628120893561104,8 Higher income early career lifestylers
+8,Nightcliff,Greater Darwin,0.001314060446780552,8 Higher income early career lifestylers
+8,Hobart,Greater Hobart,0.001314060446780552,8 Higher income early career lifestylers
+8,Elwood,Greater Melbourne,0.022339027595269383,8 Higher income early career lifestylers
+8,Richmond (South) - Cremorne,Greater Melbourne,0.01971090670170828,8 Higher income early career lifestylers
+8,Prahran - Windsor,Greater Melbourne,0.01576872536136662,8 Higher income early career lifestylers
+8,Caulfield - North,Greater Melbourne,0.013140604467805518,8 Higher income early career lifestylers
+8,Scarborough,Greater Perth,0.009198423127463863,8 Higher income early career lifestylers
+8,South Perth - Kensington,Greater Perth,0.009198423127463863,8 Higher income early career lifestylers
+8,Como,Greater Perth,0.00788436268068331,8 Higher income early career lifestylers
+8,Subiaco - Shenton Park,Greater Perth,0.006570302233902759,8 Higher income early career lifestylers
+8,Randwick - North,Greater Sydney,0.023653088042049936,8 Higher income early career lifestylers
+8,Coogee - Clovelly,Greater Sydney,0.02102496714848883,8 Higher income early career lifestylers
+8,Freshwater - Brookvale,Greater Sydney,0.01971090670170828,8 Higher income early career lifestylers
+8,Petersham - Stanmore,Greater Sydney,0.018396846254927726,8 Higher income early career lifestylers
+8,Merewether - The Junction,Rest of NSW,0.003942181340341655,8 Higher income early career lifestylers
+8,Newcastle - Cooks Hill,Rest of NSW,0.003942181340341655,8 Higher income early career lifestylers
+8,Balgownie - Fairy Meadow,Rest of NSW,0.001314060446780552,8 Higher income early career lifestylers
+8,Warners Bay - Boolaroo,Rest of NSW,0.001314060446780552,8 Higher income early career lifestylers
+8,Townsville City - North Ward,Rest of Qld,0.005256241787122208,8 Higher income early career lifestylers
+8,Hope Island,Rest of Qld,0.003942181340341655,8 Higher income early career lifestylers
+8,Mooloolaba - Alexandra Headland,Rest of Qld,0.003942181340341655,8 Higher income early career lifestylers
+8,Burleigh Heads,Rest of Qld,0.002628120893561104,8 Higher income early career lifestylers
+8,Launceston,Rest of Tas.,0.001314060446780552,8 Higher income early career lifestylers
+8,Newtown (Vic.),Rest of Vic.,0.001314060446780552,8 Higher income early career lifestylers
+8,Kalgoorlie,Rest of WA,0.001314060446780552,8 Higher income early career lifestylers
+9,Paradise - Newton,Greater Adelaide,0.0019880715705765406,9 Chinese enclaves
+9,Calamvale - Stretton,Greater Brisbane,0.039761431411530816,9 Chinese enclaves
+9,Sunnybank Hills,Greater Brisbane,0.027833001988071572,9 Chinese enclaves
+9,Eight Mile Plains,Greater Brisbane,0.02186878727634195,9 Chinese enclaves
+9,Robertson,Greater Brisbane,0.007952286282306162,9 Chinese enclaves
+9,Glen Waverley - East,Greater Melbourne,0.033797216699801194,9 Chinese enclaves
+9,Balwyn North,Greater Melbourne,0.03180914512922465,9 Chinese enclaves
+9,Glen Waverley - West,Greater Melbourne,0.027833001988071572,9 Chinese enclaves
+9,Vermont South,Greater Melbourne,0.02385685884691849,9 Chinese enclaves
+9,Gordon - Killara,Greater Sydney,0.03777335984095427,9 Chinese enclaves
+9,Epping (NSW) - West,Greater Sydney,0.027833001988071572,9 Chinese enclaves
+9,Lindfield - Roseville,Greater Sydney,0.02385685884691849,9 Chinese enclaves
+9,Chatswood - East,Greater Sydney,0.02186878727634195,9 Chinese enclaves
+10,Gungahlin,Australian Capital Territory,0.0019267822736030828,10 Middle eastern young families
+10,Chisholm,Australian Capital Territory,0.0019267822736030828,10 Middle eastern young families
+10,Gordon (ACT),Australian Capital Territory,0.0019267822736030828,10 Middle eastern young families
+10,Isabella Plains,Australian Capital Territory,0.0019267822736030828,10 Middle eastern young families
+10,Para Hills,Greater Adelaide,0.005780346820809248,10 Middle eastern young families
+10,Toorak Gardens,Greater Adelaide,0.0038535645472061657,10 Middle eastern young families
+10,Enfield - Blair Athol,Greater Adelaide,0.0038535645472061657,10 Middle eastern young families
+10,Northgate - Northfield,Greater Adelaide,0.0038535645472061657,10 Middle eastern young families
+10,Taigum - Fitzgibbon,Greater Brisbane,0.0038535645472061657,10 Middle eastern young families
+10,Seventeen Mile Rocks - Sinnamon Park,Greater Brisbane,0.0038535645472061657,10 Middle eastern young families
+10,Regents Park - Heritage Park,Greater Brisbane,0.0038535645472061657,10 Middle eastern young families
+10,Wakerley,Greater Brisbane,0.0019267822736030828,10 Middle eastern young families
+10,Wollert,Greater Melbourne,0.011560693641618497,10 Middle eastern young families
+10,Newport,Greater Melbourne,0.011560693641618497,10 Middle eastern young families
+10,Epping (Vic.) - West,Greater Melbourne,0.009633911368015413,10 Middle eastern young families
+10,Templestowe Lower,Greater Melbourne,0.007707129094412331,10 Middle eastern young families
+10,Nollamara - Westminster,Greater Perth,0.009633911368015413,10 Middle eastern young families
+10,Joondalup - Edgewater,Greater Perth,0.005780346820809248,10 Middle eastern young families
+10,Innaloo - Doubleview,Greater Perth,0.005780346820809248,10 Middle eastern young families
+10,Dianella - North,Greater Perth,0.0038535645472061657,10 Middle eastern young families
+10,St Ives,Greater Sydney,0.015414258188824663,10 Middle eastern young families
+10,Baulkham Hills - East,Greater Sydney,0.01348747591522158,10 Middle eastern young families
+10,Wentworthville - Westmead,Greater Sydney,0.01348747591522158,10 Middle eastern young families
+10,Winston Hills,Greater Sydney,0.011560693641618497,10 Middle eastern young families
+10,Armidale,Rest of NSW,0.015414258188824663,10 Middle eastern young families
+10,Berkeley - Lake Heights - Cringila,Rest of NSW,0.007707129094412331,10 Middle eastern young families
+10,Balgownie - Fairy Meadow,Rest of NSW,0.0038535645472061657,10 Middle eastern young families
+10,Wagga Wagga - West,Rest of NSW,0.0038535645472061657,10 Middle eastern young families
+10,Toowoomba - East,Rest of Qld,0.005780346820809248,10 Middle eastern young families
+10,Darling Heights,Rest of Qld,0.0038535645472061657,10 Middle eastern young families
+10,Newtown (Qld),Rest of Qld,0.0038535645472061657,10 Middle eastern young families
+10,Arundel,Rest of Qld,0.0019267822736030828,10 Middle eastern young families
+10,Highton,Rest of Vic.,0.0038535645472061657,10 Middle eastern young families
+10,Kialla,Rest of Vic.,0.0038535645472061657,10 Middle eastern young families
+10,Canadian - Mount Clear,Rest of Vic.,0.0019267822736030828,10 Middle eastern young families
+10,Shepparton - South East,Rest of Vic.,0.0019267822736030828,10 Middle eastern young families
+11,Florey,Australian Capital Territory,0.0025284450063211127,"11 Established family middle Australia, 2nd/3rd generation"
+11,Giralang,Australian Capital Territory,0.0025284450063211127,"11 Established family middle Australia, 2nd/3rd generation"
+11,Palmerston,Australian Capital Territory,0.0025284450063211127,"11 Established family middle Australia, 2nd/3rd generation"
+11,Bruce,Australian Capital Territory,0.0012642225031605564,"11 Established family middle Australia, 2nd/3rd generation"
+11,Rostrevor - Magill,Greater Adelaide,0.010113780025284451,"11 Established family middle Australia, 2nd/3rd generation"
+11,Paradise - Newton,Greater Adelaide,0.0037926675094816687,"11 Established family middle Australia, 2nd/3rd generation"
+11,Northgate - Northfield,Greater Adelaide,0.0037926675094816687,"11 Established family middle Australia, 2nd/3rd generation"
+11,Valley View - Gilles Plains,Greater Adelaide,0.0037926675094816687,"11 Established family middle Australia, 2nd/3rd generation"
+11,Wishart,Greater Brisbane,0.010113780025284451,"11 Established family middle Australia, 2nd/3rd generation"
+11,Mansfield (Qld),Greater Brisbane,0.0037926675094816687,"11 Established family middle Australia, 2nd/3rd generation"
+11,Carseldine,Greater Brisbane,0.0025284450063211127,"11 Established family middle Australia, 2nd/3rd generation"
+11,Eight Mile Plains,Greater Brisbane,0.0025284450063211127,"11 Established family middle Australia, 2nd/3rd generation"
+11,Brinkin - Nakara,Greater Darwin,0.0012642225031605564,"11 Established family middle Australia, 2nd/3rd generation"
+11,Lyons (NT),Greater Darwin,0.0012642225031605564,"11 Established family middle Australia, 2nd/3rd generation"
+11,Sandy Bay,Greater Hobart,0.0012642225031605564,"11 Established family middle Australia, 2nd/3rd generation"
+11,Taylors Lakes,Greater Melbourne,0.029077117572692796,"11 Established family middle Australia, 2nd/3rd generation"
+11,Mill Park - North,Greater Melbourne,0.022756005056890013,"11 Established family middle Australia, 2nd/3rd generation"
+11,Gladstone Park - Westmeadows,Greater Melbourne,0.018963337547408345,"11 Established family middle Australia, 2nd/3rd generation"
+11,Rowville - Central,Greater Melbourne,0.01643489254108723,"11 Established family middle Australia, 2nd/3rd generation"
+11,Morley,Greater Perth,0.010113780025284451,"11 Established family middle Australia, 2nd/3rd generation"
+11,Noranda,Greater Perth,0.007585335018963337,"11 Established family middle Australia, 2nd/3rd generation"
+11,Beechboro,Greater Perth,0.006321112515802781,"11 Established family middle Australia, 2nd/3rd generation"
+11,Dianella - North,Greater Perth,0.006321112515802781,"11 Established family middle Australia, 2nd/3rd generation"
+11,Chipping Norton - Moorebank,Greater Sydney,0.022756005056890013,"11 Established family middle Australia, 2nd/3rd generation"
+11,Greystanes - South,Greater Sydney,0.01390644753476612,"11 Established family middle Australia, 2nd/3rd generation"
+11,Cherrybrook,Greater Sydney,0.011378002528445006,"11 Established family middle Australia, 2nd/3rd generation"
+11,South Hurstville - Blakehurst,Greater Sydney,0.011378002528445006,"11 Established family middle Australia, 2nd/3rd generation"
+11,Griffith (NSW),Rest of NSW,0.0012642225031605564,"11 Established family middle Australia, 2nd/3rd generation"
+11,Benowa,Rest of Qld,0.0025284450063211127,"11 Established family middle Australia, 2nd/3rd generation"
+11,Biggera Waters,Rest of Qld,0.0012642225031605564,"11 Established family middle Australia, 2nd/3rd generation"
+11,Carrara,Rest of Qld,0.0012642225031605564,"11 Established family middle Australia, 2nd/3rd generation"
+11,Helensvale,Rest of Qld,0.0012642225031605564,"11 Established family middle Australia, 2nd/3rd generation"
+11,North Geelong - Bell Park,Rest of Vic.,0.0025284450063211127,"11 Established family middle Australia, 2nd/3rd generation"
+11,Shepparton - North,Rest of Vic.,0.0012642225031605564,"11 Established family middle Australia, 2nd/3rd generation"
+12,Charnwood,Australian Capital Territory,0.0011441647597254005,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Dunlop,Australian Capital Territory,0.0011441647597254005,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Calwell,Australian Capital Territory,0.0011441647597254005,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Redwood Park,Greater Adelaide,0.010297482837528604,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Sheidow Park - Trott Park,Greater Adelaide,0.010297482837528604,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Aberfoyle Park,Greater Adelaide,0.008009153318077803,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Craigmore - Blakeview,Greater Adelaide,0.006864988558352402,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Rochedale South - Priestdale,Greater Brisbane,0.014874141876430207,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Jimboomba - Glenlogan,Greater Brisbane,0.013729977116704805,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Alexandra Hills,Greater Brisbane,0.012585812356979404,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Narangba,Greater Brisbane,0.012585812356979404,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Howard Springs,Greater Darwin,0.002288329519450801,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Humpty Doo,Greater Darwin,0.0011441647597254005,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Kingston - Huntingfield,Greater Hobart,0.002288329519450801,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Old Beach - Otago,Greater Hobart,0.0011441647597254005,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,New Norfolk,Greater Hobart,0.0011441647597254005,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Dodges Ferry - Lewisham,Greater Hobart,0.0011441647597254005,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Langwarrin,Greater Melbourne,0.019450800915331808,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Hillside,Greater Melbourne,0.013729977116704805,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Emerald - Cockatoo,Greater Melbourne,0.011441647597254004,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Lilydale - Coldstream,Greater Melbourne,0.010297482837528604,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Ballajura,Greater Perth,0.006864988558352402,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Craigie - Beldon,Greater Perth,0.005720823798627002,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Joondalup - Edgewater,Greater Perth,0.005720823798627002,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Forrestfield - Wattle Grove,Greater Perth,0.005720823798627002,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Claymore - Eagle Vale - Raby,Greater Sydney,0.013729977116704805,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Cambridge Park,Greater Sydney,0.008009153318077803,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Cranebrook - Castlereagh,Greater Sydney,0.006864988558352402,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Leumeah - Minto Heights,Greater Sydney,0.004576659038901602,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Albion Park - Macquarie Pass,Rest of NSW,0.010297482837528604,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,West Wallsend - Barnsley - Killingworth,Rest of NSW,0.006864988558352402,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Horsley - Kembla Grange,Rest of NSW,0.005720823798627002,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Dapto - Avondale,Rest of NSW,0.004576659038901602,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Landsborough,Rest of Qld,0.009153318077803204,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Nerang - Mount Nathan,Rest of Qld,0.006864988558352402,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Helensvale,Rest of Qld,0.006864988558352402,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Nambour,Rest of Qld,0.006864988558352402,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Lyndoch,Rest of SA,0.008009153318077803,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Light,Rest of SA,0.002288329519450801,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Strathalbyn Surrounds,Rest of SA,0.002288329519450801,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Wakefield - Barunga West,Rest of SA,0.0011441647597254005,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Hadspen - Carrick,Rest of Tas.,0.0011441647597254005,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Kilmore - Broadford,Rest of Vic.,0.003432494279176201,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Gordon (Vic.),Rest of Vic.,0.002288329519450801,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Chiltern - Indigo Valley,Rest of Vic.,0.002288329519450801,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,White Hills - Ascot,Rest of Vic.,0.0011441647597254005,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Australind - Leschenault,Rest of WA,0.003432494279176201,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Chittering,Rest of WA,0.002288329519450801,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Capel,Rest of WA,0.0011441647597254005,"12 Urban fringe anglo tradies, affordable lifestyle"
+12,Northam,Rest of WA,0.0011441647597254005,"12 Urban fringe anglo tradies, affordable lifestyle"
+13,Moncrieff,Australian Capital Territory,0.001728608470181504,13 New affordable estates
+13,Casey,Australian Capital Territory,0.000864304235090752,13 New affordable estates
+13,Monash,Australian Capital Territory,0.000864304235090752,13 New affordable estates
+13,Coombs,Australian Capital Territory,0.000864304235090752,13 New affordable estates
+13,Mount Barker,Greater Adelaide,0.00432152117545376,13 New affordable estates
+13,Munno Para West - Angle Vale,Greater Adelaide,0.00432152117545376,13 New affordable estates
+13,Craigmore - Blakeview,Greater Adelaide,0.0025929127052722557,13 New affordable estates
+13,Gawler - South,Greater Adelaide,0.001728608470181504,13 New affordable estates
+13,Ripley,Greater Brisbane,0.018150388936905792,13 New affordable estates
+13,Springfield Lakes,Greater Brisbane,0.015557476231633534,13 New affordable estates
+13,Yarrabilba,Greater Brisbane,0.014693171996542784,13 New affordable estates
+13,Rochedale - Burbank,Greater Brisbane,0.007778738115816767,13 New affordable estates
+13,Palmerston - South,Greater Darwin,0.003457216940363008,13 New affordable estates
+13,Lyons (NT),Greater Darwin,0.001728608470181504,13 New affordable estates
+13,Brighton - Pontville,Greater Hobart,0.000864304235090752,13 New affordable estates
+13,Geilston Bay - Risdon,Greater Hobart,0.000864304235090752,13 New affordable estates
+13,Rokeby,Greater Hobart,0.000864304235090752,13 New affordable estates
+13,Glenorchy,Greater Hobart,0.000864304235090752,13 New affordable estates
+13,Mickleham - Yuroke,Greater Melbourne,0.029386343993085567,13 New affordable estates
+13,Rockbank - Mount Cottrell,Greater Melbourne,0.020743301642178046,13 New affordable estates
+13,Werribee - West,Greater Melbourne,0.01901469317199654,13 New affordable estates
+13,Wollert,Greater Melbourne,0.015557476231633534,13 New affordable estates
+13,Baldivis - South,Greater Perth,0.00950734658599827,13 New affordable estates
+13,Alkimos - Eglinton,Greater Perth,0.00864304235090752,13 New affordable estates
+13,Brabham - Henley Brook,Greater Perth,0.007778738115816767,13 New affordable estates
+13,Piara Waters - Forrestdale,Greater Perth,0.007778738115816767,13 New affordable estates
+13,Oran Park,Greater Sydney,0.015557476231633534,13 New affordable estates
+13,Gledswood Hills - Gregory Hills,Greater Sydney,0.00950734658599827,13 New affordable estates
+13,Edmondson Park,Greater Sydney,0.00864304235090752,13 New affordable estates
+13,Leppington - Catherine Field,Greater Sydney,0.005185825410544511,13 New affordable estates
+13,Caloundra West - Baringa,Rest of Qld,0.01296456352636128,13 New affordable estates
+13,Pimpama - North,Rest of Qld,0.00864304235090752,13 New affordable estates
+13,Coomera,Rest of Qld,0.007778738115816767,13 New affordable estates
+13,Pimpama - South,Rest of Qld,0.007778738115816767,13 New affordable estates
+13,Nuriootpa,Rest of SA,0.001728608470181504,13 New affordable estates
+13,Wallaroo,Rest of SA,0.001728608470181504,13 New affordable estates
+13,Goolwa - Port Elliot,Rest of SA,0.000864304235090752,13 New affordable estates
+13,Strathalbyn,Rest of SA,0.000864304235090752,13 New affordable estates
+13,Waverley - St Leonards,Rest of Tas.,0.000864304235090752,13 New affordable estates
+13,Perth - Evandale,Rest of Tas.,0.000864304235090752,13 New affordable estates
+13,Latrobe,Rest of Tas.,0.000864304235090752,13 New affordable estates
+13,Port Sorell,Rest of Tas.,0.000864304235090752,13 New affordable estates
+13,Charlemont,Rest of Vic.,0.00950734658599827,13 New affordable estates
+13,Alfredton,Rest of Vic.,0.00864304235090752,13 New affordable estates
+13,Grovedale - Mount Duneed,Rest of Vic.,0.00864304235090752,13 New affordable estates
+13,Torquay,Rest of Vic.,0.007778738115816767,13 New affordable estates
+13,Busselton - West,Rest of WA,0.005185825410544511,13 New affordable estates
+13,Busselton Surrounds,Rest of WA,0.001728608470181504,13 New affordable estates
+13,Busselton - East,Rest of WA,0.001728608470181504,13 New affordable estates
+13,Augusta,Rest of WA,0.000864304235090752,13 New affordable estates
+14,Harrison,Australian Capital Territory,0.004250797024442083,14 Gentrifying families in townhouse infill development 
+14,Ngunnawal,Australian Capital Territory,0.003188097768331562,14 Gentrifying families in townhouse infill development 
+14,Dunlop,Australian Capital Territory,0.0021253985122210413,14 Gentrifying families in townhouse infill development 
+14,Narrabundah,Australian Capital Territory,0.0021253985122210413,14 Gentrifying families in townhouse infill development 
+14,Munno Para West - Angle Vale,Greater Adelaide,0.007438894792773645,14 Gentrifying families in townhouse infill development 
+14,Seaford - Seaford Meadows,Greater Adelaide,0.005313496280552604,14 Gentrifying families in townhouse infill development 
+14,Goodwood - Millswood,Greater Adelaide,0.003188097768331562,14 Gentrifying families in townhouse infill development 
+14,Craigmore - Blakeview,Greater Adelaide,0.003188097768331562,14 Gentrifying families in townhouse infill development 
+14,Springfield Lakes,Greater Brisbane,0.009564293304994687,14 Gentrifying families in townhouse infill development 
+14,Morningside - Seven Hills,Greater Brisbane,0.008501594048884165,14 Gentrifying families in townhouse infill development 
+14,Cashmere,Greater Brisbane,0.008501594048884165,14 Gentrifying families in townhouse infill development 
+14,North Lakes,Greater Brisbane,0.008501594048884165,14 Gentrifying families in townhouse infill development 
+14,Durack - Marlow Lagoon,Greater Darwin,0.006376195536663124,14 Gentrifying families in townhouse infill development 
+14,Rosebery - Bellamack,Greater Darwin,0.004250797024442083,14 Gentrifying families in townhouse infill development 
+14,Palmerston - North,Greater Darwin,0.003188097768331562,14 Gentrifying families in townhouse infill development 
+14,Palmerston - South,Greater Darwin,0.0021253985122210413,14 Gentrifying families in townhouse infill development 
+14,Kingston - Huntingfield,Greater Hobart,0.0021253985122210413,14 Gentrifying families in townhouse infill development 
+14,Claremont (Tas.),Greater Hobart,0.0010626992561105207,14 Gentrifying families in townhouse infill development 
+14,Lenah Valley - Mount Stuart,Greater Hobart,0.0010626992561105207,14 Gentrifying families in townhouse infill development 
+14,Chelsea - Bonbeach,Greater Melbourne,0.007438894792773645,14 Gentrifying families in townhouse infill development 
+14,Yarraville,Greater Melbourne,0.006376195536663124,14 Gentrifying families in townhouse infill development 
+14,Newport,Greater Melbourne,0.005313496280552604,14 Gentrifying families in townhouse infill development 
+14,Doreen - North,Greater Melbourne,0.004250797024442083,14 Gentrifying families in townhouse infill development 
+14,Butler - Merriwa - Ridgewood,Greater Perth,0.007438894792773645,14 Gentrifying families in townhouse infill development 
+14,Bassendean - Eden Hill - Ashfield,Greater Perth,0.005313496280552604,14 Gentrifying families in townhouse infill development 
+14,Innaloo - Doubleview,Greater Perth,0.005313496280552604,14 Gentrifying families in townhouse infill development 
+14,Port Kennedy,Greater Perth,0.005313496280552604,14 Gentrifying families in townhouse infill development 
+14,Glenmore Park - Regentville,Greater Sydney,0.008501594048884165,14 Gentrifying families in townhouse infill development 
+14,Riverstone,Greater Sydney,0.006376195536663124,14 Gentrifying families in townhouse infill development 
+14,Mount Annan,Greater Sydney,0.006376195536663124,14 Gentrifying families in townhouse infill development 
+14,Erskineville - Alexandria,Greater Sydney,0.005313496280552604,14 Gentrifying families in townhouse infill development 
+14,Orange - North,Rest of NSW,0.008501594048884165,14 Gentrifying families in townhouse infill development 
+14,Shellharbour - Flinders,Rest of NSW,0.006376195536663124,14 Gentrifying families in townhouse infill development 
+14,Dubbo - South,Rest of NSW,0.005313496280552604,14 Gentrifying families in townhouse infill development 
+14,Rutherford (North) - Aberglasslyn,Rest of NSW,0.004250797024442083,14 Gentrifying families in townhouse infill development 
+14,East Side,Rest of NT,0.005313496280552604,14 Gentrifying families in townhouse infill development 
+14,Charles,Rest of NT,0.004250797024442083,14 Gentrifying families in townhouse infill development 
+14,Larapinta,Rest of NT,0.003188097768331562,14 Gentrifying families in townhouse infill development 
+14,Flynn (NT),Rest of NT,0.0021253985122210413,14 Gentrifying families in townhouse infill development 
+14,Mount Isa,Rest of Qld,0.031880977683315624,14 Gentrifying families in townhouse infill development 
+14,Upper Coomera - North,Rest of Qld,0.019128586609989374,14 Gentrifying families in townhouse infill development 
+14,Emerald,Rest of Qld,0.01381509032943677,14 Gentrifying families in townhouse infill development 
+14,Kirwan - West,Rest of Qld,0.009564293304994687,14 Gentrifying families in townhouse infill development 
+14,Whyalla,Rest of SA,0.0021253985122210413,14 Gentrifying families in townhouse infill development 
+14,Murray Bridge,Rest of SA,0.0021253985122210413,14 Gentrifying families in townhouse infill development 
+14,Roxby Downs,Rest of SA,0.0010626992561105207,14 Gentrifying families in townhouse infill development 
+14,Geelong West - Hamlyn Heights,Rest of Vic.,0.004250797024442083,14 Gentrifying families in townhouse infill development 
+14,Belmont,Rest of Vic.,0.0021253985122210413,14 Gentrifying families in townhouse infill development 
+14,Lara,Rest of Vic.,0.0021253985122210413,14 Gentrifying families in townhouse infill development 
+14,Charlemont,Rest of Vic.,0.0021253985122210413,14 Gentrifying families in townhouse infill development 
+14,Karratha,Rest of WA,0.026567481402763018,14 Gentrifying families in townhouse infill development 
+14,Broome,Rest of WA,0.01381509032943677,14 Gentrifying families in townhouse infill development 
+14,Kalgoorlie - North,Rest of WA,0.01381509032943677,14 Gentrifying families in townhouse infill development 
+14,Kalgoorlie,Rest of WA,0.009564293304994687,14 Gentrifying families in townhouse infill development 
+15,Moncrieff,Australian Capital Territory,0.014044943820224719,15 Young Indian families
+15,Macgregor (ACT),Australian Capital Territory,0.0056179775280898875,15 Young Indian families
+15,Taylor,Australian Capital Territory,0.0056179775280898875,15 Young Indian families
+15,Greenway,Australian Capital Territory,0.0056179775280898875,15 Young Indian families
+15,Enfield - Blair Athol,Greater Adelaide,0.008426966292134831,15 Young Indian families
+15,Northgate - Northfield,Greater Adelaide,0.008426966292134831,15 Young Indian families
+15,Hope Valley - Modbury,Greater Adelaide,0.0056179775280898875,15 Young Indian families
+15,Prospect,Greater Adelaide,0.0028089887640449437,15 Young Indian families
+15,Chermside,Greater Brisbane,0.0056179775280898875,15 Young Indian families
+15,Nundah,Greater Brisbane,0.0056179775280898875,15 Young Indian families
+15,Taigum - Fitzgibbon,Greater Brisbane,0.0056179775280898875,15 Young Indian families
+15,Zillmere,Greater Brisbane,0.0056179775280898875,15 Young Indian families
+15,Carnegie,Greater Melbourne,0.02247191011235955,15 Young Indian families
+15,Tarneit - Central,Greater Melbourne,0.019662921348314606,15 Young Indian families
+15,Wollert,Greater Melbourne,0.016853932584269662,15 Young Indian families
+15,Pakenham - South West,Greater Melbourne,0.016853932584269662,15 Young Indian families
+15,Piara Waters - Forrestdale,Greater Perth,0.011235955056179775,15 Young Indian families
+15,Maylands,Greater Perth,0.008426966292134831,15 Young Indian families
+15,Victoria Park - Lathlain - Burswood,Greater Perth,0.008426966292134831,15 Young Indian families
+15,Cannington - Queens Park,Greater Perth,0.008426966292134831,15 Young Indian families
+15,Marsden Park - Shanes Park,Greater Sydney,0.042134831460674156,15 Young Indian families
+15,Jordan Springs - Llandilo,Greater Sydney,0.03932584269662921,15 Young Indian families
+15,North Parramatta,Greater Sydney,0.028089887640449437,15 Young Indian families
+15,Riverstone,Greater Sydney,0.025280898876404494,15 Young Indian families
+15,Queanbeyan,Rest of NSW,0.0028089887640449437,15 Young Indian families
+15,Queanbeyan - East,Rest of NSW,0.0028089887640449437,15 Young Indian families
+15,Googong,Rest of NSW,0.0028089887640449437,15 Young Indian families
+15,Dubbo - South,Rest of NSW,0.0028089887640449437,15 Young Indian families
+15,Arundel,Rest of Qld,0.0028089887640449437,15 Young Indian families
+15,Coomera,Rest of Qld,0.0028089887640449437,15 Young Indian families
+15,Oxenford - Maudsland,Rest of Qld,0.0028089887640449437,15 Young Indian families
+15,Maroochydore - Kuluin,Rest of Qld,0.0028089887640449437,15 Young Indian families
+15,Belmont,Rest of Vic.,0.0028089887640449437,15 Young Indian families
+16,Belconnen,Australian Capital Territory,0.005291005291005291,16 High rise rental
+16,Gungahlin,Australian Capital Territory,0.003527336860670194,16 High rise rental
+16,Civic,Australian Capital Territory,0.001763668430335097,16 High rise rental
+16,Turner,Australian Capital Territory,0.001763668430335097,16 High rise rental
+16,Adelaide,Greater Adelaide,0.012345679012345678,16 High rise rental
+16,Newstead - Bowen Hills,Greater Brisbane,0.02292768959435626,16 High rise rental
+16,South Brisbane,Greater Brisbane,0.01763668430335097,16 High rise rental
+16,Chermside,Greater Brisbane,0.010582010582010581,16 High rise rental
+16,Brisbane City,Greater Brisbane,0.008818342151675485,16 High rise rental
+16,Darwin City,Greater Darwin,0.015873015873015872,16 High rise rental
+16,Woolner - Bayview - Winnellie,Greater Darwin,0.001763668430335097,16 High rise rental
+16,Docklands,Greater Melbourne,0.02821869488536155,16 High rise rental
+16,Southbank - East,Greater Melbourne,0.015873015873015872,16 High rise rental
+16,Melbourne CBD - West,Greater Melbourne,0.014109347442680775,16 High rise rental
+16,Southbank (West) - South Wharf,Greater Melbourne,0.012345679012345678,16 High rise rental
+16,East Perth,Greater Perth,0.012345679012345678,16 High rise rental
+16,Perth (West) - Northbridge,Greater Perth,0.012345679012345678,16 High rise rental
+16,Victoria Park - Lathlain - Burswood,Greater Perth,0.001763668430335097,16 High rise rental
+16,Cannington - Queens Park,Greater Perth,0.001763668430335097,16 High rise rental
+16,Wentworth Point - Sydney Olympic Park,Greater Sydney,0.03527336860670194,16 High rise rental
+16,Mascot,Greater Sydney,0.02821869488536155,16 High rise rental
+16,Chatswood - East,Greater Sydney,0.021164021164021163,16 High rise rental
+16,Rockdale - Banksia,Greater Sydney,0.01763668430335097,16 High rise rental
+16,Wollongong - East,Rest of NSW,0.014109347442680775,16 High rise rental
+16,Newcastle - Cooks Hill,Rest of NSW,0.007054673721340388,16 High rise rental
+16,Charlestown - Dudley,Rest of NSW,0.001763668430335097,16 High rise rental
+16,Southport - North,Rest of Qld,0.008818342151675485,16 High rise rental
+16,Biggera Waters,Rest of Qld,0.003527336860670194,16 High rise rental
+16,Surfers Paradise - South,Rest of Qld,0.001763668430335097,16 High rise rental
+16,Maroochydore - Kuluin,Rest of Qld,0.001763668430335097,16 High rise rental
+17,Kilcoy,Greater Brisbane,0.005988023952095809,17 South East Asia in traditional working class areas
+17,Chermside,Greater Brisbane,0.003992015968063872,17 South East Asia in traditional working class areas
+17,Wynnum West - Hemmant,Greater Brisbane,0.001996007984031936,17 South East Asia in traditional working class areas
+17,Taigum - Fitzgibbon,Greater Brisbane,0.001996007984031936,17 South East Asia in traditional working class areas
+17,Karama,Greater Darwin,0.005988023952095809,17 South East Asia in traditional working class areas
+17,Leanyer,Greater Darwin,0.003992015968063872,17 South East Asia in traditional working class areas
+17,Lyons (NT),Greater Darwin,0.001996007984031936,17 South East Asia in traditional working class areas
+17,Palmerston - South,Greater Darwin,0.001996007984031936,17 South East Asia in traditional working class areas
+17,Caroline Springs,Greater Melbourne,0.01996007984031936,17 South East Asia in traditional working class areas
+17,Laverton,Greater Melbourne,0.007984031936127744,17 South East Asia in traditional working class areas
+17,Mulgrave,Greater Melbourne,0.005988023952095809,17 South East Asia in traditional working class areas
+17,Deer Park,Greater Melbourne,0.005988023952095809,17 South East Asia in traditional working class areas
+17,Beckenham - Kenwick - Langford,Greater Perth,0.033932135728542916,17 South East Asia in traditional working class areas
+17,Thornlie,Greater Perth,0.033932135728542916,17 South East Asia in traditional working class areas
+17,Parkwood - Ferndale - Lynwood,Greater Perth,0.02594810379241517,17 South East Asia in traditional working class areas
+17,Canning Vale - East,Greater Perth,0.021956087824351298,17 South East Asia in traditional working class areas
+17,Rooty Hill - Minchinbury,Greater Sydney,0.03992015968063872,17 South East Asia in traditional working class areas
+17,Hassall Grove - Plumpton,Greater Sydney,0.033932135728542916,17 South East Asia in traditional working class areas
+17,Doonside - Woodcroft,Greater Sydney,0.029940119760479042,17 South East Asia in traditional working class areas
+17,Mount Druitt - Whalan,Greater Sydney,0.021956087824351298,17 South East Asia in traditional working class areas
+17,Queanbeyan - East,Rest of NSW,0.001996007984031936,17 South East Asia in traditional working class areas
+17,Wagga Wagga - South,Rest of NSW,0.001996007984031936,17 South East Asia in traditional working class areas
+17,Clinton - New Auckland,Rest of Qld,0.001996007984031936,17 South East Asia in traditional working class areas
+17,Southport - North,Rest of Qld,0.001996007984031936,17 South East Asia in traditional working class areas
+17,Mackay,Rest of Qld,0.001996007984031936,17 South East Asia in traditional working class areas
+17,Tatiara,Rest of SA,0.003992015968063872,17 South East Asia in traditional working class areas
+17,Murray Bridge,Rest of SA,0.001996007984031936,17 South East Asia in traditional working class areas
+17,Loddon,Rest of Vic.,0.003992015968063872,17 South East Asia in traditional working class areas
+17,Corio - Lovely Banks,Rest of Vic.,0.001996007984031936,17 South East Asia in traditional working class areas
+17,Irymple,Rest of Vic.,0.001996007984031936,17 South East Asia in traditional working class areas
+17,Mildura - North,Rest of Vic.,0.001996007984031936,17 South East Asia in traditional working class areas
+17,Harvey,Rest of WA,0.005988023952095809,17 South East Asia in traditional working class areas
+17,McKail - Willyung,Rest of WA,0.003992015968063872,17 South East Asia in traditional working class areas
+17,South Hedland,Rest of WA,0.003992015968063872,17 South East Asia in traditional working class areas
+17,Karratha,Rest of WA,0.003992015968063872,17 South East Asia in traditional working class areas
+18,Bruce,Australian Capital Territory,0.02356020942408377,18 Uni and TAFE students
+18,Belconnen,Australian Capital Territory,0.013089005235602094,18 Uni and TAFE students
+18,Braddon,Australian Capital Territory,0.010471204188481676,18 Uni and TAFE students
+18,Kingston (ACT),Australian Capital Territory,0.010471204188481676,18 Uni and TAFE students
+18,North Adelaide,Greater Adelaide,0.01832460732984293,18 Uni and TAFE students
+18,Adelaide,Greater Adelaide,0.013089005235602094,18 Uni and TAFE students
+18,Hindmarsh - Brompton,Greater Adelaide,0.007853403141361256,18 Uni and TAFE students
+18,Plympton,Greater Adelaide,0.007853403141361256,18 Uni and TAFE students
+18,Toowong,Greater Brisbane,0.02617801047120419,18 Uni and TAFE students
+18,St Lucia,Greater Brisbane,0.02356020942408377,18 Uni and TAFE students
+18,Kelvin Grove - Herston,Greater Brisbane,0.015706806282722512,18 Uni and TAFE students
+18,Greenslopes,Greater Brisbane,0.013089005235602094,18 Uni and TAFE students
+18,Sandy Bay,Greater Hobart,0.007853403141361256,18 Uni and TAFE students
+18,Clayton - Central,Greater Melbourne,0.02617801047120419,18 Uni and TAFE students
+18,Clayton (North) - Notting Hill,Greater Melbourne,0.020942408376963352,18 Uni and TAFE students
+18,Brunswick - South,Greater Melbourne,0.015706806282722512,18 Uni and TAFE students
+18,North Melbourne,Greater Melbourne,0.015706806282722512,18 Uni and TAFE students
+18,Bentley - Wilson - St James,Greater Perth,0.020942408376963352,18 Uni and TAFE students
+18,Nedlands - Dalkeith - Crawley,Greater Perth,0.010471204188481676,18 Uni and TAFE students
+18,Joondalup - Edgewater,Greater Perth,0.005235602094240838,18 Uni and TAFE students
+18,Como,Greater Perth,0.005235602094240838,18 Uni and TAFE students
+18,Glebe - Forest Lodge,Greater Sydney,0.020942408376963352,18 Uni and TAFE students
+18,Macquarie Park - Marsfield,Greater Sydney,0.013089005235602094,18 Uni and TAFE students
+18,Rosebery - Beaconsfield,Greater Sydney,0.010471204188481676,18 Uni and TAFE students
+18,Kingsford,Greater Sydney,0.010471204188481676,18 Uni and TAFE students
+18,Wollongong - East,Rest of NSW,0.02356020942408377,18 Uni and TAFE students
+18,Newcastle - Cooks Hill,Rest of NSW,0.010471204188481676,18 Uni and TAFE students
+18,Figtree - Keiraville,Rest of NSW,0.007853403141361256,18 Uni and TAFE students
+18,Shortland - Jesmond,Rest of NSW,0.007853403141361256,18 Uni and TAFE students
+18,Douglas,Rest of Qld,0.010471204188481676,18 Uni and TAFE students
+18,Parkwood,Rest of Qld,0.005235602094240838,18 Uni and TAFE students
+18,Southport - North,Rest of Qld,0.005235602094240838,18 Uni and TAFE students
+18,Trinity Beach - Smithfield,Rest of Qld,0.002617801047120419,18 Uni and TAFE students
+18,Geelong,Rest of Vic.,0.005235602094240838,18 Uni and TAFE students
+18,Shepparton - North,Rest of Vic.,0.002617801047120419,18 Uni and TAFE students
+19,Amaroo,Australian Capital Territory,0.00395778364116095,19 Suburban traditional anglo young families in historically working class areas
+19,Wanniassa,Australian Capital Territory,0.00395778364116095,19 Suburban traditional anglo young families in historically working class areas
+19,Holt,Australian Capital Territory,0.002638522427440633,19 Suburban traditional anglo young families in historically working class areas
+19,Ngunnawal,Australian Capital Territory,0.002638522427440633,19 Suburban traditional anglo young families in historically working class areas
+19,Greenwith,Greater Adelaide,0.0079155672823219,19 Suburban traditional anglo young families in historically working class areas
+19,Largs Bay - Semaphore,Greater Adelaide,0.006596306068601583,19 Suburban traditional anglo young families in historically working class areas
+19,Craigmore - Blakeview,Greater Adelaide,0.00395778364116095,19 Suburban traditional anglo young families in historically working class areas
+19,Morphett Vale - East,Greater Adelaide,0.00395778364116095,19 Suburban traditional anglo young families in historically working class areas
+19,Bracken Ridge,Greater Brisbane,0.011873350923482849,19 Suburban traditional anglo young families in historically working class areas
+19,Alexandra Hills,Greater Brisbane,0.006596306068601583,19 Suburban traditional anglo young families in historically working class areas
+19,The Hills District,Greater Brisbane,0.006596306068601583,19 Suburban traditional anglo young families in historically working class areas
+19,Bald Hills,Greater Brisbane,0.005277044854881266,19 Suburban traditional anglo young families in historically working class areas
+19,Weddell,Greater Darwin,0.0013192612137203166,19 Suburban traditional anglo young families in historically working class areas
+19,Kingston - Huntingfield,Greater Hobart,0.002638522427440633,19 Suburban traditional anglo young families in historically working class areas
+19,Geilston Bay - Risdon,Greater Hobart,0.0013192612137203166,19 Suburban traditional anglo young families in historically working class areas
+19,Mornington - Warrane,Greater Hobart,0.0013192612137203166,19 Suburban traditional anglo young families in historically working class areas
+19,Risdon Vale,Greater Hobart,0.0013192612137203166,19 Suburban traditional anglo young families in historically working class areas
+19,Mooroolbark,Greater Melbourne,0.005277044854881266,19 Suburban traditional anglo young families in historically working class areas
+19,Kurunjang - Toolern Vale,Greater Melbourne,0.005277044854881266,19 Suburban traditional anglo young families in historically working class areas
+19,Carrum Downs,Greater Melbourne,0.005277044854881266,19 Suburban traditional anglo young families in historically working class areas
+19,Seaford (Vic.),Greater Melbourne,0.005277044854881266,19 Suburban traditional anglo young families in historically working class areas
+19,Craigie - Beldon,Greater Perth,0.0079155672823219,19 Suburban traditional anglo young families in historically working class areas
+19,Bayswater - Embleton - Bedford,Greater Perth,0.006596306068601583,19 Suburban traditional anglo young families in historically working class areas
+19,High Wycombe,Greater Perth,0.006596306068601583,19 Suburban traditional anglo young families in historically working class areas
+19,Port Kennedy,Greater Perth,0.006596306068601583,19 Suburban traditional anglo young families in historically working class areas
+19,Claymore - Eagle Vale - Raby,Greater Sydney,0.011873350923482849,19 Suburban traditional anglo young families in historically working class areas
+19,St Clair,Greater Sydney,0.011873350923482849,19 Suburban traditional anglo young families in historically working class areas
+19,Kariong,Greater Sydney,0.010554089709762533,19 Suburban traditional anglo young families in historically working class areas
+19,Rosemeadow - Glen Alpine,Greater Sydney,0.010554089709762533,19 Suburban traditional anglo young families in historically working class areas
+19,Maryland - Fletcher - Minmi,Rest of NSW,0.005277044854881266,19 Suburban traditional anglo young families in historically working class areas
+19,Queanbeyan West - Jerrabomberra,Rest of NSW,0.00395778364116095,19 Suburban traditional anglo young families in historically working class areas
+19,Charlestown - Dudley,Rest of NSW,0.00395778364116095,19 Suburban traditional anglo young families in historically working class areas
+19,Wagga Wagga - East,Rest of NSW,0.00395778364116095,19 Suburban traditional anglo young families in historically working class areas
+19,Charles,Rest of NT,0.002638522427440633,19 Suburban traditional anglo young families in historically working class areas
+19,Ross,Rest of NT,0.0013192612137203166,19 Suburban traditional anglo young families in historically working class areas
+19,Katherine,Rest of NT,0.0013192612137203166,19 Suburban traditional anglo young families in historically working class areas
+19,Helensvale,Rest of Qld,0.0079155672823219,19 Suburban traditional anglo young families in historically working class areas
+19,Shoal Point - Bucasia,Rest of Qld,0.006596306068601583,19 Suburban traditional anglo young families in historically working class areas
+19,Brinsmead,Rest of Qld,0.005277044854881266,19 Suburban traditional anglo young families in historically working class areas
+19,Trinity Beach - Smithfield,Rest of Qld,0.005277044854881266,19 Suburban traditional anglo young families in historically working class areas
+19,Mount Gambier - West,Rest of SA,0.0013192612137203166,19 Suburban traditional anglo young families in historically working class areas
+19,Grovedale - Mount Duneed,Rest of Vic.,0.00395778364116095,19 Suburban traditional anglo young families in historically working class areas
+19,Drouin,Rest of Vic.,0.00395778364116095,19 Suburban traditional anglo young families in historically working class areas
+19,Phillip Island,Rest of Vic.,0.002638522427440633,19 Suburban traditional anglo young families in historically working class areas
+19,Traralgon - East,Rest of Vic.,0.002638522427440633,19 Suburban traditional anglo young families in historically working class areas
+19,Kalgoorlie - North,Rest of WA,0.005277044854881266,19 Suburban traditional anglo young families in historically working class areas
+19,Australind - Leschenault,Rest of WA,0.00395778364116095,19 Suburban traditional anglo young families in historically working class areas
+19,Eaton - Pelican Point,Rest of WA,0.00395778364116095,19 Suburban traditional anglo young families in historically working class areas
+19,Esperance,Rest of WA,0.00395778364116095,19 Suburban traditional anglo young families in historically working class areas
+20,Kambah,Australian Capital Territory,0.011305241521068859,20 Property owning aging battlers in suburbia
+20,Kaleen,Australian Capital Territory,0.007194244604316547,20 Property owning aging battlers in suburbia
+20,Giralang,Australian Capital Territory,0.003083247687564234,20 Property owning aging battlers in suburbia
+20,O'Connor (ACT),Australian Capital Territory,0.0020554984583761563,20 Property owning aging battlers in suburbia
+20,Modbury Heights,Greater Adelaide,0.007194244604316547,20 Property owning aging battlers in suburbia
+20,Athelstone,Greater Adelaide,0.0051387461459403904,20 Property owning aging battlers in suburbia
+20,Prospect,Greater Adelaide,0.0051387461459403904,20 Property owning aging battlers in suburbia
+20,Warradale,Greater Adelaide,0.0051387461459403904,20 Property owning aging battlers in suburbia
+20,Aspley,Greater Brisbane,0.008221993833504625,20 Property owning aging battlers in suburbia
+20,The Gap,Greater Brisbane,0.0051387461459403904,20 Property owning aging battlers in suburbia
+20,Cleveland,Greater Brisbane,0.0041109969167523125,20 Property owning aging battlers in suburbia
+20,Carseldine,Greater Brisbane,0.0041109969167523125,20 Property owning aging battlers in suburbia
+20,Rapid Creek,Greater Darwin,0.0010277492291880781,20 Property owning aging battlers in suburbia
+20,Lenah Valley - Mount Stuart,Greater Hobart,0.007194244604316547,20 Property owning aging battlers in suburbia
+20,Lindisfarne - Rose Bay,Greater Hobart,0.0041109969167523125,20 Property owning aging battlers in suburbia
+20,Kingston - Huntingfield,Greater Hobart,0.0041109969167523125,20 Property owning aging battlers in suburbia
+20,Kingston Beach - Blackmans Bay,Greater Hobart,0.0041109969167523125,20 Property owning aging battlers in suburbia
+20,Altona,Greater Melbourne,0.01644398766700925,20 Property owning aging battlers in suburbia
+20,Berwick - North,Greater Melbourne,0.009249743062692703,20 Property owning aging battlers in suburbia
+20,Highett (East) - Cheltenham,Greater Melbourne,0.008221993833504625,20 Property owning aging battlers in suburbia
+20,Mordialloc - Parkdale,Greater Melbourne,0.008221993833504625,20 Property owning aging battlers in suburbia
+20,Bayswater - Embleton - Bedford,Greater Perth,0.006166495375128468,20 Property owning aging battlers in suburbia
+20,Greenwood - Warwick,Greater Perth,0.006166495375128468,20 Property owning aging battlers in suburbia
+20,Rockingham,Greater Perth,0.006166495375128468,20 Property owning aging battlers in suburbia
+20,Karrinyup - Gwelup - Carine,Greater Perth,0.0051387461459403904,20 Property owning aging battlers in suburbia
+20,Jamisontown - South Penrith,Greater Sydney,0.007194244604316547,20 Property owning aging battlers in suburbia
+20,Miranda - Yowie Bay,Greater Sydney,0.007194244604316547,20 Property owning aging battlers in suburbia
+20,Panania (South) - Picnic Point,Greater Sydney,0.006166495375128468,20 Property owning aging battlers in suburbia
+20,Sutherland - Kirrawee,Greater Sydney,0.0051387461459403904,20 Property owning aging battlers in suburbia
+20,Balgownie - Fairy Meadow,Rest of NSW,0.008221993833504625,20 Property owning aging battlers in suburbia
+20,Figtree - Keiraville,Rest of NSW,0.008221993833504625,20 Property owning aging battlers in suburbia
+20,Unanderra - Mount Kembla,Rest of NSW,0.006166495375128468,20 Property owning aging battlers in suburbia
+20,Shellharbour - Flinders,Rest of NSW,0.0051387461459403904,20 Property owning aging battlers in suburbia
+20,Katherine,Rest of NT,0.0010277492291880781,20 Property owning aging battlers in suburbia
+20,Annandale (Qld),Rest of Qld,0.007194244604316547,20 Property owning aging battlers in suburbia
+20,Mermaid Waters,Rest of Qld,0.0051387461459403904,20 Property owning aging battlers in suburbia
+20,Mount Pleasant - Glenella,Rest of Qld,0.0051387461459403904,20 Property owning aging battlers in suburbia
+20,Robina - East,Rest of Qld,0.0041109969167523125,20 Property owning aging battlers in suburbia
+20,Naracoorte,Rest of SA,0.003083247687564234,20 Property owning aging battlers in suburbia
+20,Tatiara,Rest of SA,0.0020554984583761563,20 Property owning aging battlers in suburbia
+20,Light,Rest of SA,0.0010277492291880781,20 Property owning aging battlers in suburbia
+20,Whyalla,Rest of SA,0.0010277492291880781,20 Property owning aging battlers in suburbia
+20,West Launceston,Rest of Tas.,0.0020554984583761563,20 Property owning aging battlers in suburbia
+20,Riverside,Rest of Tas.,0.0010277492291880781,20 Property owning aging battlers in suburbia
+20,Geelong West - Hamlyn Heights,Rest of Vic.,0.007194244604316547,20 Property owning aging battlers in suburbia
+20,Highton,Rest of Vic.,0.006166495375128468,20 Property owning aging battlers in suburbia
+20,Grovedale - Mount Duneed,Rest of Vic.,0.0041109969167523125,20 Property owning aging battlers in suburbia
+20,Corio - Lovely Banks,Rest of Vic.,0.003083247687564234,20 Property owning aging battlers in suburbia
+20,Geraldton - South,Rest of WA,0.0041109969167523125,20 Property owning aging battlers in suburbia
+20,Waroona,Rest of WA,0.003083247687564234,20 Property owning aging battlers in suburbia
+20,Australind - Leschenault,Rest of WA,0.0020554984583761563,20 Property owning aging battlers in suburbia
+20,Bridgetown - Boyup Brook,Rest of WA,0.0020554984583761563,20 Property owning aging battlers in suburbia
+21,Crace,Australian Capital Territory,0.0022727272727272726,21 Creative workers
+21,Gungahlin,Australian Capital Territory,0.0022727272727272726,21 Creative workers
+21,Harrison,Australian Capital Territory,0.0022727272727272726,21 Creative workers
+21,Adelaide,Greater Adelaide,0.025,21 Creative workers
+21,Unley - Parkside,Greater Adelaide,0.004545454545454545,21 Creative workers
+21,North Adelaide,Greater Adelaide,0.0022727272727272726,21 Creative workers
+21,Aldgate - Stirling,Greater Adelaide,0.0022727272727272726,21 Creative workers
+21,New Farm,Greater Brisbane,0.006818181818181818,21 Creative workers
+21,Fortitude Valley,Greater Brisbane,0.004545454545454545,21 Creative workers
+21,Highgate Hill,Greater Brisbane,0.004545454545454545,21 Creative workers
+21,South Brisbane,Greater Brisbane,0.004545454545454545,21 Creative workers
+21,Darwin City,Greater Darwin,0.0022727272727272726,21 Creative workers
+21,Hobart,Greater Hobart,0.004545454545454545,21 Creative workers
+21,Sandy Bay,Greater Hobart,0.004545454545454545,21 Creative workers
+21,South Hobart - Fern Tree,Greater Hobart,0.0022727272727272726,21 Creative workers
+21,West Hobart,Greater Hobart,0.0022727272727272726,21 Creative workers
+21,Melbourne CBD - North,Greater Melbourne,0.031818181818181815,21 Creative workers
+21,Carlton North - Princes Hill,Greater Melbourne,0.025,21 Creative workers
+21,Carlton,Greater Melbourne,0.01818181818181818,21 Creative workers
+21,Melbourne CBD - East,Greater Melbourne,0.015909090909090907,21 Creative workers
+21,Perth (North) - Highgate,Greater Perth,0.006818181818181818,21 Creative workers
+21,Fremantle,Greater Perth,0.006818181818181818,21 Creative workers
+21,Mount Lawley - Inglewood,Greater Perth,0.004545454545454545,21 Creative workers
+21,Nedlands - Dalkeith - Crawley,Greater Perth,0.0022727272727272726,21 Creative workers
+21,Potts Point - Woolloomooloo,Greater Sydney,0.03636363636363636,21 Creative workers
+21,Sydney (South) - Haymarket,Greater Sydney,0.02727272727272727,21 Creative workers
+21,Bondi Beach - North Bondi,Greater Sydney,0.020454545454545454,21 Creative workers
+21,Petersham - Stanmore,Greater Sydney,0.00909090909090909,21 Creative workers
+21,Byron Bay,Rest of NSW,0.01818181818181818,21 Creative workers
+21,Jindabyne - Berridale,Rest of NSW,0.013636363636363636,21 Creative workers
+21,Bangalow,Rest of NSW,0.00909090909090909,21 Creative workers
+21,Mullumbimby,Rest of NSW,0.00909090909090909,21 Creative workers
+21,Sunshine Beach,Rest of Qld,0.01818181818181818,21 Creative workers
+21,Noosaville,Rest of Qld,0.013636363636363636,21 Creative workers
+21,Port Douglas,Rest of Qld,0.00909090909090909,21 Creative workers
+21,Noosa Heads,Rest of Qld,0.00909090909090909,21 Creative workers
+21,Yorke Peninsula - South,Rest of SA,0.0022727272727272726,21 Creative workers
+21,Goolwa - Port Elliot,Rest of SA,0.0022727272727272726,21 Creative workers
+21,Victor Harbor,Rest of SA,0.0022727272727272726,21 Creative workers
+21,Launceston,Rest of Tas.,0.0022727272727272726,21 Creative workers
+21,Derwent Valley,Rest of Tas.,0.0022727272727272726,21 Creative workers
+21,Bright - Mount Beauty,Rest of Vic.,0.00909090909090909,21 Creative workers
+21,Daylesford,Rest of Vic.,0.006818181818181818,21 Creative workers
+21,Castlemaine,Rest of Vic.,0.004545454545454545,21 Creative workers
+21,Castlemaine Surrounds,Rest of Vic.,0.004545454545454545,21 Creative workers
+21,Busselton Surrounds,Rest of WA,0.004545454545454545,21 Creative workers
+21,Margaret River,Rest of WA,0.004545454545454545,21 Creative workers
+21,Busselton - West,Rest of WA,0.0022727272727272726,21 Creative workers
+21,Denmark,Rest of WA,0.0022727272727272726,21 Creative workers
+22,Gungahlin,Australian Capital Territory,0.007125890736342043,22 Recent chinese arrivals
+22,Phillip,Australian Capital Territory,0.0023752969121140144,22 Recent chinese arrivals
+22,Northgate - Northfield,Greater Adelaide,0.007125890736342043,22 Recent chinese arrivals
+22,Paradise - Newton,Greater Adelaide,0.004750593824228029,22 Recent chinese arrivals
+22,Windsor Gardens,Greater Adelaide,0.004750593824228029,22 Recent chinese arrivals
+22,Toorak Gardens,Greater Adelaide,0.0023752969121140144,22 Recent chinese arrivals
+22,Sunnybank,Greater Brisbane,0.014251781472684086,22 Recent chinese arrivals
+22,Eight Mile Plains,Greater Brisbane,0.011876484560570071,22 Recent chinese arrivals
+22,Indooroopilly,Greater Brisbane,0.009501187648456057,22 Recent chinese arrivals
+22,Upper Mount Gravatt,Greater Brisbane,0.007125890736342043,22 Recent chinese arrivals
+22,Brinkin - Nakara,Greater Darwin,0.0023752969121140144,22 Recent chinese arrivals
+22,Kingston - Huntingfield,Greater Hobart,0.0023752969121140144,22 Recent chinese arrivals
+22,Sandy Bay,Greater Hobart,0.0023752969121140144,22 Recent chinese arrivals
+22,Springvale,Greater Melbourne,0.026128266033254157,22 Recent chinese arrivals
+22,Doncaster,Greater Melbourne,0.019002375296912115,22 Recent chinese arrivals
+22,Glen Waverley - West,Greater Melbourne,0.019002375296912115,22 Recent chinese arrivals
+22,Box Hill,Greater Melbourne,0.0166270783847981,22 Recent chinese arrivals
+22,Bentley - Wilson - St James,Greater Perth,0.009501187648456057,22 Recent chinese arrivals
+22,Cannington - Queens Park,Greater Perth,0.007125890736342043,22 Recent chinese arrivals
+22,Willetton,Greater Perth,0.004750593824228029,22 Recent chinese arrivals
+22,Subiaco - Shenton Park,Greater Perth,0.0023752969121140144,22 Recent chinese arrivals
+22,Homebush,Greater Sydney,0.028503562945368172,22 Recent chinese arrivals
+22,Auburn - North,Greater Sydney,0.028503562945368172,22 Recent chinese arrivals
+22,Campsie - North,Greater Sydney,0.026128266033254157,22 Recent chinese arrivals
+22,Epping (NSW) - West,Greater Sydney,0.023752969121140142,22 Recent chinese arrivals
+22,Southport - South,Rest of Qld,0.004750593824228029,22 Recent chinese arrivals
+22,Southport - North,Rest of Qld,0.0023752969121140144,22 Recent chinese arrivals
+22,Gatton,Rest of Qld,0.0023752969121140144,22 Recent chinese arrivals
+23,Paradise - Newton,Greater Adelaide,0.021937842778793418,23 Post war Italian and Greek
+23,Richmond (SA),Greater Adelaide,0.014625228519195612,23 Post war Italian and Greek
+23,Hindmarsh - Brompton,Greater Adelaide,0.012797074954296161,23 Post war Italian and Greek
+23,Rostrevor - Magill,Greater Adelaide,0.010968921389396709,23 Post war Italian and Greek
+23,Carindale,Greater Brisbane,0.0018281535648994515,23 Post war Italian and Greek
+23,West End,Greater Brisbane,0.0018281535648994515,23 Post war Italian and Greek
+23,Thomastown,Greater Melbourne,0.04021937842778794,23 Post war Italian and Greek
+23,Keilor East,Greater Melbourne,0.02376599634369287,23 Post war Italian and Greek
+23,Altona North,Greater Melbourne,0.02376599634369287,23 Post war Italian and Greek
+23,Bulleen,Greater Melbourne,0.021937842778793418,23 Post war Italian and Greek
+23,Stirling - Osborne Park,Greater Perth,0.007312614259597806,23 Post war Italian and Greek
+23,Dianella - North,Greater Perth,0.007312614259597806,23 Post war Italian and Greek
+23,Balcatta - Hamersley,Greater Perth,0.003656307129798903,23 Post war Italian and Greek
+23,Mount Hawthorn - Leederville,Greater Perth,0.0018281535648994515,23 Post war Italian and Greek
+23,Earlwood,Greater Sydney,0.03290676416819013,23 Post war Italian and Greek
+23,Concord - Mortlake - Cabarita,Greater Sydney,0.02010968921389397,23 Post war Italian and Greek
+23,Five Dock - Abbotsford,Greater Sydney,0.012797074954296161,23 Post war Italian and Greek
+23,Haberfield - Summer Hill,Greater Sydney,0.009140767824497258,23 Post war Italian and Greek
+23,Griffith (NSW),Rest of NSW,0.005484460694698354,23 Post war Italian and Greek
+23,Queanbeyan,Rest of NSW,0.0018281535648994515,23 Post war Italian and Greek
+23,Unanderra - Mount Kembla,Rest of NSW,0.0018281535648994515,23 Post war Italian and Greek
+23,Port Kembla - Warrawong,Rest of NSW,0.0018281535648994515,23 Post war Italian and Greek
+23,Mareeba,Rest of Qld,0.003656307129798903,23 Post war Italian and Greek
+23,Ingham,Rest of Qld,0.0018281535648994515,23 Post war Italian and Greek
+23,Ingham Surrounds,Rest of Qld,0.0018281535648994515,23 Post war Italian and Greek
+23,Morwell,Rest of Vic.,0.003656307129798903,23 Post war Italian and Greek
+23,Geelong West - Hamlyn Heights,Rest of Vic.,0.0018281535648994515,23 Post war Italian and Greek
+23,North Geelong - Bell Park,Rest of Vic.,0.0018281535648994515,23 Post war Italian and Greek
+23,Mildura - South,Rest of Vic.,0.0018281535648994515,23 Post war Italian and Greek
+24,Monash,Australian Capital Territory,0.00145985401459854,24 Empty nesters in fringe and capital city regions
+24,Wanniassa,Australian Capital Territory,0.00145985401459854,24 Empty nesters in fringe and capital city regions
+24,Gawler - South,Greater Adelaide,0.008759124087591242,24 Empty nesters in fringe and capital city regions
+24,Woodcroft,Greater Adelaide,0.008759124087591242,24 Empty nesters in fringe and capital city regions
+24,Mount Barker,Greater Adelaide,0.0072992700729927005,24 Empty nesters in fringe and capital city regions
+24,Craigmore - Blakeview,Greater Adelaide,0.0072992700729927005,24 Empty nesters in fringe and capital city regions
+24,Victoria Point,Greater Brisbane,0.016058394160583942,24 Empty nesters in fringe and capital city regions
+24,Redland Bay,Greater Brisbane,0.01167883211678832,24 Empty nesters in fringe and capital city regions
+24,Capalaba,Greater Brisbane,0.008759124087591242,24 Empty nesters in fringe and capital city regions
+24,Margate - Woody Point,Greater Brisbane,0.008759124087591242,24 Empty nesters in fringe and capital city regions
+24,Kingston Beach - Blackmans Bay,Greater Hobart,0.00291970802919708,24 Empty nesters in fringe and capital city regions
+24,South Hobart - Fern Tree,Greater Hobart,0.00145985401459854,24 Empty nesters in fringe and capital city regions
+24,West Hobart,Greater Hobart,0.00145985401459854,24 Empty nesters in fringe and capital city regions
+24,Langwarrin,Greater Melbourne,0.01167883211678832,24 Empty nesters in fringe and capital city regions
+24,Frankston South,Greater Melbourne,0.010218978102189781,24 Empty nesters in fringe and capital city regions
+24,Mount Martha,Greater Melbourne,0.0072992700729927005,24 Empty nesters in fringe and capital city regions
+24,Somerville,Greater Melbourne,0.0072992700729927005,24 Empty nesters in fringe and capital city regions
+24,Greenfields,Greater Perth,0.0072992700729927005,24 Empty nesters in fringe and capital city regions
+24,Swan View - Greenmount - Midvale,Greater Perth,0.004379562043795621,24 Empty nesters in fringe and capital city regions
+24,Pinjarra,Greater Perth,0.00291970802919708,24 Empty nesters in fringe and capital city regions
+24,Mundaring,Greater Perth,0.00291970802919708,24 Empty nesters in fringe and capital city regions
+24,Katoomba - Leura,Greater Sydney,0.01167883211678832,24 Empty nesters in fringe and capital city regions
+24,Lawson - Hazelbrook - Linden,Greater Sydney,0.010218978102189781,24 Empty nesters in fringe and capital city regions
+24,Springwood - Winmalee,Greater Sydney,0.008759124087591242,24 Empty nesters in fringe and capital city regions
+24,Kincumber - Picketts Valley,Greater Sydney,0.0072992700729927005,24 Empty nesters in fringe and capital city regions
+24,Dapto - Avondale,Rest of NSW,0.016058394160583942,24 Empty nesters in fringe and capital city regions
+24,Kiama,Rest of NSW,0.00583941605839416,24 Empty nesters in fringe and capital city regions
+24,Moss Vale - Berrima,Rest of NSW,0.00583941605839416,24 Empty nesters in fringe and capital city regions
+24,Nelson Bay Peninsula,Rest of NSW,0.004379562043795621,24 Empty nesters in fringe and capital city regions
+24,Noosa Hinterland,Rest of Qld,0.010218978102189781,24 Empty nesters in fringe and capital city regions
+24,Coolum Beach,Rest of Qld,0.008759124087591242,24 Empty nesters in fringe and capital city regions
+24,Palmwoods,Rest of Qld,0.008759124087591242,24 Empty nesters in fringe and capital city regions
+24,Currumbin Waters,Rest of Qld,0.0072992700729927005,24 Empty nesters in fringe and capital city regions
+24,Whyalla,Rest of SA,0.0072992700729927005,24 Empty nesters in fringe and capital city regions
+24,Lyndoch,Rest of SA,0.00291970802919708,24 Empty nesters in fringe and capital city regions
+24,Light,Rest of SA,0.00145985401459854,24 Empty nesters in fringe and capital city regions
+24,Wakefield - Barunga West,Rest of SA,0.00145985401459854,24 Empty nesters in fringe and capital city regions
+24,Riverside,Rest of Tas.,0.00291970802919708,24 Empty nesters in fringe and capital city regions
+24,Trevallyn,Rest of Tas.,0.00291970802919708,24 Empty nesters in fringe and capital city regions
+24,West Launceston,Rest of Tas.,0.00145985401459854,24 Empty nesters in fringe and capital city regions
+24,Perth - Evandale,Rest of Tas.,0.00145985401459854,24 Empty nesters in fringe and capital city regions
+24,Clifton Springs,Rest of Vic.,0.008759124087591242,24 Empty nesters in fringe and capital city regions
+24,Lara,Rest of Vic.,0.0072992700729927005,24 Empty nesters in fringe and capital city regions
+24,Kyneton,Rest of Vic.,0.004379562043795621,24 Empty nesters in fringe and capital city regions
+24,Grovedale - Mount Duneed,Rest of Vic.,0.004379562043795621,24 Empty nesters in fringe and capital city regions
+24,Busselton - West,Rest of WA,0.0072992700729927005,24 Empty nesters in fringe and capital city regions
+24,Australind - Leschenault,Rest of WA,0.0072992700729927005,24 Empty nesters in fringe and capital city regions
+24,Busselton - East,Rest of WA,0.00291970802919708,24 Empty nesters in fringe and capital city regions
+24,Albany,Rest of WA,0.00291970802919708,24 Empty nesters in fringe and capital city regions
+25,Ngunnawal,Australian Capital Territory,0.005361930294906166,25 Early career admin workers and pensioners
+25,Crace,Australian Capital Territory,0.002680965147453083,25 Early career admin workers and pensioners
+25,Palmerston,Australian Capital Territory,0.002680965147453083,25 Early career admin workers and pensioners
+25,Watson,Australian Capital Territory,0.002680965147453083,25 Early career admin workers and pensioners
+25,Plympton,Greater Adelaide,0.01742627345844504,25 Early career admin workers and pensioners
+25,Mitchell Park,Greater Adelaide,0.0160857908847185,25 Early career admin workers and pensioners
+25,Edwardstown,Greater Adelaide,0.013404825737265416,25 Early career admin workers and pensioners
+25,Warradale,Greater Adelaide,0.010723860589812333,25 Early career admin workers and pensioners
+25,Taigum - Fitzgibbon,Greater Brisbane,0.005361930294906166,25 Early career admin workers and pensioners
+25,Springfield Lakes,Greater Brisbane,0.004021447721179625,25 Early career admin workers and pensioners
+25,Carina Heights,Greater Brisbane,0.002680965147453083,25 Early career admin workers and pensioners
+25,Mansfield (Qld),Greater Brisbane,0.002680965147453083,25 Early career admin workers and pensioners
+25,Rapid Creek,Greater Darwin,0.002680965147453083,25 Early career admin workers and pensioners
+25,Tiwi,Greater Darwin,0.002680965147453083,25 Early career admin workers and pensioners
+25,Stuart Park,Greater Darwin,0.0013404825737265416,25 Early career admin workers and pensioners
+25,Alawa,Greater Darwin,0.0013404825737265416,25 Early career admin workers and pensioners
+25,Glenorchy,Greater Hobart,0.006702412868632708,25 Early career admin workers and pensioners
+25,Kingston - Huntingfield,Greater Hobart,0.005361930294906166,25 Early career admin workers and pensioners
+25,Mount Nelson - Dynnyrne,Greater Hobart,0.0013404825737265416,25 Early career admin workers and pensioners
+25,Highett (East) - Cheltenham,Greater Melbourne,0.01876675603217158,25 Early career admin workers and pensioners
+25,Altona Meadows,Greater Melbourne,0.014745308310991957,25 Early career admin workers and pensioners
+25,Mitcham (Vic.),Greater Melbourne,0.013404825737265416,25 Early career admin workers and pensioners
+25,Caulfield - South,Greater Melbourne,0.012064343163538873,25 Early career admin workers and pensioners
+25,East Victoria Park - Carlisle,Greater Perth,0.010723860589812333,25 Early career admin workers and pensioners
+25,Tuart Hill - Joondanna,Greater Perth,0.00804289544235925,25 Early career admin workers and pensioners
+25,Yokine - Coolbinia - Menora,Greater Perth,0.00804289544235925,25 Early career admin workers and pensioners
+25,Victoria Park - Lathlain - Burswood,Greater Perth,0.00804289544235925,25 Early career admin workers and pensioners
+25,Miranda - Yowie Bay,Greater Sydney,0.014745308310991957,25 Early career admin workers and pensioners
+25,Sydenham - Tempe - St Peters,Greater Sydney,0.00938337801608579,25 Early career admin workers and pensioners
+25,Lalor Park - Kings Langley,Greater Sydney,0.00804289544235925,25 Early career admin workers and pensioners
+25,Sans Souci - Ramsgate,Greater Sydney,0.00804289544235925,25 Early career admin workers and pensioners
+25,Wollongong - West,Rest of NSW,0.00804289544235925,25 Early career admin workers and pensioners
+25,Griffith (NSW),Rest of NSW,0.006702412868632708,25 Early career admin workers and pensioners
+25,Queanbeyan,Rest of NSW,0.005361930294906166,25 Early career admin workers and pensioners
+25,Karabar,Rest of NSW,0.002680965147453083,25 Early career admin workers and pensioners
+25,East Side,Rest of NT,0.0013404825737265416,25 Early career admin workers and pensioners
+25,Larapinta,Rest of NT,0.0013404825737265416,25 Early career admin workers and pensioners
+25,Arundel,Rest of Qld,0.004021447721179625,25 Early career admin workers and pensioners
+25,Southport - South,Rest of Qld,0.004021447721179625,25 Early career admin workers and pensioners
+25,Kanimbla - Mooroobool,Rest of Qld,0.002680965147453083,25 Early career admin workers and pensioners
+25,Labrador,Rest of Qld,0.002680965147453083,25 Early career admin workers and pensioners
+25,Naracoorte,Rest of SA,0.002680965147453083,25 Early career admin workers and pensioners
+25,Corio - Lovely Banks,Rest of Vic.,0.00938337801608579,25 Early career admin workers and pensioners
+25,North Geelong - Bell Park,Rest of Vic.,0.006702412868632708,25 Early career admin workers and pensioners
+25,Shepparton - North,Rest of Vic.,0.004021447721179625,25 Early career admin workers and pensioners
+25,Geelong,Rest of Vic.,0.0013404825737265416,25 Early career admin workers and pensioners
+25,Katanning,Rest of WA,0.004021447721179625,25 Early career admin workers and pensioners
+25,Harvey,Rest of WA,0.0013404825737265416,25 Early career admin workers and pensioners
+26,Franklin,Australian Capital Territory,0.001996007984031936,26 Multicultural lower skilled workers
+26,Phillip,Australian Capital Territory,0.001996007984031936,26 Multicultural lower skilled workers
+26,The Parks,Greater Adelaide,0.011976047904191617,26 Multicultural lower skilled workers
+26,Enfield - Blair Athol,Greater Adelaide,0.005988023952095809,26 Multicultural lower skilled workers
+26,Paradise - Newton,Greater Adelaide,0.003992015968063872,26 Multicultural lower skilled workers
+26,Plympton,Greater Adelaide,0.003992015968063872,26 Multicultural lower skilled workers
+26,Kuraby,Greater Brisbane,0.003992015968063872,26 Multicultural lower skilled workers
+26,Pallara - Willawong,Greater Brisbane,0.001996007984031936,26 Multicultural lower skilled workers
+26,Parkinson - Drewvale,Greater Brisbane,0.001996007984031936,26 Multicultural lower skilled workers
+26,Runcorn,Greater Brisbane,0.001996007984031936,26 Multicultural lower skilled workers
+26,Dandenong - North,Greater Melbourne,0.03992015968063872,26 Multicultural lower skilled workers
+26,Dandenong - South,Greater Melbourne,0.023952095808383235,26 Multicultural lower skilled workers
+26,Campbellfield - Coolaroo,Greater Melbourne,0.013972055888223553,26 Multicultural lower skilled workers
+26,Springvale,Greater Melbourne,0.013972055888223553,26 Multicultural lower skilled workers
+26,Canning Vale - East,Greater Perth,0.017964071856287425,26 Multicultural lower skilled workers
+26,Willetton,Greater Perth,0.00998003992015968,26 Multicultural lower skilled workers
+26,Balga - Mirrabooka,Greater Perth,0.003992015968063872,26 Multicultural lower skilled workers
+26,Maddington - Orange Grove - Martin,Greater Perth,0.003992015968063872,26 Multicultural lower skilled workers
+26,Yagoona - Birrong,Greater Sydney,0.02594810379241517,26 Multicultural lower skilled workers
+26,Fairfield - West,Greater Sydney,0.02594810379241517,26 Multicultural lower skilled workers
+26,Chester Hill - Sefton,Greater Sydney,0.023952095808383235,26 Multicultural lower skilled workers
+26,Fairfield,Greater Sydney,0.021956087824351298,26 Multicultural lower skilled workers
+26,Berkeley - Lake Heights - Cringila,Rest of NSW,0.001996007984031936,26 Multicultural lower skilled workers
+26,Port Kembla - Warrawong,Rest of NSW,0.001996007984031936,26 Multicultural lower skilled workers
+26,Robinvale,Rest of Vic.,0.003992015968063872,26 Multicultural lower skilled workers
+26,Shepparton - South East,Rest of Vic.,0.001996007984031936,26 Multicultural lower skilled workers
+27,Franklin,Australian Capital Territory,0.0014005602240896359,27 Old manufacturing heartland
+27,Gungahlin,Australian Capital Territory,0.0014005602240896359,27 Old manufacturing heartland
+27,Enfield - Blair Athol,Greater Adelaide,0.008403361344537815,27 Old manufacturing heartland
+27,Windsor Gardens,Greater Adelaide,0.0056022408963585435,27 Old manufacturing heartland
+27,Salisbury,Greater Adelaide,0.0056022408963585435,27 Old manufacturing heartland
+27,Pooraka - Cavan,Greater Adelaide,0.004201680672268907,27 Old manufacturing heartland
+27,Runcorn,Greater Brisbane,0.008403361344537815,27 Old manufacturing heartland
+27,Coopers Plains,Greater Brisbane,0.004201680672268907,27 Old manufacturing heartland
+27,Marsden,Greater Brisbane,0.004201680672268907,27 Old manufacturing heartland
+27,Algester,Greater Brisbane,0.0028011204481792717,27 Old manufacturing heartland
+27,Dandenong North,Greater Melbourne,0.029411764705882353,27 Old manufacturing heartland
+27,Campbellfield - Coolaroo,Greater Melbourne,0.023809523809523808,27 Old manufacturing heartland
+27,Endeavour Hills - South,Greater Melbourne,0.022408963585434174,27 Old manufacturing heartland
+27,Endeavour Hills - North,Greater Melbourne,0.018207282913165267,27 Old manufacturing heartland
+27,Balga - Mirrabooka,Greater Perth,0.00980392156862745,27 Old manufacturing heartland
+27,Alexander Heights - Koondoola,Greater Perth,0.004201680672268907,27 Old manufacturing heartland
+27,Dianella - North,Greater Perth,0.0028011204481792717,27 Old manufacturing heartland
+27,Cannington - Queens Park,Greater Perth,0.0028011204481792717,27 Old manufacturing heartland
+27,Bossley Park - Abbotsbury,Greater Sydney,0.025210084033613446,27 Old manufacturing heartland
+27,Guildford - South Granville,Greater Sydney,0.023809523809523808,27 Old manufacturing heartland
+27,Guildford West - Merrylands West,Greater Sydney,0.0196078431372549,27 Old manufacturing heartland
+27,Casula,Greater Sydney,0.01680672268907563,27 Old manufacturing heartland
+27,Port Kembla - Warrawong,Rest of NSW,0.0014005602240896359,27 Old manufacturing heartland
+27,Benowa,Rest of Qld,0.0014005602240896359,27 Old manufacturing heartland
+27,North Geelong - Bell Park,Rest of Vic.,0.0014005602240896359,27 Old manufacturing heartland
+28,Monash,Australian Capital Territory,0.002506265664160401,28 Vietnamese enclaves
+28,The Parks,Greater Adelaide,0.022556390977443608,28 Vietnamese enclaves
+28,Woodville - Cheltenham,Greater Adelaide,0.012531328320802004,28 Vietnamese enclaves
+28,Virginia - Waterloo Corner,Greater Adelaide,0.007518796992481203,28 Vietnamese enclaves
+28,Parafield Gardens,Greater Adelaide,0.007518796992481203,28 Vietnamese enclaves
+28,Inala - Richlands,Greater Brisbane,0.02506265664160401,28 Vietnamese enclaves
+28,Forest Lake - Ellen Grove,Greater Brisbane,0.02506265664160401,28 Vietnamese enclaves
+28,Durack,Greater Brisbane,0.015037593984962405,28 Vietnamese enclaves
+28,Darra - Sumner,Greater Brisbane,0.012531328320802004,28 Vietnamese enclaves
+28,Howrah - Tranmere,Greater Hobart,0.002506265664160401,28 Vietnamese enclaves
+28,Rokeby,Greater Hobart,0.002506265664160401,28 Vietnamese enclaves
+28,Braybrook,Greater Melbourne,0.040100250626566414,28 Vietnamese enclaves
+28,Sunshine North,Greater Melbourne,0.03508771929824561,28 Vietnamese enclaves
+28,Springvale South,Greater Melbourne,0.03258145363408521,28 Vietnamese enclaves
+28,St Albans - North,Greater Melbourne,0.03258145363408521,28 Vietnamese enclaves
+28,Ballajura,Greater Perth,0.015037593984962405,28 Vietnamese enclaves
+28,Girrawheen,Greater Perth,0.007518796992481203,28 Vietnamese enclaves
+28,Balga - Mirrabooka,Greater Perth,0.005012531328320802,28 Vietnamese enclaves
+28,Marangaroo,Greater Perth,0.005012531328320802,28 Vietnamese enclaves
+28,Canley Vale - Canley Heights,Greater Sydney,0.05012531328320802,28 Vietnamese enclaves
+28,Cabramatta - Lansvale,Greater Sydney,0.047619047619047616,28 Vietnamese enclaves
+28,Cabramatta West - Mount Pritchard,Greater Sydney,0.03759398496240601,28 Vietnamese enclaves
+28,Fairfield - East,Greater Sydney,0.017543859649122806,28 Vietnamese enclaves
+28,Tamworth - East,Rest of NSW,0.012531328320802004,28 Vietnamese enclaves
+28,Batemans Bay,Rest of NSW,0.002506265664160401,28 Vietnamese enclaves
+28,Young,Rest of NSW,0.002506265664160401,28 Vietnamese enclaves
+28,Grafton,Rest of NSW,0.002506265664160401,28 Vietnamese enclaves
+28,Alligator,Rest of NT,0.002506265664160401,28 Vietnamese enclaves
+28,Charleville,Rest of Qld,0.012531328320802004,28 Vietnamese enclaves
+28,Chinchilla,Rest of Qld,0.002506265664160401,28 Vietnamese enclaves
+28,Warwick,Rest of Qld,0.002506265664160401,28 Vietnamese enclaves
+28,Berserker,Rest of Qld,0.002506265664160401,28 Vietnamese enclaves
+28,Port Pirie,Rest of SA,0.002506265664160401,28 Vietnamese enclaves
+28,Whyalla,Rest of SA,0.002506265664160401,28 Vietnamese enclaves
+28,Murray Bridge,Rest of SA,0.002506265664160401,28 Vietnamese enclaves
+28,Wodonga,Rest of Vic.,0.007518796992481203,28 Vietnamese enclaves
+28,Hamilton (Vic.),Rest of Vic.,0.005012531328320802,28 Vietnamese enclaves
+28,California Gully - Eaglehawk,Rest of Vic.,0.002506265664160401,28 Vietnamese enclaves
+28,West Wodonga,Rest of Vic.,0.002506265664160401,28 Vietnamese enclaves
+28,Albany,Rest of WA,0.002506265664160401,28 Vietnamese enclaves
+29,Davoren Park,Greater Adelaide,0.021212121212121213,29 Working class pacific island families in old 'new estates'
+29,Enfield - Blair Athol,Greater Adelaide,0.00909090909090909,29 Working class pacific island families in old 'new estates'
+29,Salisbury,Greater Adelaide,0.007575757575757576,29 Working class pacific island families in old 'new estates'
+29,Para Hills,Greater Adelaide,0.0030303030303030303,29 Working class pacific island families in old 'new estates'
+29,Redbank Plains,Greater Brisbane,0.024242424242424242,29 Working class pacific island families in old 'new estates'
+29,Collingwood Park - Redbank,Greater Brisbane,0.019696969696969695,29 Working class pacific island families in old 'new estates'
+29,Kallangur,Greater Brisbane,0.019696969696969695,29 Working class pacific island families in old 'new estates'
+29,Rocklea - Acacia Ridge,Greater Brisbane,0.01818181818181818,29 Working class pacific island families in old 'new estates'
+29,Berriedale - Chigwell,Greater Hobart,0.0030303030303030303,29 Working class pacific island families in old 'new estates'
+29,Carrum Downs,Greater Melbourne,0.03484848484848485,29 Working class pacific island families in old 'new estates'
+29,Frankston North,Greater Melbourne,0.02878787878787879,29 Working class pacific island families in old 'new estates'
+29,Pakenham - South West,Greater Melbourne,0.01818181818181818,29 Working class pacific island families in old 'new estates'
+29,Cranbourne,Greater Melbourne,0.01818181818181818,29 Working class pacific island families in old 'new estates'
+29,Armadale - Wungong - Brookdale,Greater Perth,0.02878787878787879,29 Working class pacific island families in old 'new estates'
+29,Ballajura,Greater Perth,0.013636363636363636,29 Working class pacific island families in old 'new estates'
+29,Forrestfield - Wattle Grove,Greater Perth,0.013636363636363636,29 Working class pacific island families in old 'new estates'
+29,Clarkson,Greater Perth,0.006060606060606061,29 Working class pacific island families in old 'new estates'
+29,St Marys - North St Marys,Greater Sydney,0.019696969696969695,29 Working class pacific island families in old 'new estates'
+29,Bradbury - Wedderburn,Greater Sydney,0.012121212121212121,29 Working class pacific island families in old 'new estates'
+29,Campbelltown - Woodbine,Greater Sydney,0.00909090909090909,29 Working class pacific island families in old 'new estates'
+29,Minto - St Andrews,Greater Sydney,0.00909090909090909,29 Working class pacific island families in old 'new estates'
+29,Lavington,Rest of NSW,0.01818181818181818,29 Working class pacific island families in old 'new estates'
+29,Port Kembla - Warrawong,Rest of NSW,0.015151515151515152,29 Working class pacific island families in old 'new estates'
+29,Berkeley - Lake Heights - Cringila,Rest of NSW,0.013636363636363636,29 Working class pacific island families in old 'new estates'
+29,Raymond Terrace,Rest of NSW,0.007575757575757576,29 Working class pacific island families in old 'new estates'
+29,Charles,Rest of NT,0.0015151515151515152,29 Working class pacific island families in old 'new estates'
+29,Tennant Creek,Rest of NT,0.0015151515151515152,29 Working class pacific island families in old 'new estates'
+29,Varsity Lakes,Rest of Qld,0.013636363636363636,29 Working class pacific island families in old 'new estates'
+29,Nerang - Mount Nathan,Rest of Qld,0.00909090909090909,29 Working class pacific island families in old 'new estates'
+29,Edmonton,Rest of Qld,0.004545454545454545,29 Working class pacific island families in old 'new estates'
+29,Warwick,Rest of Qld,0.004545454545454545,29 Working class pacific island families in old 'new estates'
+29,Whyalla,Rest of SA,0.007575757575757576,29 Working class pacific island families in old 'new estates'
+29,Port Augusta,Rest of SA,0.006060606060606061,29 Working class pacific island families in old 'new estates'
+29,Newnham - Mayfield,Rest of Tas.,0.013636363636363636,29 Working class pacific island families in old 'new estates'
+29,Invermay,Rest of Tas.,0.0030303030303030303,29 Working class pacific island families in old 'new estates'
+29,Ravenswood,Rest of Tas.,0.0030303030303030303,29 Working class pacific island families in old 'new estates'
+29,Morwell,Rest of Vic.,0.015151515151515152,29 Working class pacific island families in old 'new estates'
+29,Shepparton - South East,Rest of Vic.,0.012121212121212121,29 Working class pacific island families in old 'new estates'
+29,North Geelong - Bell Park,Rest of Vic.,0.010606060606060607,29 Working class pacific island families in old 'new estates'
+29,Moe - Newborough,Rest of Vic.,0.010606060606060607,29 Working class pacific island families in old 'new estates'
+29,College Grove - Carey Park,Rest of WA,0.0030303030303030303,29 Working class pacific island families in old 'new estates'
+29,Collie,Rest of WA,0.0030303030303030303,29 Working class pacific island families in old 'new estates'
+29,East Bunbury - Glen Iris,Rest of WA,0.0030303030303030303,29 Working class pacific island families in old 'new estates'
+29,Kalgoorlie,Rest of WA,0.0030303030303030303,29 Working class pacific island families in old 'new estates'
+30,Ingle Farm,Greater Adelaide,0.013333333333333334,30 Pacific Islander community in older australian community
+30,Gawler - South,Greater Adelaide,0.010666666666666666,30 Pacific Islander community in older australian community
+30,Para Hills,Greater Adelaide,0.010666666666666666,30 Pacific Islander community in older australian community
+30,Aldinga,Greater Adelaide,0.010666666666666666,30 Pacific Islander community in older australian community
+30,Deception Bay,Greater Brisbane,0.029333333333333333,30 Pacific Islander community in older australian community
+30,Boronia Heights - Park Ridge,Greater Brisbane,0.017333333333333333,30 Pacific Islander community in older australian community
+30,Strathpine - Brendale,Greater Brisbane,0.014666666666666666,30 Pacific Islander community in older australian community
+30,Bethania - Waterford,Greater Brisbane,0.013333333333333334,30 Pacific Islander community in older australian community
+30,Claremont (Tas.),Greater Hobart,0.006666666666666667,30 Pacific Islander community in older australian community
+30,Mornington - Warrane,Greater Hobart,0.005333333333333333,30 Pacific Islander community in older australian community
+30,Glenorchy,Greater Hobart,0.005333333333333333,30 Pacific Islander community in older australian community
+30,Brighton - Pontville,Greater Hobart,0.004,30 Pacific Islander community in older australian community
+30,Werribee - East,Greater Melbourne,0.02266666666666667,30 Pacific Islander community in older australian community
+30,Melton West,Greater Melbourne,0.021333333333333333,30 Pacific Islander community in older australian community
+30,Frankston North,Greater Melbourne,0.013333333333333334,30 Pacific Islander community in older australian community
+30,Craigieburn - Central,Greater Melbourne,0.012,30 Pacific Islander community in older australian community
+30,Gosnells,Greater Perth,0.034666666666666665,30 Pacific Islander community in older australian community
+30,Parmelia - Orelia,Greater Perth,0.010666666666666666,30 Pacific Islander community in older australian community
+30,Calista,Greater Perth,0.006666666666666667,30 Pacific Islander community in older australian community
+30,Cooloongup,Greater Perth,0.006666666666666667,30 Pacific Islander community in older australian community
+30,Rosemeadow - Glen Alpine,Greater Sydney,0.014666666666666666,30 Pacific Islander community in older australian community
+30,Colyton - Oxley Park,Greater Sydney,0.009333333333333334,30 Pacific Islander community in older australian community
+30,Bidwill - Hebersham - Emerton,Greater Sydney,0.008,30 Pacific Islander community in older australian community
+30,Leumeah - Minto Heights,Greater Sydney,0.008,30 Pacific Islander community in older australian community
+30,Kurri Kurri - Abermain,Rest of NSW,0.008,30 Pacific Islander community in older australian community
+30,Warilla,Rest of NSW,0.008,30 Pacific Islander community in older australian community
+30,Mayfield - Warabrook,Rest of NSW,0.004,30 Pacific Islander community in older australian community
+30,Dubbo - East,Rest of NSW,0.0026666666666666666,30 Pacific Islander community in older australian community
+30,Nambour,Rest of Qld,0.017333333333333333,30 Pacific Islander community in older australian community
+30,Labrador,Rest of Qld,0.006666666666666667,30 Pacific Islander community in older australian community
+30,Newtown (Qld),Rest of Qld,0.006666666666666667,30 Pacific Islander community in older australian community
+30,Pacific Pines - Gaven,Rest of Qld,0.005333333333333333,30 Pacific Islander community in older australian community
+30,Light,Rest of SA,0.0013333333333333333,30 Pacific Islander community in older australian community
+30,Mallala,Rest of SA,0.0013333333333333333,30 Pacific Islander community in older australian community
+30,Barmera,Rest of SA,0.0013333333333333333,30 Pacific Islander community in older australian community
+30,Murray Bridge,Rest of SA,0.0013333333333333333,30 Pacific Islander community in older australian community
+30,Hadspen - Carrick,Rest of Tas.,0.0026666666666666666,30 Pacific Islander community in older australian community
+30,Latrobe,Rest of Tas.,0.0013333333333333333,30 Pacific Islander community in older australian community
+30,Kangaroo Flat - Golden Square,Rest of Vic.,0.013333333333333334,30 Pacific Islander community in older australian community
+30,California Gully - Eaglehawk,Rest of Vic.,0.008,30 Pacific Islander community in older australian community
+30,Colac,Rest of Vic.,0.008,30 Pacific Islander community in older australian community
+30,Mildura - South,Rest of Vic.,0.004,30 Pacific Islander community in older australian community
+30,Katanning,Rest of WA,0.004,30 Pacific Islander community in older australian community
+30,McKail - Willyung,Rest of WA,0.0026666666666666666,30 Pacific Islander community in older australian community
+31,Belconnen,Australian Capital Territory,0.000925925925925926,31 Lower amenity young renters
+31,Ainslie,Australian Capital Territory,0.000925925925925926,31 Lower amenity young renters
+31,Greenway,Australian Capital Territory,0.000925925925925926,31 Lower amenity young renters
+31,Adelaide,Greater Adelaide,0.009259259259259259,31 Lower amenity young renters
+31,Elizabeth,Greater Adelaide,0.004629629629629629,31 Lower amenity young renters
+31,Smithfield - Elizabeth North,Greater Adelaide,0.004629629629629629,31 Lower amenity young renters
+31,Glenelg (SA),Greater Adelaide,0.004629629629629629,31 Lower amenity young renters
+31,Woodridge,Greater Brisbane,0.008333333333333333,31 Lower amenity young renters
+31,Eagleby,Greater Brisbane,0.007407407407407408,31 Lower amenity young renters
+31,Redbank Plains,Greater Brisbane,0.006481481481481481,31 Lower amenity young renters
+31,Caboolture - South,Greater Brisbane,0.006481481481481481,31 Lower amenity young renters
+31,Stuart Park,Greater Darwin,0.000925925925925926,31 Lower amenity young renters
+31,Nightcliff,Greater Darwin,0.000925925925925926,31 Lower amenity young renters
+31,Glenorchy,Greater Hobart,0.002777777777777778,31 Lower amenity young renters
+31,Hobart,Greater Hobart,0.002777777777777778,31 Lower amenity young renters
+31,Rokeby,Greater Hobart,0.001851851851851852,31 Lower amenity young renters
+31,Risdon Vale,Greater Hobart,0.000925925925925926,31 Lower amenity young renters
+31,Frankston,Greater Melbourne,0.011111111111111112,31 Lower amenity young renters
+31,Hastings - Somers,Greater Melbourne,0.003703703703703704,31 Lower amenity young renters
+31,Heidelberg West,Greater Melbourne,0.002777777777777778,31 Lower amenity young renters
+31,Preston - East,Greater Melbourne,0.002777777777777778,31 Lower amenity young renters
+31,Mandurah,Greater Perth,0.008333333333333333,31 Lower amenity young renters
+31,Maylands,Greater Perth,0.003703703703703704,31 Lower amenity young renters
+31,Belmont - Ascot - Redcliffe,Greater Perth,0.003703703703703704,31 Lower amenity young renters
+31,Armadale - Wungong - Brookdale,Greater Perth,0.002777777777777778,31 Lower amenity young renters
+31,Penrith,Greater Sydney,0.008333333333333333,31 Lower amenity young renters
+31,Gosford - Springfield,Greater Sydney,0.007407407407407408,31 Lower amenity young renters
+31,Kingswood - Werrington,Greater Sydney,0.006481481481481481,31 Lower amenity young renters
+31,Fairfield,Greater Sydney,0.005555555555555556,31 Lower amenity young renters
+31,Armidale,Rest of NSW,0.008333333333333333,31 Lower amenity young renters
+31,Bathurst - South,Rest of NSW,0.005555555555555556,31 Lower amenity young renters
+31,Coffs Harbour - South,Rest of NSW,0.004629629629629629,31 Lower amenity young renters
+31,Warilla,Rest of NSW,0.004629629629629629,31 Lower amenity young renters
+31,Katherine,Rest of NT,0.005555555555555556,31 Lower amenity young renters
+31,Nhulunbuy,Rest of NT,0.004629629629629629,31 Lower amenity young renters
+31,Mount Johns,Rest of NT,0.001851851851851852,31 Lower amenity young renters
+31,Alligator,Rest of NT,0.001851851851851852,31 Lower amenity young renters
+31,Broadsound - Nebo,Rest of Qld,0.012962962962962963,31 Lower amenity young renters
+31,Labrador,Rest of Qld,0.012037037037037037,31 Lower amenity young renters
+31,Maroochydore - Kuluin,Rest of Qld,0.009259259259259259,31 Lower amenity young renters
+31,Coomera,Rest of Qld,0.007407407407407408,31 Lower amenity young renters
+31,Murray Bridge,Rest of SA,0.003703703703703704,31 Lower amenity young renters
+31,Whyalla,Rest of SA,0.002777777777777778,31 Lower amenity young renters
+31,Roxby Downs,Rest of SA,0.002777777777777778,31 Lower amenity young renters
+31,Port Pirie,Rest of SA,0.001851851851851852,31 Lower amenity young renters
+31,Launceston,Rest of Tas.,0.001851851851851852,31 Lower amenity young renters
+31,Invermay,Rest of Tas.,0.000925925925925926,31 Lower amenity young renters
+31,Mowbray,Rest of Tas.,0.000925925925925926,31 Lower amenity young renters
+31,South Launceston,Rest of Tas.,0.000925925925925926,31 Lower amenity young renters
+31,Mildura - North,Rest of Vic.,0.006481481481481481,31 Lower amenity young renters
+31,Shepparton - North,Rest of Vic.,0.005555555555555556,31 Lower amenity young renters
+31,Bendigo,Rest of Vic.,0.003703703703703704,31 Lower amenity young renters
+31,Corio - Lovely Banks,Rest of Vic.,0.003703703703703704,31 Lower amenity young renters
+31,South Hedland,Rest of WA,0.012037037037037037,31 Lower amenity young renters
+31,Karratha,Rest of WA,0.011111111111111112,31 Lower amenity young renters
+31,Ashburton (WA),Rest of WA,0.010185185185185186,31 Lower amenity young renters
+31,Newman,Rest of WA,0.006481481481481481,31 Lower amenity young renters
+32,Belconnen,Australian Capital Territory,0.0014388489208633094,32 Public housing
+32,Spence,Australian Capital Territory,0.0014388489208633094,32 Public housing
+32,Lyneham,Australian Capital Territory,0.0014388489208633094,32 Public housing
+32,Narrabundah,Australian Capital Territory,0.0014388489208633094,32 Public housing
+32,The Parks,Greater Adelaide,0.010071942446043165,32 Public housing
+32,Enfield - Blair Athol,Greater Adelaide,0.007194244604316547,32 Public housing
+32,North Haven,Greater Adelaide,0.0057553956834532375,32 Public housing
+32,Elizabeth,Greater Adelaide,0.004316546762589928,32 Public housing
+32,Inala - Richlands,Greater Brisbane,0.011510791366906475,32 Public housing
+32,Mount Gravatt,Greater Brisbane,0.0057553956834532375,32 Public housing
+32,Rocklea - Acacia Ridge,Greater Brisbane,0.004316546762589928,32 Public housing
+32,Deception Bay,Greater Brisbane,0.004316546762589928,32 Public housing
+32,Darwin City,Greater Darwin,0.0014388489208633094,32 Public housing
+32,Moulden,Greater Darwin,0.0014388489208633094,32 Public housing
+32,Bridgewater - Gagebrook,Greater Hobart,0.008633093525179856,32 Public housing
+32,Rokeby,Greater Hobart,0.0057553956834532375,32 Public housing
+32,Glenorchy,Greater Hobart,0.0014388489208633094,32 Public housing
+32,New Norfolk,Greater Hobart,0.0014388489208633094,32 Public housing
+32,Richmond - North,Greater Melbourne,0.008633093525179856,32 Public housing
+32,Ascot Vale,Greater Melbourne,0.0057553956834532375,32 Public housing
+32,Carlton,Greater Melbourne,0.0057553956834532375,32 Public housing
+32,North Melbourne,Greater Melbourne,0.0057553956834532375,32 Public housing
+32,Bentley - Wilson - St James,Greater Perth,0.0028776978417266188,32 Public housing
+32,Fremantle,Greater Perth,0.0028776978417266188,32 Public housing
+32,Willagee,Greater Perth,0.0028776978417266188,32 Public housing
+32,Subiaco - Shenton Park,Greater Perth,0.0014388489208633094,32 Public housing
+32,Lethbridge Park - Tregear,Greater Sydney,0.02877697841726619,32 Public housing
+32,Ashcroft - Busby - Miller,Greater Sydney,0.027338129496402876,32 Public housing
+32,Bidwill - Hebersham - Emerton,Greater Sydney,0.014388489208633094,32 Public housing
+32,Ermington - Rydalmere,Greater Sydney,0.014388489208633094,32 Public housing
+32,Warilla,Rest of NSW,0.012949640287769784,32 Public housing
+32,Goulburn,Rest of NSW,0.007194244604316547,32 Public housing
+32,Unanderra - Mount Kembla,Rest of NSW,0.007194244604316547,32 Public housing
+32,Berkeley - Lake Heights - Cringila,Rest of NSW,0.007194244604316547,32 Public housing
+32,East Side,Rest of NT,0.0014388489208633094,32 Public housing
+32,Sandover - Plenty,Rest of NT,0.0014388489208633094,32 Public housing
+32,Biloela,Rest of Qld,0.0028776978417266188,32 Public housing
+32,Garbutt - West End,Rest of Qld,0.0028776978417266188,32 Public housing
+32,Clinton - New Auckland,Rest of Qld,0.0014388489208633094,32 Public housing
+32,Nerang - Mount Nathan,Rest of Qld,0.0014388489208633094,32 Public housing
+32,Whyalla,Rest of SA,0.017266187050359712,32 Public housing
+32,Port Lincoln,Rest of SA,0.0057553956834532375,32 Public housing
+32,Port Augusta,Rest of SA,0.0057553956834532375,32 Public housing
+32,Mount Gambier - East,Rest of SA,0.0057553956834532375,32 Public housing
+32,Ravenswood,Rest of Tas.,0.0028776978417266188,32 Public housing
+32,East Devonport,Rest of Tas.,0.0028776978417266188,32 Public housing
+32,Invermay,Rest of Tas.,0.0014388489208633094,32 Public housing
+32,Newnham - Mayfield,Rest of Tas.,0.0014388489208633094,32 Public housing
+32,Wendouree - Miners Rest,Rest of Vic.,0.0057553956834532375,32 Public housing
+32,Corio - Lovely Banks,Rest of Vic.,0.0057553956834532375,32 Public housing
+32,Norlane,Rest of Vic.,0.0057553956834532375,32 Public housing
+32,Shepparton - North,Rest of Vic.,0.0057553956834532375,32 Public housing
+32,Kununurra,Rest of WA,0.0028776978417266188,32 Public housing
+32,Withers - Usher,Rest of WA,0.0014388489208633094,32 Public housing
+32,Katanning,Rest of WA,0.0014388489208633094,32 Public housing
+32,McKail - Willyung,Rest of WA,0.0014388489208633094,32 Public housing
+33,Calwell,Australian Capital Territory,0.0010449320794148381,33 Anglo blue collar regional towns and fringe suburbs
+33,Gawler - North,Greater Adelaide,0.00522466039707419,33 Anglo blue collar regional towns and fringe suburbs
+33,Lobethal - Woodside,Greater Adelaide,0.0041797283176593526,33 Anglo blue collar regional towns and fringe suburbs
+33,Mount Barker,Greater Adelaide,0.0041797283176593526,33 Anglo blue collar regional towns and fringe suburbs
+33,Mount Barker Surrounds,Greater Adelaide,0.0041797283176593526,33 Anglo blue collar regional towns and fringe suburbs
+33,Lockyer Valley - East,Greater Brisbane,0.011494252873563218,33 Anglo blue collar regional towns and fringe suburbs
+33,Rosewood,Greater Brisbane,0.009404388714733543,33 Anglo blue collar regional towns and fringe suburbs
+33,The Hills District,Greater Brisbane,0.006269592476489028,33 Anglo blue collar regional towns and fringe suburbs
+33,Raceview,Greater Brisbane,0.00522466039707419,33 Anglo blue collar regional towns and fringe suburbs
+33,Howard Springs,Greater Darwin,0.0010449320794148381,33 Anglo blue collar regional towns and fringe suburbs
+33,Cambridge,Greater Hobart,0.003134796238244514,33 Anglo blue collar regional towns and fringe suburbs
+33,Austins Ferry - Granton,Greater Hobart,0.0020898641588296763,33 Anglo blue collar regional towns and fringe suburbs
+33,Margate - Snug,Greater Hobart,0.0020898641588296763,33 Anglo blue collar regional towns and fringe suburbs
+33,Brighton - Pontville,Greater Hobart,0.0010449320794148381,33 Anglo blue collar regional towns and fringe suburbs
+33,Langwarrin,Greater Melbourne,0.009404388714733543,33 Anglo blue collar regional towns and fringe suburbs
+33,Yarra Valley,Greater Melbourne,0.008359456635318705,33 Anglo blue collar regional towns and fringe suburbs
+33,Somerville,Greater Melbourne,0.008359456635318705,33 Anglo blue collar regional towns and fringe suburbs
+33,Wandin - Seville,Greater Melbourne,0.0073145245559038665,33 Anglo blue collar regional towns and fringe suburbs
+33,Picton - Tahmoor - Buxton,Greater Sydney,0.01671891327063741,33 Anglo blue collar regional towns and fringe suburbs
+33,Kurrajong Heights - Ebenezer,Greater Sydney,0.011494252873563218,33 Anglo blue collar regional towns and fringe suburbs
+33,Windsor - Bligh Park,Greater Sydney,0.011494252873563218,33 Anglo blue collar regional towns and fringe suburbs
+33,Bateau Bay - Killarney Vale,Greater Sydney,0.009404388714733543,33 Anglo blue collar regional towns and fringe suburbs
+33,Singleton,Rest of NSW,0.017763845350052248,33 Anglo blue collar regional towns and fringe suburbs
+33,Williamtown - Medowie - Karuah,Rest of NSW,0.012539184952978056,33 Anglo blue collar regional towns and fringe suburbs
+33,Thornton - Millers Forest,Rest of NSW,0.011494252873563218,33 Anglo blue collar regional towns and fringe suburbs
+33,Albion Park - Macquarie Pass,Rest of NSW,0.011494252873563218,33 Anglo blue collar regional towns and fringe suburbs
+33,Burdell - Mount Low,Rest of Qld,0.013584117032392894,33 Anglo blue collar regional towns and fringe suburbs
+33,Gladstone Hinterland,Rest of Qld,0.009404388714733543,33 Anglo blue collar regional towns and fringe suburbs
+33,Bohle Plains,Rest of Qld,0.009404388714733543,33 Anglo blue collar regional towns and fringe suburbs
+33,Andergrove - Beaconsfield,Rest of Qld,0.0073145245559038665,33 Anglo blue collar regional towns and fringe suburbs
+33,Light,Rest of SA,0.0041797283176593526,33 Anglo blue collar regional towns and fringe suburbs
+33,Mount Gambier - East,Rest of SA,0.0041797283176593526,33 Anglo blue collar regional towns and fringe suburbs
+33,Port Augusta,Rest of SA,0.003134796238244514,33 Anglo blue collar regional towns and fringe suburbs
+33,Port Lincoln,Rest of SA,0.0020898641588296763,33 Anglo blue collar regional towns and fringe suburbs
+33,Perth - Evandale,Rest of Tas.,0.003134796238244514,33 Anglo blue collar regional towns and fringe suburbs
+33,Hadspen - Carrick,Rest of Tas.,0.0020898641588296763,33 Anglo blue collar regional towns and fringe suburbs
+33,Southern Midlands,Rest of Tas.,0.0020898641588296763,33 Anglo blue collar regional towns and fringe suburbs
+33,Riverside,Rest of Tas.,0.0010449320794148381,33 Anglo blue collar regional towns and fringe suburbs
+33,Bannockburn,Rest of Vic.,0.006269592476489028,33 Anglo blue collar regional towns and fringe suburbs
+33,Wendouree - Miners Rest,Rest of Vic.,0.00522466039707419,33 Anglo blue collar regional towns and fringe suburbs
+33,Golden Plains - South,Rest of Vic.,0.00522466039707419,33 Anglo blue collar regional towns and fringe suburbs
+33,Kilmore - Broadford,Rest of Vic.,0.00522466039707419,33 Anglo blue collar regional towns and fringe suburbs
+33,Busselton - West,Rest of WA,0.0010449320794148381,33 Anglo blue collar regional towns and fringe suburbs
+33,Capel,Rest of WA,0.0010449320794148381,33 Anglo blue collar regional towns and fringe suburbs
+33,Collie,Rest of WA,0.0010449320794148381,33 Anglo blue collar regional towns and fringe suburbs
+33,Eaton - Pelican Point,Rest of WA,0.0010449320794148381,33 Anglo blue collar regional towns and fringe suburbs
+34,Adelaide Hills,Greater Adelaide,0.004895960832313341,"34 Regional lifestyle high school families, older parents"
+34,North Haven,Greater Adelaide,0.004895960832313341,"34 Regional lifestyle high school families, older parents"
+34,Lobethal - Woodside,Greater Adelaide,0.0036719706242350062,"34 Regional lifestyle high school families, older parents"
+34,Gawler - North,Greater Adelaide,0.0036719706242350062,"34 Regional lifestyle high school families, older parents"
+34,Lowood,Greater Brisbane,0.004895960832313341,"34 Regional lifestyle high school families, older parents"
+34,Cashmere,Greater Brisbane,0.0036719706242350062,"34 Regional lifestyle high school families, older parents"
+34,Lockyer Valley - East,Greater Brisbane,0.0024479804161566705,"34 Regional lifestyle high school families, older parents"
+34,Rosewood,Greater Brisbane,0.0024479804161566705,"34 Regional lifestyle high school families, older parents"
+34,Howard Springs,Greater Darwin,0.0012239902080783353,"34 Regional lifestyle high school families, older parents"
+34,Howrah - Tranmere,Greater Hobart,0.0024479804161566705,"34 Regional lifestyle high school families, older parents"
+34,Old Beach - Otago,Greater Hobart,0.0012239902080783353,"34 Regional lifestyle high school families, older parents"
+34,Cambridge,Greater Hobart,0.0012239902080783353,"34 Regional lifestyle high school families, older parents"
+34,Berriedale - Chigwell,Greater Hobart,0.0012239902080783353,"34 Regional lifestyle high school families, older parents"
+34,Healesville - Yarra Glen,Greater Melbourne,0.01346389228886169,"34 Regional lifestyle high school families, older parents"
+34,Yarra Valley,Greater Melbourne,0.008567931456548347,"34 Regional lifestyle high school families, older parents"
+34,Hastings - Somers,Greater Melbourne,0.0073439412484700125,"34 Regional lifestyle high school families, older parents"
+34,Romsey,Greater Melbourne,0.006119951040391677,"34 Regional lifestyle high school families, older parents"
+34,Mandurah - East,Greater Perth,0.0012239902080783353,"34 Regional lifestyle high school families, older parents"
+34,Middle Swan - Herne Hill,Greater Perth,0.0012239902080783353,"34 Regional lifestyle high school families, older parents"
+34,Mount Nasura - Mount Richon - Bedfordale,Greater Perth,0.0012239902080783353,"34 Regional lifestyle high school families, older parents"
+34,Mundijong,Greater Perth,0.0012239902080783353,"34 Regional lifestyle high school families, older parents"
+34,Springwood - Winmalee,Greater Sydney,0.01346389228886169,"34 Regional lifestyle high school families, older parents"
+34,Engadine,Greater Sydney,0.011015911872705019,"34 Regional lifestyle high school families, older parents"
+34,Blaxland - Warrimoo - Lapstone,Greater Sydney,0.008567931456548347,"34 Regional lifestyle high school families, older parents"
+34,Lawson - Hazelbrook - Linden,Greater Sydney,0.006119951040391677,"34 Regional lifestyle high school families, older parents"
+34,Dapto - Avondale,Rest of NSW,0.011015911872705019,"34 Regional lifestyle high school families, older parents"
+34,Williamtown - Medowie - Karuah,Rest of NSW,0.0073439412484700125,"34 Regional lifestyle high school families, older parents"
+34,Belmont - Bennetts Green,Rest of NSW,0.0073439412484700125,"34 Regional lifestyle high school families, older parents"
+34,Glendale - Cardiff - Hillsborough,Rest of NSW,0.0073439412484700125,"34 Regional lifestyle high school families, older parents"
+34,Noosa Hinterland,Rest of Qld,0.006119951040391677,"34 Regional lifestyle high school families, older parents"
+34,Gympie Surrounds,Rest of Qld,0.006119951040391677,"34 Regional lifestyle high school families, older parents"
+34,Highfields,Rest of Qld,0.004895960832313341,"34 Regional lifestyle high school families, older parents"
+34,Atherton,Rest of Qld,0.0036719706242350062,"34 Regional lifestyle high school families, older parents"
+34,Barossa - Angaston,Rest of SA,0.0024479804161566705,"34 Regional lifestyle high school families, older parents"
+34,Port Pirie,Rest of SA,0.0024479804161566705,"34 Regional lifestyle high school families, older parents"
+34,Port Augusta,Rest of SA,0.0024479804161566705,"34 Regional lifestyle high school families, older parents"
+34,Mount Gambier - East,Rest of SA,0.0024479804161566705,"34 Regional lifestyle high school families, older parents"
+34,Penguin - Sulphur Creek,Rest of Tas.,0.004895960832313341,"34 Regional lifestyle high school families, older parents"
+34,Youngtown - Relbia,Rest of Tas.,0.0024479804161566705,"34 Regional lifestyle high school families, older parents"
+34,Westbury,Rest of Tas.,0.0024479804161566705,"34 Regional lifestyle high school families, older parents"
+34,Perth - Evandale,Rest of Tas.,0.0024479804161566705,"34 Regional lifestyle high school families, older parents"
+34,Ocean Grove,Rest of Vic.,0.009791921664626682,"34 Regional lifestyle high school families, older parents"
+34,Warragul,Rest of Vic.,0.008567931456548347,"34 Regional lifestyle high school families, older parents"
+34,Yallourn North - Glengarry,Rest of Vic.,0.0073439412484700125,"34 Regional lifestyle high school families, older parents"
+34,Maffra,Rest of Vic.,0.0073439412484700125,"34 Regional lifestyle high school families, older parents"
+34,Collie,Rest of WA,0.004895960832313341,"34 Regional lifestyle high school families, older parents"
+34,Esperance,Rest of WA,0.0036719706242350062,"34 Regional lifestyle high school families, older parents"
+34,Busselton - West,Rest of WA,0.0024479804161566705,"34 Regional lifestyle high school families, older parents"
+34,Capel,Rest of WA,0.0024479804161566705,"34 Regional lifestyle high school families, older parents"
+35,West Lakes,Greater Adelaide,0.004956629491945477,"35 Regional outskirts, aging couples and alt lifestylers"
+35,St Agnes - Ridgehaven,Greater Adelaide,0.0024783147459727386,"35 Regional outskirts, aging couples and alt lifestylers"
+35,McLaren Vale,Greater Adelaide,0.0024783147459727386,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Seaton - Grange,Greater Adelaide,0.0024783147459727386,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Bribie Island,Greater Brisbane,0.012391573729863693,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Boonah,Greater Brisbane,0.0024783147459727386,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Esk,Greater Brisbane,0.0024783147459727386,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Beachmere - Sandstone Point,Greater Brisbane,0.0024783147459727386,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Howard Springs,Greater Darwin,0.0012391573729863693,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Bellerive - Rosny,Greater Hobart,0.0012391573729863693,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Howrah - Tranmere,Greater Hobart,0.0012391573729863693,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Sorell - Richmond,Greater Hobart,0.0012391573729863693,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Rosebud - McCrae,Greater Melbourne,0.008674101610904586,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Dromana,Greater Melbourne,0.006195786864931847,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Hastings - Somers,Greater Melbourne,0.0037174721189591076,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Beaumaris,Greater Melbourne,0.0024783147459727386,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Mandurah - East,Greater Perth,0.004956629491945477,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Halls Head - Erskine,Greater Perth,0.0037174721189591076,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Mandurah - South,Greater Perth,0.0024783147459727386,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Mullaloo - Kallaroo,Greater Perth,0.0024783147459727386,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Blaxland - Warrimoo - Lapstone,Greater Sydney,0.0037174721189591076,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Umina - Booker Bay - Patonga,Greater Sydney,0.0024783147459727386,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Blackheath - Megalong Valley,Greater Sydney,0.0024783147459727386,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Emu Plains - Leonay,Greater Sydney,0.0024783147459727386,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Laurieton - Bonny Hills,Rest of NSW,0.01486988847583643,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Broken Hill,Rest of NSW,0.012391573729863693,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Ulladulla,Rest of NSW,0.011152416356877323,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Maclean - Yamba - Iluka,Rest of NSW,0.008674101610904586,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Golden Beach - Pelican Waters,Rest of Qld,0.007434944237918215,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Cooloola,Rest of Qld,0.007434944237918215,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Caloundra Hinterland,Rest of Qld,0.006195786864931847,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Torquay - Scarness - Kawungan,Rest of Qld,0.006195786864931847,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Goolwa - Port Elliot,Rest of SA,0.004956629491945477,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Peterborough - Mount Remarkable,Rest of SA,0.0037174721189591076,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Jamestown,Rest of SA,0.0024783147459727386,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Moonta,Rest of SA,0.0024783147459727386,"35 Regional outskirts, aging couples and alt lifestylers"
+35,West Coast (Tas.),Rest of Tas.,0.004956629491945477,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Riverside,Rest of Tas.,0.0024783147459727386,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Trevallyn,Rest of Tas.,0.0024783147459727386,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Deloraine,Rest of Tas.,0.0024783147459727386,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Clifton Springs,Rest of Vic.,0.009913258983890954,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Wonthaggi - Inverloch,Rest of Vic.,0.009913258983890954,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Corangamite - South,Rest of Vic.,0.006195786864931847,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Creswick - Clunes,Rest of Vic.,0.004956629491945477,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Australind - Leschenault,Rest of WA,0.0037174721189591076,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Collie,Rest of WA,0.0024783147459727386,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Bridgetown - Boyup Brook,Rest of WA,0.0024783147459727386,"35 Regional outskirts, aging couples and alt lifestylers"
+35,Margaret River,Rest of WA,0.0012391573729863693,"35 Regional outskirts, aging couples and alt lifestylers"
+36,Gawler - South,Greater Adelaide,0.0020107238605898124,"36 Aging anglo country towns, comfortable"
+36,Lobethal - Woodside,Greater Adelaide,0.0006702412868632708,"36 Aging anglo country towns, comfortable"
+36,Brassall,Greater Brisbane,0.004021447721179625,"36 Aging anglo country towns, comfortable"
+36,Rosewood,Greater Brisbane,0.003351206434316354,"36 Aging anglo country towns, comfortable"
+36,Ipswich - East,Greater Brisbane,0.002680965147453083,"36 Aging anglo country towns, comfortable"
+36,Raceview,Greater Brisbane,0.002680965147453083,"36 Aging anglo country towns, comfortable"
+36,Risdon Vale,Greater Hobart,0.002680965147453083,"36 Aging anglo country towns, comfortable"
+36,New Norfolk,Greater Hobart,0.002680965147453083,"36 Aging anglo country towns, comfortable"
+36,Brighton - Pontville,Greater Hobart,0.0006702412868632708,"36 Aging anglo country towns, comfortable"
+36,Geilston Bay - Risdon,Greater Hobart,0.0006702412868632708,"36 Aging anglo country towns, comfortable"
+36,Rosebud - McCrae,Greater Melbourne,0.0020107238605898124,"36 Aging anglo country towns, comfortable"
+36,Whittlesea,Greater Melbourne,0.0013404825737265416,"36 Aging anglo country towns, comfortable"
+36,Bunyip - Garfield,Greater Melbourne,0.0013404825737265416,"36 Aging anglo country towns, comfortable"
+36,Bacchus Marsh,Greater Melbourne,0.0013404825737265416,"36 Aging anglo country towns, comfortable"
+36,Bateau Bay - Killarney Vale,Greater Sydney,0.006032171581769437,"36 Aging anglo country towns, comfortable"
+36,Toukley - Norah Head,Greater Sydney,0.004691689008042895,"36 Aging anglo country towns, comfortable"
+36,Blue Haven - San Remo,Greater Sydney,0.004021447721179625,"36 Aging anglo country towns, comfortable"
+36,Gorokan - Kanwal - Charmhaven,Greater Sydney,0.002680965147453083,"36 Aging anglo country towns, comfortable"
+36,Cessnock,Rest of NSW,0.01876675603217158,"36 Aging anglo country towns, comfortable"
+36,Grafton,Rest of NSW,0.01675603217158177,"36 Aging anglo country towns, comfortable"
+36,Broken Hill,Rest of NSW,0.014745308310991957,"36 Aging anglo country towns, comfortable"
+36,Kurri Kurri - Abermain,Rest of NSW,0.013404825737265416,"36 Aging anglo country towns, comfortable"
+36,Maryborough (Qld),Rest of Qld,0.014745308310991957,"36 Aging anglo country towns, comfortable"
+36,Warwick,Rest of Qld,0.011394101876675604,"36 Aging anglo country towns, comfortable"
+36,Gympie - North,Rest of Qld,0.00804289544235925,"36 Aging anglo country towns, comfortable"
+36,Wilsonton,Rest of Qld,0.004691689008042895,"36 Aging anglo country towns, comfortable"
+36,Port Pirie,Rest of SA,0.012734584450402145,"36 Aging anglo country towns, comfortable"
+36,Nuriootpa,Rest of SA,0.004691689008042895,"36 Aging anglo country towns, comfortable"
+36,Port Lincoln,Rest of SA,0.004691689008042895,"36 Aging anglo country towns, comfortable"
+36,Tanunda,Rest of SA,0.0020107238605898124,"36 Aging anglo country towns, comfortable"
+36,Devonport,Rest of Tas.,0.006702412868632708,"36 Aging anglo country towns, comfortable"
+36,Ulverstone,Rest of Tas.,0.004691689008042895,"36 Aging anglo country towns, comfortable"
+36,George Town,Rest of Tas.,0.002680965147453083,"36 Aging anglo country towns, comfortable"
+36,Longford,Rest of Tas.,0.002680965147453083,"36 Aging anglo country towns, comfortable"
+36,Wangaratta,Rest of Vic.,0.010053619302949061,"36 Aging anglo country towns, comfortable"
+36,Warrnambool - North,Rest of Vic.,0.010053619302949061,"36 Aging anglo country towns, comfortable"
+36,West Wodonga,Rest of Vic.,0.007372654155495978,"36 Aging anglo country towns, comfortable"
+36,Maffra,Rest of Vic.,0.006702412868632708,"36 Aging anglo country towns, comfortable"
+36,Collie,Rest of WA,0.003351206434316354,"36 Aging anglo country towns, comfortable"
+36,Busselton - West,Rest of WA,0.0013404825737265416,"36 Aging anglo country towns, comfortable"
+36,McKail - Willyung,Rest of WA,0.0006702412868632708,"36 Aging anglo country towns, comfortable"
+36,Northam,Rest of WA,0.0006702412868632708,"36 Aging anglo country towns, comfortable"
+37,Mount Barker,Greater Adelaide,0.006172839506172839,37 Aging country town with signs of change
+37,Largs Bay - Semaphore,Greater Adelaide,0.0016835016835016834,37 Aging country town with signs of change
+37,Gawler - South,Greater Adelaide,0.0005611672278338945,37 Aging country town with signs of change
+37,Golden Grove,Greater Adelaide,0.0005611672278338945,37 Aging country town with signs of change
+37,Caboolture - South,Greater Brisbane,0.003928170594837262,37 Aging country town with signs of change
+37,Beaudesert,Greater Brisbane,0.003367003367003367,37 Aging country town with signs of change
+37,Brassall,Greater Brisbane,0.0028058361391694723,37 Aging country town with signs of change
+37,Ipswich - East,Greater Brisbane,0.0028058361391694723,37 Aging country town with signs of change
+37,Rokeby,Greater Hobart,0.0028058361391694723,37 Aging country town with signs of change
+37,Berriedale - Chigwell,Greater Hobart,0.001122334455667789,37 Aging country town with signs of change
+37,New Norfolk,Greater Hobart,0.001122334455667789,37 Aging country town with signs of change
+37,Old Beach - Otago,Greater Hobart,0.0005611672278338945,37 Aging country town with signs of change
+37,Bacchus Marsh,Greater Melbourne,0.005050505050505051,37 Aging country town with signs of change
+37,Rosebud - McCrae,Greater Melbourne,0.003367003367003367,37 Aging country town with signs of change
+37,Sunbury - South,Greater Melbourne,0.002244668911335578,37 Aging country town with signs of change
+37,Yarra Valley,Greater Melbourne,0.0016835016835016834,37 Aging country town with signs of change
+37,Greenfields,Greater Perth,0.002244668911335578,37 Aging country town with signs of change
+37,Mandurah,Greater Perth,0.0005611672278338945,37 Aging country town with signs of change
+37,Mandurah - South,Greater Perth,0.0005611672278338945,37 Aging country town with signs of change
+37,Umina - Booker Bay - Patonga,Greater Sydney,0.007295173961840628,37 Aging country town with signs of change
+37,Richmond - Clarendon,Greater Sydney,0.006172839506172839,37 Aging country town with signs of change
+37,Gorokan - Kanwal - Charmhaven,Greater Sydney,0.005050505050505051,37 Aging country town with signs of change
+37,The Entrance,Greater Sydney,0.004489337822671156,37 Aging country town with signs of change
+37,Goulburn,Rest of NSW,0.013468013468013467,37 Aging country town with signs of change
+37,Orange,Rest of NSW,0.010101010101010102,37 Aging country town with signs of change
+37,Dapto - Avondale,Rest of NSW,0.009539842873176206,37 Aging country town with signs of change
+37,Lismore,Rest of NSW,0.009539842873176206,37 Aging country town with signs of change
+37,Wambo,Rest of Qld,0.007856341189674524,37 Aging country town with signs of change
+37,Andergrove - Beaconsfield,Rest of Qld,0.005611672278338945,37 Aging country town with signs of change
+37,Toowoomba - Central,Rest of Qld,0.005050505050505051,37 Aging country town with signs of change
+37,Wilsonton,Rest of Qld,0.005050505050505051,37 Aging country town with signs of change
+37,Mount Gambier - West,Rest of SA,0.006734006734006734,37 Aging country town with signs of change
+37,Murray Bridge,Rest of SA,0.006172839506172839,37 Aging country town with signs of change
+37,Port Lincoln,Rest of SA,0.005611672278338945,37 Aging country town with signs of change
+37,Port Pirie,Rest of SA,0.003928170594837262,37 Aging country town with signs of change
+37,Devonport,Rest of Tas.,0.006172839506172839,37 Aging country town with signs of change
+37,South Launceston,Rest of Tas.,0.002244668911335578,37 Aging country town with signs of change
+37,Kings Meadows - Punchbowl,Rest of Tas.,0.0016835016835016834,37 Aging country town with signs of change
+37,George Town,Rest of Tas.,0.0016835016835016834,37 Aging country town with signs of change
+37,Geelong West - Hamlyn Heights,Rest of Vic.,0.008417508417508417,37 Aging country town with signs of change
+37,Moe - Newborough,Rest of Vic.,0.008417508417508417,37 Aging country town with signs of change
+37,Wangaratta,Rest of Vic.,0.007295173961840628,37 Aging country town with signs of change
+37,Bairnsdale,Rest of Vic.,0.006734006734006734,37 Aging country town with signs of change
+37,Northam,Rest of WA,0.005611672278338945,37 Aging country town with signs of change
+37,Geraldton,Rest of WA,0.005050505050505051,37 Aging country town with signs of change
+37,Albany,Rest of WA,0.003367003367003367,37 Aging country town with signs of change
+37,Esperance,Rest of WA,0.003367003367003367,37 Aging country town with signs of change
+38,Bruce,Australian Capital Territory,0.0008628127696289905,38 Primarily coastal retirement and struggling youth
+38,Canberra East,Australian Capital Territory,0.0008628127696289905,38 Primarily coastal retirement and struggling youth
+38,Isabella Plains,Australian Capital Territory,0.0008628127696289905,38 Primarily coastal retirement and struggling youth
+38,Hope Valley - Modbury,Greater Adelaide,0.001725625539257981,38 Primarily coastal retirement and struggling youth
+38,Mount Barker,Greater Adelaide,0.0008628127696289905,38 Primarily coastal retirement and struggling youth
+38,Goodwood - Millswood,Greater Adelaide,0.0008628127696289905,38 Primarily coastal retirement and struggling youth
+38,Gawler - South,Greater Adelaide,0.0008628127696289905,38 Primarily coastal retirement and struggling youth
+38,Bribie Island,Greater Brisbane,0.010353753235547885,38 Primarily coastal retirement and struggling youth
+38,Cleveland,Greater Brisbane,0.004314063848144953,38 Primarily coastal retirement and struggling youth
+38,Scarborough - Newport,Greater Brisbane,0.004314063848144953,38 Primarily coastal retirement and struggling youth
+38,Rothwell - Kippa-Ring,Greater Brisbane,0.003451251078515962,38 Primarily coastal retirement and struggling youth
+38,Bellerive - Rosny,Greater Hobart,0.001725625539257981,38 Primarily coastal retirement and struggling youth
+38,Howrah - Tranmere,Greater Hobart,0.0008628127696289905,38 Primarily coastal retirement and struggling youth
+38,Lindisfarne - Rose Bay,Greater Hobart,0.0008628127696289905,38 Primarily coastal retirement and struggling youth
+38,Glenorchy,Greater Hobart,0.0008628127696289905,38 Primarily coastal retirement and struggling youth
+38,Rosebud - McCrae,Greater Melbourne,0.014667817083692839,38 Primarily coastal retirement and struggling youth
+38,Berwick - North,Greater Melbourne,0.003451251078515962,38 Primarily coastal retirement and struggling youth
+38,Mornington - West,Greater Melbourne,0.0025884383088869713,38 Primarily coastal retirement and struggling youth
+38,Whittlesea,Greater Melbourne,0.001725625539257981,38 Primarily coastal retirement and struggling youth
+38,Mandurah - South,Greater Perth,0.0025884383088869713,38 Primarily coastal retirement and struggling youth
+38,Greenfields,Greater Perth,0.001725625539257981,38 Primarily coastal retirement and struggling youth
+38,Mandurah,Greater Perth,0.001725625539257981,38 Primarily coastal retirement and struggling youth
+38,Pinjarra,Greater Perth,0.001725625539257981,38 Primarily coastal retirement and struggling youth
+38,Umina - Booker Bay - Patonga,Greater Sydney,0.008628127696289905,38 Primarily coastal retirement and struggling youth
+38,Erina - Green Point,Greater Sydney,0.003451251078515962,38 Primarily coastal retirement and struggling youth
+38,Woy Woy - Blackwall,Greater Sydney,0.003451251078515962,38 Primarily coastal retirement and struggling youth
+38,Katoomba - Leura,Greater Sydney,0.003451251078515962,38 Primarily coastal retirement and struggling youth
+38,Nelson Bay Peninsula,Rest of NSW,0.01725625539257981,38 Primarily coastal retirement and struggling youth
+38,Port Macquarie - West,Rest of NSW,0.012079378774805867,38 Primarily coastal retirement and struggling youth
+38,Maclean - Yamba - Iluka,Rest of NSW,0.010353753235547885,38 Primarily coastal retirement and struggling youth
+38,Laurieton - Bonny Hills,Rest of NSW,0.008628127696289905,38 Primarily coastal retirement and struggling youth
+38,Pialba - Eli Waters,Rest of Qld,0.008628127696289905,38 Primarily coastal retirement and struggling youth
+38,Tewantin,Rest of Qld,0.0060396893874029335,38 Primarily coastal retirement and struggling youth
+38,Nanango,Rest of Qld,0.0060396893874029335,38 Primarily coastal retirement and struggling youth
+38,Urangan - Wondunna,Rest of Qld,0.0060396893874029335,38 Primarily coastal retirement and struggling youth
+38,Victor Harbor,Rest of SA,0.0060396893874029335,38 Primarily coastal retirement and struggling youth
+38,Goolwa - Port Elliot,Rest of SA,0.005176876617773943,38 Primarily coastal retirement and struggling youth
+38,Coober Pedy,Rest of SA,0.0025884383088869713,38 Primarily coastal retirement and struggling youth
+38,The Coorong,Rest of SA,0.0025884383088869713,38 Primarily coastal retirement and struggling youth
+38,West Coast (Tas.),Rest of Tas.,0.004314063848144953,38 Primarily coastal retirement and struggling youth
+38,Deloraine,Rest of Tas.,0.001725625539257981,38 Primarily coastal retirement and struggling youth
+38,Launceston,Rest of Tas.,0.0008628127696289905,38 Primarily coastal retirement and struggling youth
+38,Newnham - Mayfield,Rest of Tas.,0.0008628127696289905,38 Primarily coastal retirement and struggling youth
+38,Wonthaggi - Inverloch,Rest of Vic.,0.010353753235547885,38 Primarily coastal retirement and struggling youth
+38,Lakes Entrance,Rest of Vic.,0.008628127696289905,38 Primarily coastal retirement and struggling youth
+38,Morwell,Rest of Vic.,0.008628127696289905,38 Primarily coastal retirement and struggling youth
+38,Stawell,Rest of Vic.,0.0060396893874029335,38 Primarily coastal retirement and struggling youth
+38,Albany,Rest of WA,0.008628127696289905,38 Primarily coastal retirement and struggling youth
+38,Bridgetown - Boyup Brook,Rest of WA,0.003451251078515962,38 Primarily coastal retirement and struggling youth
+38,Busselton - West,Rest of WA,0.0025884383088869713,38 Primarily coastal retirement and struggling youth
+38,Cunderdin,Rest of WA,0.0025884383088869713,38 Primarily coastal retirement and struggling youth
+39,Enfield - Blair Athol,Greater Adelaide,0.008403361344537815,"39 Poultry, horses and other livestock"
+39,Lowood,Greater Brisbane,0.01680672268907563,"39 Poultry, horses and other livestock"
+39,Woodford - D'Aguilar,Greater Brisbane,0.01680672268907563,"39 Poultry, horses and other livestock"
+39,Sunnybank Hills,Greater Brisbane,0.008403361344537815,"39 Poultry, horses and other livestock"
+39,Boonah,Greater Brisbane,0.008403361344537815,"39 Poultry, horses and other livestock"
+39,Macedon,Greater Melbourne,0.008403361344537815,"39 Poultry, horses and other livestock"
+39,Vermont,Greater Melbourne,0.008403361344537815,"39 Poultry, horses and other livestock"
+39,Yarra Valley,Greater Melbourne,0.008403361344537815,"39 Poultry, horses and other livestock"
+39,Pearcedale - Tooradin,Greater Melbourne,0.008403361344537815,"39 Poultry, horses and other livestock"
+39,Chidlow,Greater Perth,0.008403361344537815,"39 Poultry, horses and other livestock"
+39,Landsdale,Greater Perth,0.008403361344537815,"39 Poultry, horses and other livestock"
+39,Lesmurdie - Bickley - Carmel,Greater Perth,0.008403361344537815,"39 Poultry, horses and other livestock"
+39,Picton - Tahmoor - Buxton,Greater Sydney,0.025210084033613446,"39 Poultry, horses and other livestock"
+39,Kurrajong Heights - Ebenezer,Greater Sydney,0.008403361344537815,"39 Poultry, horses and other livestock"
+39,Richmond - Clarendon,Greater Sydney,0.008403361344537815,"39 Poultry, horses and other livestock"
+39,Yarramundi - Londonderry,Greater Sydney,0.008403361344537815,"39 Poultry, horses and other livestock"
+39,Bulahdelah - Stroud,Rest of NSW,0.025210084033613446,"39 Poultry, horses and other livestock"
+39,Goulburn,Rest of NSW,0.01680672268907563,"39 Poultry, horses and other livestock"
+39,Forbes,Rest of NSW,0.01680672268907563,"39 Poultry, horses and other livestock"
+39,Cobar,Rest of NSW,0.01680672268907563,"39 Poultry, horses and other livestock"
+39,Pittsworth,Rest of Qld,0.025210084033613446,"39 Poultry, horses and other livestock"
+39,Millmerran,Rest of Qld,0.01680672268907563,"39 Poultry, horses and other livestock"
+39,Lockyer Valley - West,Rest of Qld,0.01680672268907563,"39 Poultry, horses and other livestock"
+39,Inglewood - Waggamba,Rest of Qld,0.008403361344537815,"39 Poultry, horses and other livestock"
+39,Murray Bridge,Rest of SA,0.01680672268907563,"39 Poultry, horses and other livestock"
+39,The Coorong,Rest of SA,0.01680672268907563,"39 Poultry, horses and other livestock"
+39,Light,Rest of SA,0.008403361344537815,"39 Poultry, horses and other livestock"
+39,Mallala,Rest of SA,0.008403361344537815,"39 Poultry, horses and other livestock"
+39,Nhill Region,Rest of Vic.,0.025210084033613446,"39 Poultry, horses and other livestock"
+39,St Arnaud,Rest of Vic.,0.025210084033613446,"39 Poultry, horses and other livestock"
+39,Shepparton - South East,Rest of Vic.,0.025210084033613446,"39 Poultry, horses and other livestock"
+39,Euroa,Rest of Vic.,0.01680672268907563,"39 Poultry, horses and other livestock"
+39,Narrogin,Rest of WA,0.03361344537815126,"39 Poultry, horses and other livestock"
+39,Busselton Surrounds,Rest of WA,0.008403361344537815,"39 Poultry, horses and other livestock"
+39,Plantagenet,Rest of WA,0.008403361344537815,"39 Poultry, horses and other livestock"
+39,Gingin - Dandaragan,Rest of WA,0.008403361344537815,"39 Poultry, horses and other livestock"
+40,Paralowie,Greater Adelaide,0.026936026936026935,"40 Horticulture, flowers, turf and aquaculture"
+40,Salisbury North,Greater Adelaide,0.020202020202020204,"40 Horticulture, flowers, turf and aquaculture"
+40,Parafield Gardens,Greater Adelaide,0.016835016835016835,"40 Horticulture, flowers, turf and aquaculture"
+40,Mawson Lakes - Globe Derby Park,Greater Adelaide,0.016835016835016835,"40 Horticulture, flowers, turf and aquaculture"
+40,Lockyer Valley - East,Greater Brisbane,0.020202020202020204,"40 Horticulture, flowers, turf and aquaculture"
+40,Lowood,Greater Brisbane,0.010101010101010102,"40 Horticulture, flowers, turf and aquaculture"
+40,Greenbank - North Maclean,Greater Brisbane,0.006734006734006734,"40 Horticulture, flowers, turf and aquaculture"
+40,Pallara - Willawong,Greater Brisbane,0.003367003367003367,"40 Horticulture, flowers, turf and aquaculture"
+40,Humpty Doo,Greater Darwin,0.003367003367003367,"40 Horticulture, flowers, turf and aquaculture"
+40,Weddell,Greater Darwin,0.003367003367003367,"40 Horticulture, flowers, turf and aquaculture"
+40,Kingston Beach - Blackmans Bay,Greater Hobart,0.003367003367003367,"40 Horticulture, flowers, turf and aquaculture"
+40,Werribee - South,Greater Melbourne,0.016835016835016835,"40 Horticulture, flowers, turf and aquaculture"
+40,Cranbourne,Greater Melbourne,0.006734006734006734,"40 Horticulture, flowers, turf and aquaculture"
+40,Hoppers Crossing - South,Greater Melbourne,0.006734006734006734,"40 Horticulture, flowers, turf and aquaculture"
+40,Werribee - West,Greater Melbourne,0.006734006734006734,"40 Horticulture, flowers, turf and aquaculture"
+40,Marangaroo,Greater Perth,0.013468013468013467,"40 Horticulture, flowers, turf and aquaculture"
+40,Madeley - Darch,Greater Perth,0.006734006734006734,"40 Horticulture, flowers, turf and aquaculture"
+40,Mundaring,Greater Perth,0.003367003367003367,"40 Horticulture, flowers, turf and aquaculture"
+40,Ballajura,Greater Perth,0.003367003367003367,"40 Horticulture, flowers, turf and aquaculture"
+40,Kurrajong Heights - Ebenezer,Greater Sydney,0.026936026936026935,"40 Horticulture, flowers, turf and aquaculture"
+40,Austral - Greendale,Greater Sydney,0.016835016835016835,"40 Horticulture, flowers, turf and aquaculture"
+40,Dural - Kenthurst - Wisemans Ferry,Greater Sydney,0.013468013468013467,"40 Horticulture, flowers, turf and aquaculture"
+40,Pitt Town - McGraths Hill,Greater Sydney,0.010101010101010102,"40 Horticulture, flowers, turf and aquaculture"
+40,Merimbula - Tura Beach,Rest of NSW,0.010101010101010102,"40 Horticulture, flowers, turf and aquaculture"
+40,Ballina Surrounds,Rest of NSW,0.010101010101010102,"40 Horticulture, flowers, turf and aquaculture"
+40,Grafton Surrounds,Rest of NSW,0.006734006734006734,"40 Horticulture, flowers, turf and aquaculture"
+40,Woolgoolga - Arrawarra,Rest of NSW,0.006734006734006734,"40 Horticulture, flowers, turf and aquaculture"
+40,Gatton,Rest of Qld,0.03367003367003367,"40 Horticulture, flowers, turf and aquaculture"
+40,Lockyer Valley - West,Rest of Qld,0.020202020202020204,"40 Horticulture, flowers, turf and aquaculture"
+40,Bowen,Rest of Qld,0.016835016835016835,"40 Horticulture, flowers, turf and aquaculture"
+40,Stanthorpe Surrounds,Rest of Qld,0.006734006734006734,"40 Horticulture, flowers, turf and aquaculture"
+40,Port Lincoln,Rest of SA,0.010101010101010102,"40 Horticulture, flowers, turf and aquaculture"
+40,Kimba - Cleve - Franklin Harbour,Rest of SA,0.006734006734006734,"40 Horticulture, flowers, turf and aquaculture"
+40,Lyndoch,Rest of SA,0.003367003367003367,"40 Horticulture, flowers, turf and aquaculture"
+40,Nuriootpa,Rest of SA,0.003367003367003367,"40 Horticulture, flowers, turf and aquaculture"
+40,Scottsdale - Bridport,Rest of Tas.,0.003367003367003367,"40 Horticulture, flowers, turf and aquaculture"
+40,Derwent Valley,Rest of Tas.,0.003367003367003367,"40 Horticulture, flowers, turf and aquaculture"
+40,Southern Midlands,Rest of Tas.,0.003367003367003367,"40 Horticulture, flowers, turf and aquaculture"
+40,Geeveston - Dover,Rest of Tas.,0.003367003367003367,"40 Horticulture, flowers, turf and aquaculture"
+40,Bairnsdale,Rest of Vic.,0.010101010101010102,"40 Horticulture, flowers, turf and aquaculture"
+40,Sale,Rest of Vic.,0.006734006734006734,"40 Horticulture, flowers, turf and aquaculture"
+40,Irymple,Rest of Vic.,0.006734006734006734,"40 Horticulture, flowers, turf and aquaculture"
+40,Merbein,Rest of Vic.,0.006734006734006734,"40 Horticulture, flowers, turf and aquaculture"
+40,Busselton - West,Rest of WA,0.003367003367003367,"40 Horticulture, flowers, turf and aquaculture"
+40,Waroona,Rest of WA,0.003367003367003367,"40 Horticulture, flowers, turf and aquaculture"
+40,Donnybrook - Balingup,Rest of WA,0.003367003367003367,"40 Horticulture, flowers, turf and aquaculture"
+40,Manjimup,Rest of WA,0.003367003367003367,"40 Horticulture, flowers, turf and aquaculture"
+41,Grafton Surrounds,Rest of NSW,0.014925373134328358,41 Cotton and sugar
+41,Maclean - Yamba - Iluka,Rest of NSW,0.007462686567164179,41 Cotton and sugar
+41,Narrabri Surrounds,Rest of NSW,0.007462686567164179,41 Cotton and sugar
+41,Gunnedah Surrounds,Rest of NSW,0.007462686567164179,41 Cotton and sugar
+41,Burdekin,Rest of Qld,0.08208955223880597,41 Cotton and sugar
+41,Tully,Rest of Qld,0.06716417910447761,41 Cotton and sugar
+41,Johnstone,Rest of Qld,0.05970149253731343,41 Cotton and sugar
+41,Walkerston - Eton,Rest of Qld,0.05970149253731343,41 Cotton and sugar
+42,Lobethal - Woodside,Greater Adelaide,0.029850746268656716,42 Viticulture
+42,North Adelaide,Greater Adelaide,0.014925373134328358,42 Viticulture
+42,Mount Barker,Greater Adelaide,0.014925373134328358,42 Viticulture
+42,Rostrevor - Magill,Greater Adelaide,0.014925373134328358,42 Viticulture
+42,Yarra Valley,Greater Melbourne,0.014925373134328358,42 Viticulture
+42,Point Nepean,Greater Melbourne,0.014925373134328358,42 Viticulture
+42,Mornington - East,Greater Melbourne,0.014925373134328358,42 Viticulture
+42,Branxton - Greta - Pokolbin,Rest of NSW,0.04477611940298507,42 Viticulture
+42,Griffith (NSW),Rest of NSW,0.04477611940298507,42 Viticulture
+42,Griffith Surrounds,Rest of NSW,0.04477611940298507,42 Viticulture
+42,Yass Surrounds,Rest of NSW,0.014925373134328358,42 Viticulture
+42,Emerald,Rest of Qld,0.014925373134328358,42 Viticulture
+42,Naracoorte,Rest of SA,0.08955223880597014,42 Viticulture
+42,Barmera,Rest of SA,0.08955223880597014,42 Viticulture
+42,Strathalbyn,Rest of SA,0.05970149253731343,42 Viticulture
+42,Barossa - Angaston,Rest of SA,0.029850746268656716,42 Viticulture
+42,Newnham - Mayfield,Rest of Tas.,0.014925373134328358,42 Viticulture
+42,Mildura - North,Rest of Vic.,0.029850746268656716,42 Viticulture
+42,Mildura - South,Rest of Vic.,0.029850746268656716,42 Viticulture
+42,Castlemaine Surrounds,Rest of Vic.,0.014925373134328358,42 Viticulture
+42,Heathcote,Rest of Vic.,0.014925373134328358,42 Viticulture
+42,Margaret River,Rest of WA,0.05970149253731343,42 Viticulture
+42,Busselton - West,Rest of WA,0.029850746268656716,42 Viticulture
+42,Donnybrook - Balingup,Rest of WA,0.029850746268656716,42 Viticulture
+42,Plantagenet,Rest of WA,0.029850746268656716,42 Viticulture
+43,Uraidla - Summertown,Greater Adelaide,0.008771929824561403,43 Fruit and nut
+43,Lobethal - Woodside,Greater Adelaide,0.0043859649122807015,43 Fruit and nut
+43,Paralowie,Greater Adelaide,0.0043859649122807015,43 Fruit and nut
+43,Pooraka - Cavan,Greater Adelaide,0.0043859649122807015,43 Fruit and nut
+43,Caboolture - South,Greater Brisbane,0.017543859649122806,43 Fruit and nut
+43,Caboolture - East,Greater Brisbane,0.013157894736842105,43 Fruit and nut
+43,Hillcrest,Greater Brisbane,0.0043859649122807015,43 Fruit and nut
+43,Caboolture - West,Greater Brisbane,0.0043859649122807015,43 Fruit and nut
+43,Weddell,Greater Darwin,0.0043859649122807015,43 Fruit and nut
+43,Rosebery - Bellamack,Greater Darwin,0.0043859649122807015,43 Fruit and nut
+43,Sorell - Richmond,Greater Hobart,0.0043859649122807015,43 Fruit and nut
+43,Wandin - Seville,Greater Melbourne,0.013157894736842105,43 Fruit and nut
+43,Yarra Valley,Greater Melbourne,0.008771929824561403,43 Fruit and nut
+43,Panton Hill - St Andrews,Greater Melbourne,0.0043859649122807015,43 Fruit and nut
+43,Campbellfield - Coolaroo,Greater Melbourne,0.0043859649122807015,43 Fruit and nut
+43,Wanneroo - Sinagra,Greater Perth,0.0043859649122807015,43 Fruit and nut
+43,Kalamunda - Maida Vale - Gooseberry Hill,Greater Perth,0.0043859649122807015,43 Fruit and nut
+43,Lesmurdie - Bickley - Carmel,Greater Perth,0.0043859649122807015,43 Fruit and nut
+43,Calga - Kulnura,Greater Sydney,0.0043859649122807015,43 Fruit and nut
+43,The Oaks - Oakdale,Greater Sydney,0.0043859649122807015,43 Fruit and nut
+43,Green Valley,Greater Sydney,0.0043859649122807015,43 Fruit and nut
+43,Griffith (NSW),Rest of NSW,0.039473684210526314,43 Fruit and nut
+43,Woolgoolga - Arrawarra,Rest of NSW,0.03508771929824561,43 Fruit and nut
+43,Coffs Harbour - North,Rest of NSW,0.02631578947368421,43 Fruit and nut
+43,Lismore Surrounds,Rest of NSW,0.02631578947368421,43 Fruit and nut
+43,Mareeba,Rest of Qld,0.03070175438596491,43 Fruit and nut
+43,Tully,Rest of Qld,0.021929824561403508,43 Fruit and nut
+43,Atherton,Rest of Qld,0.021929824561403508,43 Fruit and nut
+43,Gayndah - Mundubbera,Rest of Qld,0.021929824561403508,43 Fruit and nut
+43,Waikerie,Rest of SA,0.02631578947368421,43 Fruit and nut
+43,Barmera,Rest of SA,0.013157894736842105,43 Fruit and nut
+43,Renmark,Rest of SA,0.008771929824561403,43 Fruit and nut
+43,Peterborough - Mount Remarkable,Rest of SA,0.0043859649122807015,43 Fruit and nut
+43,Newnham - Mayfield,Rest of Tas.,0.013157894736842105,43 Fruit and nut
+43,Deloraine,Rest of Tas.,0.0043859649122807015,43 Fruit and nut
+43,Southern Midlands,Rest of Tas.,0.0043859649122807015,43 Fruit and nut
+43,Geeveston - Dover,Rest of Tas.,0.0043859649122807015,43 Fruit and nut
+43,Shepparton - North,Rest of Vic.,0.03508771929824561,43 Fruit and nut
+43,Irymple,Rest of Vic.,0.02631578947368421,43 Fruit and nut
+43,Shepparton - South East,Rest of Vic.,0.02631578947368421,43 Fruit and nut
+43,Mildura - South,Rest of Vic.,0.017543859649122806,43 Fruit and nut
+43,Manjimup,Rest of WA,0.021929824561403508,43 Fruit and nut
+43,Pemberton,Rest of WA,0.008771929824561403,43 Fruit and nut
+43,Busselton Surrounds,Rest of WA,0.0043859649122807015,43 Fruit and nut
+43,Capel,Rest of WA,0.0043859649122807015,43 Fruit and nut
+44,Adelaide Hills,Greater Adelaide,0.0016666666666666668,44 Beef and sheep
+44,Norwood (SA),Greater Adelaide,0.0016666666666666668,44 Beef and sheep
+44,Boonah,Greater Brisbane,0.011666666666666667,44 Beef and sheep
+44,Lowood,Greater Brisbane,0.01,44 Beef and sheep
+44,Lockyer Valley - East,Greater Brisbane,0.008333333333333333,44 Beef and sheep
+44,Esk,Greater Brisbane,0.006666666666666667,44 Beef and sheep
+44,Darwin City,Greater Darwin,0.0016666666666666668,44 Beef and sheep
+44,Bunyip - Garfield,Greater Melbourne,0.005,44 Beef and sheep
+44,Kinglake,Greater Melbourne,0.0016666666666666668,44 Beef and sheep
+44,Wallan,Greater Melbourne,0.0016666666666666668,44 Beef and sheep
+44,Romsey,Greater Melbourne,0.0016666666666666668,44 Beef and sheep
+44,The Oaks - Oakdale,Greater Sydney,0.005,44 Beef and sheep
+44,Picton - Tahmoor - Buxton,Greater Sydney,0.0033333333333333335,44 Beef and sheep
+44,Jilliby - Yarramalong,Greater Sydney,0.0016666666666666668,44 Beef and sheep
+44,Rooty Hill - Minchinbury,Greater Sydney,0.0016666666666666668,44 Beef and sheep
+44,Goulburn Surrounds,Rest of NSW,0.015,44 Beef and sheep
+44,Inverell Surrounds - West,Rest of NSW,0.015,44 Beef and sheep
+44,Cooma,Rest of NSW,0.013333333333333334,44 Beef and sheep
+44,Grafton Surrounds,Rest of NSW,0.013333333333333334,44 Beef and sheep
+44,Ross,Rest of NT,0.0016666666666666668,44 Beef and sheep
+44,Malanda - Yungaburra,Rest of Qld,0.015,44 Beef and sheep
+44,Central Highlands - West,Rest of Qld,0.01,44 Beef and sheep
+44,Banana,Rest of Qld,0.008333333333333333,44 Beef and sheep
+44,Gladstone Hinterland,Rest of Qld,0.008333333333333333,44 Beef and sheep
+44,Quorn - Lake Gilles,Rest of SA,0.008333333333333333,44 Beef and sheep
+44,Light,Rest of SA,0.005,44 Beef and sheep
+44,Millicent,Rest of SA,0.005,44 Beef and sheep
+44,Penola,Rest of SA,0.005,44 Beef and sheep
+44,Scottsdale - Bridport,Rest of Tas.,0.005,44 Beef and sheep
+44,Southern Midlands,Rest of Tas.,0.005,44 Beef and sheep
+44,Sheffield - Railton,Rest of Tas.,0.005,44 Beef and sheep
+44,Deloraine,Rest of Tas.,0.0033333333333333335,44 Beef and sheep
+44,Churchill,Rest of Vic.,0.011666666666666667,44 Beef and sheep
+44,Mansfield (Vic.),Rest of Vic.,0.008333333333333333,44 Beef and sheep
+44,Southern Grampians,Rest of Vic.,0.008333333333333333,44 Beef and sheep
+44,Alexandra,Rest of Vic.,0.005,44 Beef and sheep
+44,Harvey,Rest of WA,0.008333333333333333,44 Beef and sheep
+44,Dardanup,Rest of WA,0.0033333333333333335,44 Beef and sheep
+44,Plantagenet,Rest of WA,0.0033333333333333335,44 Beef and sheep
+44,Bridgetown - Boyup Brook,Rest of WA,0.0016666666666666668,44 Beef and sheep
+45,Hahndorf - Echunga,Greater Adelaide,0.007407407407407408,45 Dairy farms
+45,Boonah,Greater Brisbane,0.022222222222222223,45 Dairy farms
+45,Beaudesert,Greater Brisbane,0.007407407407407408,45 Dairy farms
+45,Kilcoy,Greater Brisbane,0.007407407407407408,45 Dairy farms
+45,Koo Wee Rup,Greater Melbourne,0.014814814814814815,45 Dairy farms
+45,Gloucester,Rest of NSW,0.022222222222222223,45 Dairy farms
+45,Tocumwal - Finley - Jerilderie,Rest of NSW,0.022222222222222223,45 Dairy farms
+45,Bega-Eden Hinterland,Rest of NSW,0.014814814814814815,45 Dairy farms
+45,Dungog,Rest of NSW,0.014814814814814815,45 Dairy farms
+45,Crows Nest - Rosalie,Rest of Qld,0.022222222222222223,45 Dairy farms
+45,Malanda - Yungaburra,Rest of Qld,0.014814814814814815,45 Dairy farms
+45,Gympie - South,Rest of Qld,0.007407407407407408,45 Dairy farms
+45,Gympie Surrounds,Rest of Qld,0.007407407407407408,45 Dairy farms
+45,Lyndoch,Rest of SA,0.007407407407407408,45 Dairy farms
+45,Peterborough - Mount Remarkable,Rest of SA,0.007407407407407408,45 Dairy farms
+45,Strathalbyn Surrounds,Rest of SA,0.007407407407407408,45 Dairy farms
+45,Grant,Rest of SA,0.007407407407407408,45 Dairy farms
+45,Scottsdale - Bridport,Rest of Tas.,0.014814814814814815,45 Dairy farms
+45,Burnie - Ulverstone Surrounds,Rest of Tas.,0.014814814814814815,45 Dairy farms
+45,Sheffield - Railton,Rest of Tas.,0.014814814814814815,45 Dairy farms
+45,Legana,Rest of Tas.,0.007407407407407408,45 Dairy farms
+45,Numurkah,Rest of Vic.,0.05185185185185185,45 Dairy farms
+45,Corangamite - South,Rest of Vic.,0.05185185185185185,45 Dairy farms
+45,Foster,Rest of Vic.,0.037037037037037035,45 Dairy farms
+45,Korumburra,Rest of Vic.,0.02962962962962963,45 Dairy farms
+45,Harvey,Rest of WA,0.022222222222222223,45 Dairy farms
+45,Augusta,Rest of WA,0.007407407407407408,45 Dairy farms
+45,Capel,Rest of WA,0.007407407407407408,45 Dairy farms
+45,Dardanup,Rest of WA,0.007407407407407408,45 Dairy farms
+46,Glenelg (SA),Greater Adelaide,0.0027472527472527475,46 Broadacre crops
+46,Boonah,Greater Brisbane,0.005494505494505495,46 Broadacre crops
+46,Darwin City,Greater Darwin,0.0027472527472527475,46 Broadacre crops
+46,Hillarys,Greater Perth,0.0027472527472527475,46 Broadacre crops
+46,The Oaks - Oakdale,Greater Sydney,0.0027472527472527475,46 Broadacre crops
+46,Wagga Wagga Surrounds,Rest of NSW,0.019230769230769232,46 Broadacre crops
+46,Temora,Rest of NSW,0.016483516483516484,46 Broadacre crops
+46,Forbes,Rest of NSW,0.013736263736263736,46 Broadacre crops
+46,Tocumwal - Finley - Jerilderie,Rest of NSW,0.013736263736263736,46 Broadacre crops
+46,Petermann - Simpson,Rest of NT,0.0027472527472527475,46 Broadacre crops
+46,Elsey,Rest of NT,0.0027472527472527475,46 Broadacre crops
+46,Southern Downs - East,Rest of Qld,0.01098901098901099,46 Broadacre crops
+46,Toowoomba - West,Rest of Qld,0.01098901098901099,46 Broadacre crops
+46,Clifton - Greenmount,Rest of Qld,0.008241758241758242,46 Broadacre crops
+46,Banana,Rest of Qld,0.008241758241758242,46 Broadacre crops
+46,Wakefield - Barunga West,Rest of SA,0.019230769230769232,46 Broadacre crops
+46,Kadina,Rest of SA,0.013736263736263736,46 Broadacre crops
+46,Yorke Peninsula - North,Rest of SA,0.01098901098901099,46 Broadacre crops
+46,Tatiara,Rest of SA,0.01098901098901099,46 Broadacre crops
+46,Westbury,Rest of Tas.,0.0027472527472527475,46 Broadacre crops
+46,Scottsdale - Bridport,Rest of Tas.,0.0027472527472527475,46 Broadacre crops
+46,Nhill Region,Rest of Vic.,0.03296703296703297,46 Broadacre crops
+46,Yarriambiack,Rest of Vic.,0.02197802197802198,46 Broadacre crops
+46,Buloke,Rest of Vic.,0.019230769230769232,46 Broadacre crops
+46,Horsham,Rest of Vic.,0.016483516483516484,46 Broadacre crops
+46,Northam,Rest of WA,0.027472527472527472,46 Broadacre crops
+46,Kulin,Rest of WA,0.02197802197802198,46 Broadacre crops
+46,York - Beverley,Rest of WA,0.019230769230769232,46 Broadacre crops
+46,Morawa,Rest of WA,0.016483516483516484,46 Broadacre crops
+47,Rosewood,Greater Brisbane,0.043478260869565216,47 Mine sites
+47,Banjup,Greater Perth,0.043478260869565216,47 Mine sites
+47,Douglas Park - Appin,Greater Sydney,0.043478260869565216,47 Mine sites
+47,Broken Hill,Rest of NSW,0.08695652173913043,47 Mine sites
+47,Lithgow Surrounds,Rest of NSW,0.043478260869565216,47 Mine sites
+47,Helensburgh,Rest of NSW,0.043478260869565216,47 Mine sites
+47,Central Highlands - West,Rest of Qld,0.08695652173913043,47 Mine sites
+47,Tablelands,Rest of Qld,0.043478260869565216,47 Mine sites
+47,Charters Towers,Rest of Qld,0.043478260869565216,47 Mine sites
+47,Dalrymple,Rest of Qld,0.043478260869565216,47 Mine sites
+47,West Coast (Tas.),Rest of Tas.,0.043478260869565216,47 Mine sites
+47,Loddon,Rest of Vic.,0.043478260869565216,47 Mine sites
+47,Stawell,Rest of Vic.,0.043478260869565216,47 Mine sites
+47,Mukinbudin,Rest of WA,0.08695652173913043,47 Mine sites
+47,Leinster - Leonora,Rest of WA,0.08695652173913043,47 Mine sites
+47,Meekatharra,Rest of WA,0.08695652173913043,47 Mine sites
+47,Ashburton (WA),Rest of WA,0.043478260869565216,47 Mine sites
+48,North Stradbroke Island,Greater Brisbane,0.0029239766081871343,48 Remote Aboriginal communities
+48,Ludmilla - The Narrows,Greater Darwin,0.0029239766081871343,48 Remote Aboriginal communities
+48,Malak - Marrara,Greater Darwin,0.0029239766081871343,48 Remote Aboriginal communities
+48,Gray,Greater Darwin,0.0029239766081871343,48 Remote Aboriginal communities
+48,Malabar - La Perouse,Greater Sydney,0.0029239766081871343,48 Remote Aboriginal communities
+48,Bourke - Brewarrina,Rest of NSW,0.02046783625730994,48 Remote Aboriginal communities
+48,Coonamble,Rest of NSW,0.02046783625730994,48 Remote Aboriginal communities
+48,Kempsey,Rest of NSW,0.02046783625730994,48 Remote Aboriginal communities
+48,Moree,Rest of NSW,0.02046783625730994,48 Remote Aboriginal communities
+48,Katherine,Rest of NT,0.029239766081871343,48 Remote Aboriginal communities
+48,Tanami,Rest of NT,0.02631578947368421,48 Remote Aboriginal communities
+48,Tennant Creek,Rest of NT,0.02631578947368421,48 Remote Aboriginal communities
+48,Gulf,Rest of NT,0.023391812865497075,48 Remote Aboriginal communities
+48,Carpentaria,Rest of Qld,0.017543859649122806,48 Remote Aboriginal communities
+48,Mount Isa,Rest of Qld,0.017543859649122806,48 Remote Aboriginal communities
+48,Cape York,Rest of Qld,0.014619883040935672,48 Remote Aboriginal communities
+48,Mount Isa Surrounds,Rest of Qld,0.011695906432748537,48 Remote Aboriginal communities
+48,APY Lands,Rest of SA,0.023391812865497075,48 Remote Aboriginal communities
+48,Port Augusta,Rest of SA,0.017543859649122806,48 Remote Aboriginal communities
+48,West Coast (SA),Rest of SA,0.005847953216374269,48 Remote Aboriginal communities
+48,Outback,Rest of SA,0.005847953216374269,48 Remote Aboriginal communities
+48,Orbost,Rest of Vic.,0.0029239766081871343,48 Remote Aboriginal communities
+48,Moyne - East,Rest of Vic.,0.0029239766081871343,48 Remote Aboriginal communities
+48,Derby - West Kimberley,Rest of WA,0.05555555555555555,48 Remote Aboriginal communities
+48,Broome,Rest of WA,0.029239766081871343,48 Remote Aboriginal communities
+48,Leinster - Leonora,Rest of WA,0.029239766081871343,48 Remote Aboriginal communities
+48,Kununurra,Rest of WA,0.023391812865497075,48 Remote Aboriginal communities
+49,Taylor,Australian Capital Territory,0.016556291390728478,49 Primarily non residential
+49,Belconnen,Australian Capital Territory,0.006622516556291391,49 Primarily non residential
+49,Majura,Australian Capital Territory,0.006622516556291391,49 Primarily non residential
+49,Harrison,Australian Capital Territory,0.006622516556291391,49 Primarily non residential
+49,Mount Barker,Greater Adelaide,0.016556291390728478,49 Primarily non residential
+49,The Parks,Greater Adelaide,0.009933774834437087,49 Primarily non residential
+49,Adelaide,Greater Adelaide,0.006622516556291391,49 Primarily non residential
+49,Enfield - Blair Athol,Greater Adelaide,0.006622516556291391,49 Primarily non residential
+49,Brassall,Greater Brisbane,0.006622516556291391,49 Primarily non residential
+49,Bribie Island,Greater Brisbane,0.006622516556291391,49 Primarily non residential
+49,Cleveland,Greater Brisbane,0.0033112582781456954,49 Primarily non residential
+49,Redland Bay,Greater Brisbane,0.0033112582781456954,49 Primarily non residential
+49,Berrimah,Greater Darwin,0.0033112582781456954,49 Primarily non residential
+49,Wagaman,Greater Darwin,0.0033112582781456954,49 Primarily non residential
+49,Cambridge,Greater Hobart,0.0033112582781456954,49 Primarily non residential
+49,Melbourne CBD - West,Greater Melbourne,0.016556291390728478,49 Primarily non residential
+49,Oakleigh - Huntingdale,Greater Melbourne,0.009933774834437087,49 Primarily non residential
+49,Skye - Sandhurst,Greater Melbourne,0.009933774834437087,49 Primarily non residential
+49,Kingsbury,Greater Melbourne,0.006622516556291391,49 Primarily non residential
+49,Pinjarra,Greater Perth,0.006622516556291391,49 Primarily non residential
+49,Perth (West) - Northbridge,Greater Perth,0.006622516556291391,49 Primarily non residential
+49,Forrestfield - Wattle Grove,Greater Perth,0.006622516556291391,49 Primarily non residential
+49,Rockingham,Greater Perth,0.006622516556291391,49 Primarily non residential
+49,Asquith - Mount Colah,Greater Sydney,0.013245033112582781,49 Primarily non residential
+49,Sydney (South) - Haymarket,Greater Sydney,0.009933774834437087,49 Primarily non residential
+49,Bankstown - South,Greater Sydney,0.009933774834437087,49 Primarily non residential
+49,Campbelltown - Woodbine,Greater Sydney,0.009933774834437087,49 Primarily non residential
+49,Walgett - Lightning Ridge,Rest of NSW,0.009933774834437087,49 Primarily non residential
+49,Jindabyne - Berridale,Rest of NSW,0.006622516556291391,49 Primarily non residential
+49,Goulburn,Rest of NSW,0.006622516556291391,49 Primarily non residential
+49,Far West,Rest of NSW,0.006622516556291391,49 Primarily non residential
+49,Petermann - Simpson,Rest of NT,0.006622516556291391,49 Primarily non residential
+49,Ross,Rest of NT,0.0033112582781456954,49 Primarily non residential
+49,Sandover - Plenty,Rest of NT,0.0033112582781456954,49 Primarily non residential
+49,Tanami,Rest of NT,0.0033112582781456954,49 Primarily non residential
+49,Daintree,Rest of Qld,0.0033112582781456954,49 Primarily non residential
+49,Roma Surrounds,Rest of Qld,0.0033112582781456954,49 Primarily non residential
+49,Wambo,Rest of Qld,0.0033112582781456954,49 Primarily non residential
+49,Rockhampton - West,Rest of Qld,0.0033112582781456954,49 Primarily non residential
+49,Barmera,Rest of SA,0.006622516556291391,49 Primarily non residential
+49,Outback,Rest of SA,0.0033112582781456954,49 Primarily non residential
+49,Roxby Downs,Rest of SA,0.0033112582781456954,49 Primarily non residential
+49,Mount Gambier - East,Rest of SA,0.0033112582781456954,49 Primarily non residential
+49,Buninyong,Rest of Vic.,0.0033112582781456954,49 Primarily non residential
+49,Lara,Rest of Vic.,0.0033112582781456954,49 Primarily non residential
+49,Churchill,Rest of Vic.,0.0033112582781456954,49 Primarily non residential
+49,Morawa,Rest of WA,0.006622516556291391,49 Primarily non residential
+49,Margaret River,Rest of WA,0.0033112582781456954,49 Primarily non residential
+49,Busselton - West,Rest of WA,0.0033112582781456954,49 Primarily non residential
+49,Narrogin,Rest of WA,0.0033112582781456954,49 Primarily non residential
+50,Mandurah - North,Greater Perth,0.003816793893129771,50 Sparsely populated remote and rural
+50,Carramar,Greater Perth,0.003816793893129771,50 Sparsely populated remote and rural
+50,Condobolin,Rest of NSW,0.011450381679389313,50 Sparsely populated remote and rural
+50,Grafton,Rest of NSW,0.011450381679389313,50 Sparsely populated remote and rural
+50,Sawtell - Boambee,Rest of NSW,0.011450381679389313,50 Sparsely populated remote and rural
+50,Bathurst - West,Rest of NSW,0.007633587786259542,50 Sparsely populated remote and rural
+50,Mount Johns,Rest of NT,0.003816793893129771,50 Sparsely populated remote and rural
+50,Sandover - Plenty,Rest of NT,0.003816793893129771,50 Sparsely populated remote and rural
+50,Tanami,Rest of NT,0.003816793893129771,50 Sparsely populated remote and rural
+50,Tennant Creek,Rest of NT,0.003816793893129771,50 Sparsely populated remote and rural
+50,Johnstone,Rest of Qld,0.007633587786259542,50 Sparsely populated remote and rural
+50,Wambo,Rest of Qld,0.007633587786259542,50 Sparsely populated remote and rural
+50,Biloela,Rest of Qld,0.007633587786259542,50 Sparsely populated remote and rural
+50,Currumbin Waters,Rest of Qld,0.007633587786259542,50 Sparsely populated remote and rural
+50,Whyalla,Rest of SA,0.011450381679389313,50 Sparsely populated remote and rural
+50,APY Lands,Rest of SA,0.011450381679389313,50 Sparsely populated remote and rural
+50,Goyder,Rest of SA,0.003816793893129771,50 Sparsely populated remote and rural
+50,Port Pirie,Rest of SA,0.003816793893129771,50 Sparsely populated remote and rural
+50,West Coast (Tas.),Rest of Tas.,0.011450381679389313,50 Sparsely populated remote and rural
+50,Mowbray,Rest of Tas.,0.003816793893129771,50 Sparsely populated remote and rural
+50,Newnham - Mayfield,Rest of Tas.,0.003816793893129771,50 Sparsely populated remote and rural
+50,Beauty Point - Beaconsfield,Rest of Tas.,0.003816793893129771,50 Sparsely populated remote and rural
+50,North Geelong - Bell Park,Rest of Vic.,0.007633587786259542,50 Sparsely populated remote and rural
+50,Bright - Mount Beauty,Rest of Vic.,0.007633587786259542,50 Sparsely populated remote and rural
+50,Mount Baw Baw Region,Rest of Vic.,0.007633587786259542,50 Sparsely populated remote and rural
+50,Echuca,Rest of Vic.,0.007633587786259542,50 Sparsely populated remote and rural
+50,Collie,Rest of WA,0.026717557251908396,50 Sparsely populated remote and rural
+50,Derby - West Kimberley,Rest of WA,0.015267175572519083,50 Sparsely populated remote and rural
+50,Kalgoorlie - North,Rest of WA,0.011450381679389313,50 Sparsely populated remote and rural
+50,Donnybrook - Balingup,Rest of WA,0.007633587786259542,50 Sparsely populated remote and rural
