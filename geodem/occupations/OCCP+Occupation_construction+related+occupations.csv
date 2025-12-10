@@ -1,0 +1,75 @@
+FactTableCode,FactTableName,FieldCode,FieldName,ValueSetCode,ValueSetName,ValueCode,ValueName,GroupName
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,133000,"Construction, Distribution and Production Managers nfd",construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,133100,Construction Managers nfd,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,133111,Construction Project Manager,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,133112,Project Builder,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,232000,"Architects, Designers, Planners and Surveyors nfd",construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,232100,Architects and Landscape Architects nfd,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,232111,Architect,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,232112,Landscape Architect,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,232200,Surveyors and Spatial Scientists nfd,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,232212,Surveyor,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,232213,Cartographer,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,232214,Other Spatial Scientist,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,232611,Urban and Regional Planner,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,312000,Building and Engineering Technicians nfd,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,312100,"Architectural, Building and Surveying Technicians nfd",construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,312111,Architectural Draftsperson,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,312112,Building Associate,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,312113,Building Inspector,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,312114,Construction Estimator,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,312115,Plumbing Inspector,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,312116,Surveying or Spatial Science Technician,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,312199,"Architectural, Building and Surveying Technicians nec",construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,312200,Civil Engineering Draftspersons and Technicians nfd,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,312211,Civil Engineering Draftsperson,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,312212,Civil Engineering Technician,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,330000,Construction Trades Workers nfd,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,331000,"Bricklayers, and Carpenters and Joiners nfd",construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,331100,Bricklayers and Stonemasons nfd,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,331111,Bricklayer,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,331112,Stonemason,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,331211,Carpenter and Joiner,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,331212,Carpenter,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,331213,Joiner,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,332000,Floor Finishers and Painting Trades Workers nfd,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,332111,Floor Finisher,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,332211,Painting Trades Worker,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,333000,"Glaziers, Plasterers and Tilers nfd",construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,333111,Glazier,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,333200,Plasterers nfd,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,333211,Fibrous Plasterer,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,333212,Solid Plasterer,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,333311,Roof Tiler,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,333411,Wall and Floor Tiler,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,334100,Plumbers nfd,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,334111,Plumber (General),construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,334112,Airconditioning and Mechanical Services Plumber,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,334113,Drainer,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,334114,Gasfitter,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,334115,Roof Plumber,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,394111,Cabinetmaker,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,721200,Earthmoving Plant Operators nfd,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,721211,Earthmoving Plant Operator (General),construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,721212,Backhoe Operator,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,721213,Bulldozer Operator,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,721214,Excavator Operator,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,721215,Grader Operator,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,721216,Loader Operator,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,821100,Building and Plumbing Labourers nfd,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,821111,Builder's Labourer,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,821112,"Drainage, Sewerage and Stormwater Labourer",construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,821113,Earthmoving Labourer,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,821114,Plumber's Assistant,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,821211,Concreter,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,821311,Fencer,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,821400,Insulation and Home Improvement Installers nfd,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,821411,Building Insulation Installer,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,821412,Home Improvement Installer,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,821511,Paving and Surfacing Labourer,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,821714,Structural Steel Erector,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,821713,Steel Fixer,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,821712,Scaffolder,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,821711,Construction Rigger,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,821700,Structural Steel Construction Workers nfd,construction related occupations
+Person Records,Person Records,2416234,OCCP Occupation,2416234_BASE6,2416234_BASE6,821911,Crane Chaser,construction related occupations
