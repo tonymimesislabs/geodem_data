@@ -22,7 +22,7 @@ The "Professionals" category is **significantly over-represented** in North Sydn
 
 ### 4. **Technology & Creative Professionals** (2.6x - 2.3x expected rate)
 - Software Engineers (503 workers), Marketing Specialists (637 workers), Management Consultants (539 workers)
-- **Indicates**: Modern knowledge economy with tech companies, advertising agencies, and consulting firms
+- **Indicates**: Modern knowledge economy with tech companies and creative agencies
 
 ## Most Under-Represented Occupations
 
@@ -36,4 +36,4 @@ The "Professionals" category is **significantly over-represented** in North Sydn
 - **Indicates**: These roles are typically concentrated in local government areas with more industrial or residential focus
 
 ## Summary
-North Sydney's professional occupation profile reveals a sophisticated urban economy centered on high-value services including finance, law, technology, and specialized medicine. The concentration of corporate professionals and medical specialists reflects its role as both a major business district and a premium healthcare hub serving Sydney's affluent northern suburbs. The relative scarcity of education and community service professionals suggests a commercial rather than residential character, typical of a CBD-adjacent business district.
+North Sydney's professional occupation profile reveals a sophisticated urban economy dominated by high-value knowledge work, particularly in finance, law, technology, and specialized medicine. The concentration of corporate headquarters, major law firms, and specialist medical practices reflects its role as a premium business district serving Sydney's broader metropolitan area, while the relative scarcity of education and community service roles suggests most residents commute here for work rather than live here permanently.
